@@ -9,14 +9,14 @@
     "top_viewed": [
       {
         "symbol": "AMD",
-        "count": 9
+        "count": 10
       },
       {
         "symbol": "AAPL",
-        "count": 4
+        "count": 5
       }
     ],
-    "signal_count": 23,
+    "signal_count": 25,
     "note_zh": "已记录选股习惯信号，后续将用于个性化决策推荐（尚未启用）。",
     "note_en": "Selection-habit signals stored for future personalized decision prompts (not active yet)."
   }

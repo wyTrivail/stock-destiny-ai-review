@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "updated_at": "2026-08-08T03:26:43.799974+00:00",
-  "updated_at_display": "2026年8月7日 20:26 (PT)",
-  "market_vibe": "今日市场土气厚重，NXPI、EA、BEN 热度较高。",
+  "updated_at": "2026-08-08T04:10:12.272128+00:00",
+  "updated_at_display": "2026年8月7日 21:10 (PT)",
+  "market_vibe": "今日市场土气厚重，CMG、FCX、FITB 热度较高。",
   "hot_analyses": {
     "date": "2026-08-08",
     "as_of": "2026-08-08",
@@ -1187,10 +1187,10 @@
             "reversal": 29.0
           },
           "objective_indices": {
-            "wealth": 85.0,
+            "wealth": 85.1,
             "momentum": 90.0,
-            "risk": 79.7,
-            "popularity": 54.3,
+            "risk": 79.8,
+            "popularity": 54.6,
             "reversal": 35.7,
             "stable": 13.4
           },
@@ -1258,21 +1258,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 65.6,
+          "composite_score": 66.8,
           "change_pct": 7.16,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 67.0,
-            "momentum": 85.0,
+            "wealth": 70.0,
+            "momentum": 87.0,
             "risk": 56.0,
             "popularity": 90.0,
             "reversal": 20.0
           },
           "objective_indices": {
-            "wealth": 79.0,
+            "wealth": 79.9,
             "momentum": 82.6,
             "risk": 49.8,
-            "popularity": 82.2,
+            "popularity": 84.3,
             "reversal": 24.2,
             "stable": 50.4
           },
@@ -1298,22 +1298,22 @@
               "水": 52.4
             }
           },
-          "stars": 3,
-          "composite_score": 49.5,
+          "stars": 4,
+          "composite_score": 50.7,
           "change_pct": 1.37,
           "one_liner": "水势平稳，宜耐心观察，忌急躁出手。",
           "indices": {
-            "wealth": 63.0,
-            "momentum": 66.0,
+            "wealth": 66.0,
+            "momentum": 68.0,
             "risk": 64.0,
             "popularity": 38.0,
             "reversal": 28.0
           },
           "objective_indices": {
-            "wealth": 76.8,
+            "wealth": 77.3,
             "momentum": 81.2,
-            "risk": 56.1,
-            "popularity": 46.3,
+            "risk": 56.2,
+            "popularity": 48.5,
             "reversal": 36.1,
             "stable": 37.5
           },
@@ -1340,21 +1340,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 72.5,
+          "composite_score": 72.8,
           "change_pct": 2.42,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
             "wealth": 93.0,
-            "momentum": 95.0,
+            "momentum": 96.0,
             "risk": 62.0,
             "popularity": 81.0,
             "reversal": 24.0
           },
           "objective_indices": {
-            "wealth": 76.2,
+            "wealth": 76.4,
             "momentum": 75.3,
-            "risk": 66.7,
-            "popularity": 84.5,
+            "risk": 66.6,
+            "popularity": 84.9,
             "reversal": 31.9,
             "stable": 34.5
           },
@@ -1394,7 +1394,7 @@
           "objective_indices": {
             "wealth": 75.4,
             "momentum": 75.4,
-            "risk": 51.0,
+            "risk": 51.2,
             "popularity": 84.9,
             "reversal": 23.1,
             "stable": 51.1
@@ -1422,23 +1422,64 @@
             }
           },
           "stars": 4,
-          "composite_score": 54.6,
+          "composite_score": 54.9,
           "change_pct": 6.42,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 67.0,
+            "wealth": 68.0,
             "momentum": 76.0,
             "risk": 75.0,
             "popularity": 54.0,
             "reversal": 29.0
           },
           "objective_indices": {
-            "wealth": 74.7,
+            "wealth": 75.0,
             "momentum": 77.1,
             "risk": 72.8,
-            "popularity": 54.5,
+            "popularity": 55.1,
             "reversal": 36.3,
             "stable": 24.2
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "FOXA",
+          "name": "Fox Corporation (Class A)",
+          "name_zh": "Fox Corporation (Class A)",
+          "primary_element": {
+            "primary": "土",
+            "emoji": "🟫",
+            "icon_char": "土",
+            "icon_color": "#b8893d",
+            "icon_fg": "#ffffff",
+            "label": "土厚",
+            "distribution": {
+              "木": 0.0,
+              "火": 0.0,
+              "土": 40.3,
+              "金": 23.8,
+              "水": 35.9
+            }
+          },
+          "stars": 5,
+          "composite_score": 63.2,
+          "change_pct": 3.63,
+          "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
+          "indices": {
+            "wealth": 67.0,
+            "momentum": 74.0,
+            "risk": 36.0,
+            "popularity": 76.0,
+            "reversal": 21.0
+          },
+          "objective_indices": {
+            "wealth": 74.7,
+            "momentum": 75.1,
+            "risk": 41.7,
+            "popularity": 76.0,
+            "reversal": 29.1,
+            "stable": 55.9
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -1474,53 +1515,12 @@
             "reversal": 27.0
           },
           "objective_indices": {
-            "wealth": 74.4,
+            "wealth": 74.5,
             "momentum": 76.4,
             "risk": 60.6,
-            "popularity": 60.8,
+            "popularity": 61.2,
             "reversal": 34.0,
             "stable": 34.1
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "FOXA",
-          "name": "Fox Corporation (Class A)",
-          "name_zh": "Fox Corporation (Class A)",
-          "primary_element": {
-            "primary": "土",
-            "emoji": "🟫",
-            "icon_char": "土",
-            "icon_color": "#b8893d",
-            "icon_fg": "#ffffff",
-            "label": "土厚",
-            "distribution": {
-              "木": 0.0,
-              "火": 0.0,
-              "土": 40.3,
-              "金": 23.8,
-              "水": 35.9
-            }
-          },
-          "stars": 5,
-          "composite_score": 63.0,
-          "change_pct": 3.63,
-          "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
-          "indices": {
-            "wealth": 66.0,
-            "momentum": 74.0,
-            "risk": 36.0,
-            "popularity": 76.0,
-            "reversal": 21.0
-          },
-          "objective_indices": {
-            "wealth": 74.4,
-            "momentum": 75.1,
-            "risk": 41.7,
-            "popularity": 75.4,
-            "reversal": 29.1,
-            "stable": 55.9
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -1545,21 +1545,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 63.0,
+          "composite_score": 64.0,
           "change_pct": 2.82,
           "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
           "indices": {
-            "wealth": 66.0,
-            "momentum": 75.0,
+            "wealth": 69.0,
+            "momentum": 76.0,
             "risk": 43.0,
             "popularity": 84.0,
             "reversal": 16.0
           },
           "objective_indices": {
-            "wealth": 73.3,
+            "wealth": 73.8,
             "momentum": 74.6,
             "risk": 29.8,
-            "popularity": 79.3,
+            "popularity": 80.6,
             "reversal": 16.8,
             "stable": 66.2
           },
@@ -1567,83 +1567,42 @@
           "horizon": "day"
         },
         {
-          "symbol": "NUE",
-          "name": "Nucor",
-          "name_zh": "Nucor",
+          "symbol": "ADSK",
+          "name": "Autodesk",
+          "name_zh": "Autodesk",
           "primary_element": {
-            "primary": "木",
-            "emoji": "🌳",
-            "icon_char": "木",
-            "icon_color": "#3d9970",
+            "primary": "火",
+            "emoji": "🔥",
+            "icon_char": "火",
+            "icon_color": "#e8524a",
             "icon_fg": "#ffffff",
-            "label": "木旺",
-            "distribution": {
-              "木": 73.3,
-              "火": 0.0,
-              "土": 10.3,
-              "金": 16.4,
-              "水": 0.0
-            }
-          },
-          "stars": 3,
-          "composite_score": 49.8,
-          "change_pct": 0.23,
-          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-          "indices": {
-            "wealth": 48.0,
-            "momentum": 60.0,
-            "risk": 42.0,
-            "popularity": 56.0,
-            "reversal": 19.0
-          },
-          "objective_indices": {
-            "wealth": 72.2,
-            "momentum": 75.4,
-            "risk": 36.4,
-            "popularity": 54.2,
-            "reversal": 23.0,
-            "stable": 59.9
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "REGN",
-          "name": "Regeneron Pharmaceuticals",
-          "name_zh": "Regeneron Pharmaceuticals",
-          "primary_element": {
-            "primary": "土",
-            "emoji": "🟫",
-            "icon_char": "土",
-            "icon_color": "#b8893d",
-            "icon_fg": "#ffffff",
-            "label": "土厚",
+            "label": "火旺",
             "distribution": {
               "木": 0.0,
-              "火": 0.0,
-              "土": 66.7,
-              "金": 33.3,
-              "水": 0.0
+              "火": 52.4,
+              "土": 7.3,
+              "金": 2.9,
+              "水": 37.4
             }
           },
-          "stars": 5,
-          "composite_score": 58.8,
-          "change_pct": 1.59,
+          "stars": 4,
+          "composite_score": 52.6,
+          "change_pct": 2.73,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 50.0,
-            "momentum": 59.0,
-            "risk": 37.0,
-            "popularity": 98.0,
-            "reversal": 17.0
+            "wealth": 55.0,
+            "momentum": 61.0,
+            "risk": 53.0,
+            "popularity": 65.0,
+            "reversal": 24.0
           },
           "objective_indices": {
-            "wealth": 72.1,
-            "momentum": 73.9,
-            "risk": 24.2,
-            "popularity": 81.0,
-            "reversal": 17.3,
-            "stable": 72.4
+            "wealth": 72.7,
+            "momentum": 75.3,
+            "risk": 49.6,
+            "popularity": 59.8,
+            "reversal": 29.8,
+            "stable": 46.3
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -1679,10 +1638,10 @@
             "reversal": 21.0
           },
           "objective_indices": {
-            "wealth": 72.0,
+            "wealth": 72.1,
             "momentum": 74.1,
             "risk": 40.5,
-            "popularity": 47.5,
+            "popularity": 47.7,
             "reversal": 28.7,
             "stable": 55.8
           },
@@ -1690,9 +1649,9 @@
           "horizon": "day"
         },
         {
-          "symbol": "CVNA",
-          "name": "Carvana",
-          "name_zh": "Carvana",
+          "symbol": "BAX",
+          "name": "Baxter International",
+          "name_zh": "Baxter International",
           "primary_element": {
             "primary": "土",
             "emoji": "🟫",
@@ -1702,30 +1661,30 @@
             "label": "土厚",
             "distribution": {
               "木": 0.0,
-              "火": 33.3,
-              "土": 54.3,
-              "金": 0.0,
-              "水": 12.3
+              "火": 0.0,
+              "土": 50.3,
+              "金": 49.7,
+              "水": 0.0
             }
           },
           "stars": 4,
-          "composite_score": 53.6,
-          "change_pct": 3.67,
+          "composite_score": 52.8,
+          "change_pct": 2.0,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 65.0,
-            "momentum": 77.0,
-            "risk": 74.0,
-            "popularity": 54.0,
-            "reversal": 23.0
+            "wealth": 60.0,
+            "momentum": 68.0,
+            "risk": 64.0,
+            "popularity": 61.0,
+            "reversal": 21.0
           },
           "objective_indices": {
-            "wealth": 70.5,
-            "momentum": 72.4,
-            "risk": 57.1,
-            "popularity": 54.0,
-            "reversal": 24.5,
-            "stable": 37.5
+            "wealth": 71.6,
+            "momentum": 74.2,
+            "risk": 39.5,
+            "popularity": 61.2,
+            "reversal": 20.5,
+            "stable": 54.5
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -1750,21 +1709,21 @@
             }
           },
           "stars": 4,
-          "composite_score": 50.6,
+          "composite_score": 52.1,
           "change_pct": 3.2,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 54.0,
-            "momentum": 62.0,
+            "wealth": 58.0,
+            "momentum": 64.0,
             "risk": 59.0,
             "popularity": 58.0,
             "reversal": 26.0
           },
           "objective_indices": {
-            "wealth": 70.4,
+            "wealth": 71.5,
             "momentum": 73.2,
             "risk": 57.4,
-            "popularity": 54.0,
+            "popularity": 56.5,
             "reversal": 32.5,
             "stable": 39.5
           },
@@ -1772,42 +1731,83 @@
           "horizon": "day"
         },
         {
-          "symbol": "INTU",
-          "name": "Intuit",
-          "name_zh": "Intuit",
+          "symbol": "CVNA",
+          "name": "Carvana",
+          "name_zh": "Carvana",
           "primary_element": {
-            "primary": "火",
-            "emoji": "🔥",
-            "icon_char": "火",
-            "icon_color": "#e8524a",
+            "primary": "土",
+            "emoji": "🟫",
+            "icon_char": "土",
+            "icon_color": "#b8893d",
             "icon_fg": "#ffffff",
-            "label": "火旺",
+            "label": "土厚",
             "distribution": {
               "木": 0.0,
-              "火": 52.4,
-              "土": 0.0,
-              "金": 2.9,
-              "水": 44.7
+              "火": 33.3,
+              "土": 54.3,
+              "金": 0.0,
+              "水": 12.3
             }
           },
           "stars": 4,
-          "composite_score": 53.6,
-          "change_pct": 1.04,
-          "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
+          "composite_score": 54.6,
+          "change_pct": 3.67,
+          "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 51.0,
-            "momentum": 55.0,
-            "risk": 56.0,
-            "popularity": 83.0,
-            "reversal": 26.0
+            "wealth": 67.0,
+            "momentum": 79.0,
+            "risk": 74.0,
+            "popularity": 54.0,
+            "reversal": 23.0
           },
           "objective_indices": {
-            "wealth": 69.8,
-            "momentum": 72.1,
-            "risk": 53.0,
-            "popularity": 70.0,
-            "reversal": 32.3,
-            "stable": 43.0
+            "wealth": 71.0,
+            "momentum": 72.4,
+            "risk": 57.1,
+            "popularity": 55.3,
+            "reversal": 24.5,
+            "stable": 37.5
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "FDS",
+          "name": "FactSet",
+          "name_zh": "FactSet",
+          "primary_element": {
+            "primary": "金",
+            "emoji": "⚪",
+            "icon_char": "金",
+            "icon_color": "#9ca3af",
+            "icon_fg": "#1a1a2e",
+            "label": "金锐",
+            "distribution": {
+              "木": 0.0,
+              "火": 10.3,
+              "土": 12.3,
+              "金": 44.1,
+              "水": 33.3
+            }
+          },
+          "stars": 3,
+          "composite_score": 48.4,
+          "change_pct": 4.0,
+          "one_liner": "放量上涨，宜控仓参与，忌追高。",
+          "indices": {
+            "wealth": 57.0,
+            "momentum": 67.0,
+            "risk": 64.0,
+            "popularity": 41.0,
+            "reversal": 25.0
+          },
+          "objective_indices": {
+            "wealth": 70.2,
+            "momentum": 72.2,
+            "risk": 54.4,
+            "popularity": 47.3,
+            "reversal": 29.5,
+            "stable": 39.8
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -1832,21 +1832,21 @@
             }
           },
           "stars": 4,
-          "composite_score": 54.1,
+          "composite_score": 55.3,
           "change_pct": 2.14,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 56.0,
-            "momentum": 67.0,
+            "wealth": 59.0,
+            "momentum": 69.0,
             "risk": 20.0,
             "popularity": 46.0,
             "reversal": 14.0
           },
           "objective_indices": {
-            "wealth": 69.5,
+            "wealth": 70.1,
             "momentum": 71.2,
             "risk": 17.9,
-            "popularity": 49.6,
+            "popularity": 51.4,
             "reversal": 16.3,
             "stable": 80.2
           },
@@ -1873,21 +1873,21 @@
             }
           },
           "stars": 4,
-          "composite_score": 52.4,
+          "composite_score": 53.7,
           "change_pct": 1.34,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 53.0,
-            "momentum": 62.0,
+            "wealth": 56.0,
+            "momentum": 64.0,
             "risk": 53.0,
             "popularity": 69.0,
             "reversal": 19.0
           },
           "objective_indices": {
-            "wealth": 69.5,
+            "wealth": 69.8,
             "momentum": 71.5,
             "risk": 34.7,
-            "popularity": 63.3,
+            "popularity": 65.0,
             "reversal": 17.7,
             "stable": 61.9
           },
@@ -1914,21 +1914,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 45.8,
+          "composite_score": 47.3,
           "change_pct": 1.3,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 50.0,
-            "momentum": 55.0,
+            "wealth": 54.0,
+            "momentum": 57.0,
             "risk": 53.0,
             "popularity": 47.0,
             "reversal": 21.0
           },
           "objective_indices": {
-            "wealth": 69.1,
+            "wealth": 69.5,
             "momentum": 70.3,
             "risk": 37.9,
-            "popularity": 44.8,
+            "popularity": 47.0,
             "reversal": 20.9,
             "stable": 57.8
           },
@@ -1964,21 +1964,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 51.8,
+          "composite_score": 52.8,
           "change_pct": 0.42,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 65.0,
-            "momentum": 87.0,
+            "wealth": 67.0,
+            "momentum": 89.0,
             "risk": 100,
             "popularity": 49.0,
             "reversal": 27.0
           },
           "objective_indices": {
-            "wealth": 85.0,
+            "wealth": 85.1,
             "momentum": 94.0,
             "risk": 79.8,
-            "popularity": 47.7,
+            "popularity": 49.4,
             "reversal": 32.2,
             "stable": 13.6
           },
@@ -2005,21 +2005,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 60.6,
+          "composite_score": 61.1,
           "change_pct": 1.71,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 68.0,
-            "momentum": 85.0,
+            "wealth": 69.0,
+            "momentum": 86.0,
             "risk": 57.0,
             "popularity": 65.0,
             "reversal": 19.0
           },
           "objective_indices": {
-            "wealth": 82.2,
+            "wealth": 82.3,
             "momentum": 88.3,
             "risk": 47.5,
-            "popularity": 65.8,
+            "popularity": 66.1,
             "reversal": 23.8,
             "stable": 48.6
           },
@@ -2087,12 +2087,12 @@
             }
           },
           "stars": 2,
-          "composite_score": 43.1,
+          "composite_score": 43.8,
           "change_pct": 0.03,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 50.0,
-            "momentum": 61.0,
+            "wealth": 52.0,
+            "momentum": 62.0,
             "risk": 69.0,
             "popularity": 34.0,
             "reversal": 26.0
@@ -2101,7 +2101,7 @@
             "wealth": 78.2,
             "momentum": 83.2,
             "risk": 50.4,
-            "popularity": 37.4,
+            "popularity": 38.8,
             "reversal": 30.2,
             "stable": 42.8
           },
@@ -2128,21 +2128,21 @@
             }
           },
           "stars": 4,
-          "composite_score": 51.4,
+          "composite_score": 51.6,
           "change_pct": 2.69,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 51.0,
+            "wealth": 52.0,
             "momentum": 62.0,
             "risk": 59.0,
             "popularity": 64.0,
             "reversal": 28.0
           },
           "objective_indices": {
-            "wealth": 76.2,
+            "wealth": 76.3,
             "momentum": 82.1,
             "risk": 57.7,
-            "popularity": 54.6,
+            "popularity": 55.1,
             "reversal": 36.4,
             "stable": 36.4
           },
@@ -2169,21 +2169,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 45.5,
+          "composite_score": 47.0,
           "change_pct": 0.14,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 49.0,
-            "momentum": 63.0,
+            "wealth": 53.0,
+            "momentum": 65.0,
             "risk": 48.0,
             "popularity": 36.0,
             "reversal": 17.0
           },
           "objective_indices": {
-            "wealth": 74.8,
+            "wealth": 74.9,
             "momentum": 78.9,
             "risk": 27.2,
-            "popularity": 39.2,
+            "popularity": 41.8,
             "reversal": 16.4,
             "stable": 69.3
           },
@@ -2210,12 +2210,12 @@
             }
           },
           "stars": 5,
-          "composite_score": 58.3,
+          "composite_score": 58.8,
           "change_pct": 0.03,
           "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
           "indices": {
-            "wealth": 53.0,
-            "momentum": 63.0,
+            "wealth": 54.0,
+            "momentum": 64.0,
             "risk": 56.0,
             "popularity": 96.0,
             "reversal": 23.0
@@ -2224,7 +2224,7 @@
             "wealth": 74.7,
             "momentum": 77.5,
             "risk": 49.7,
-            "popularity": 78.9,
+            "popularity": 79.5,
             "reversal": 28.4,
             "stable": 45.0
           },
@@ -2265,7 +2265,7 @@
             "wealth": 74.5,
             "momentum": 77.2,
             "risk": 33.3,
-            "popularity": 73.0,
+            "popularity": 73.1,
             "reversal": 19.2,
             "stable": 61.4
           },
@@ -2333,21 +2333,21 @@
             }
           },
           "stars": 4,
-          "composite_score": 53.5,
+          "composite_score": 53.8,
           "change_pct": 4.89,
           "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
           "indices": {
-            "wealth": 62.0,
+            "wealth": 63.0,
             "momentum": 74.0,
             "risk": 34.0,
             "popularity": 37.0,
             "reversal": 15.0
           },
           "objective_indices": {
-            "wealth": 73.5,
+            "wealth": 73.6,
             "momentum": 76.7,
             "risk": 23.9,
-            "popularity": 44.9,
+            "popularity": 45.0,
             "reversal": 16.9,
             "stable": 72.7
           },
@@ -2374,21 +2374,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 47.9,
+          "composite_score": 49.1,
           "change_pct": 2.99,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 52.0,
-            "momentum": 63.0,
+            "wealth": 55.0,
+            "momentum": 65.0,
             "risk": 73.0,
             "popularity": 58.0,
             "reversal": 23.0
           },
           "objective_indices": {
-            "wealth": 71.0,
+            "wealth": 71.7,
             "momentum": 76.6,
             "risk": 40.3,
-            "popularity": 54.1,
+            "popularity": 55.9,
             "reversal": 21.2,
             "stable": 53.6
           },
@@ -2396,42 +2396,42 @@
           "horizon": "day"
         },
         {
-          "symbol": "ADSK",
-          "name": "Autodesk",
-          "name_zh": "Autodesk",
+          "symbol": "NUE",
+          "name": "Nucor",
+          "name_zh": "Nucor",
           "primary_element": {
-            "primary": "火",
-            "emoji": "🔥",
-            "icon_char": "火",
-            "icon_color": "#e8524a",
+            "primary": "木",
+            "emoji": "🌳",
+            "icon_char": "木",
+            "icon_color": "#3d9970",
             "icon_fg": "#ffffff",
-            "label": "火旺",
+            "label": "木旺",
             "distribution": {
-              "木": 0.0,
-              "火": 52.4,
-              "土": 7.3,
-              "金": 2.9,
-              "水": 37.4
+              "木": 73.3,
+              "火": 0.0,
+              "土": 10.3,
+              "金": 16.4,
+              "水": 0.0
             }
           },
-          "stars": 4,
-          "composite_score": 51.9,
-          "change_pct": 2.73,
+          "stars": 3,
+          "composite_score": 49.8,
+          "change_pct": 0.23,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 53.0,
+            "wealth": 48.0,
             "momentum": 60.0,
-            "risk": 53.0,
-            "popularity": 65.0,
-            "reversal": 24.0
+            "risk": 42.0,
+            "popularity": 56.0,
+            "reversal": 19.0
           },
           "objective_indices": {
             "wealth": 72.2,
-            "momentum": 75.3,
-            "risk": 49.7,
-            "popularity": 58.6,
-            "reversal": 29.8,
-            "stable": 46.3
+            "momentum": 75.4,
+            "risk": 36.4,
+            "popularity": 54.3,
+            "reversal": 23.0,
+            "stable": 59.9
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -2470,50 +2470,9 @@
             "wealth": 68.7,
             "momentum": 74.6,
             "risk": 59.9,
-            "popularity": 64.9,
+            "popularity": 65.0,
             "reversal": 32.1,
             "stable": 34.7
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "BAX",
-          "name": "Baxter International",
-          "name_zh": "Baxter International",
-          "primary_element": {
-            "primary": "土",
-            "emoji": "🟫",
-            "icon_char": "土",
-            "icon_color": "#b8893d",
-            "icon_fg": "#ffffff",
-            "label": "土厚",
-            "distribution": {
-              "木": 0.0,
-              "火": 0.0,
-              "土": 50.3,
-              "金": 49.7,
-              "水": 0.0
-            }
-          },
-          "stars": 4,
-          "composite_score": 51.5,
-          "change_pct": 2.0,
-          "one_liner": "放量上涨，宜控仓参与，忌追高。",
-          "indices": {
-            "wealth": 57.0,
-            "momentum": 66.0,
-            "risk": 64.0,
-            "popularity": 61.0,
-            "reversal": 21.0
-          },
-          "objective_indices": {
-            "wealth": 71.0,
-            "momentum": 74.2,
-            "risk": 39.5,
-            "popularity": 59.3,
-            "reversal": 20.5,
-            "stable": 54.5
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -2538,23 +2497,64 @@
             }
           },
           "stars": 5,
-          "composite_score": 62.9,
+          "composite_score": 63.4,
           "change_pct": 1.38,
           "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
           "indices": {
-            "wealth": 61.0,
-            "momentum": 74.0,
+            "wealth": 62.0,
+            "momentum": 75.0,
             "risk": 37.0,
             "popularity": 87.0,
             "reversal": 15.0
           },
           "objective_indices": {
-            "wealth": 70.4,
+            "wealth": 70.5,
             "momentum": 73.5,
             "risk": 27.3,
-            "popularity": 78.1,
+            "popularity": 78.8,
             "reversal": 16.1,
             "stable": 69.4
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "TPR",
+          "name": "Tapestry, Inc.",
+          "name_zh": "Tapestry, Inc.",
+          "primary_element": {
+            "primary": "土",
+            "emoji": "🟫",
+            "icon_char": "土",
+            "icon_color": "#b8893d",
+            "icon_fg": "#ffffff",
+            "label": "土厚",
+            "distribution": {
+              "木": 0.0,
+              "火": 12.3,
+              "土": 44.1,
+              "金": 43.6,
+              "水": 0.0
+            }
+          },
+          "stars": 5,
+          "composite_score": 61.9,
+          "change_pct": 0.22,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 58.0,
+            "momentum": 66.0,
+            "risk": 36.0,
+            "popularity": 94.0,
+            "reversal": 17.0
+          },
+          "objective_indices": {
+            "wealth": 70.2,
+            "momentum": 72.7,
+            "risk": 29.4,
+            "popularity": 81.9,
+            "reversal": 18.8,
+            "stable": 67.8
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -2593,50 +2593,9 @@
             "wealth": 67.9,
             "momentum": 72.6,
             "risk": 40.0,
-            "popularity": 61.6,
+            "popularity": 61.9,
             "reversal": 24.5,
             "stable": 52.9
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "FDS",
-          "name": "FactSet",
-          "name_zh": "FactSet",
-          "primary_element": {
-            "primary": "金",
-            "emoji": "⚪",
-            "icon_char": "金",
-            "icon_color": "#9ca3af",
-            "icon_fg": "#1a1a2e",
-            "label": "金锐",
-            "distribution": {
-              "木": 0.0,
-              "火": 10.3,
-              "土": 12.3,
-              "金": 44.1,
-              "水": 33.3
-            }
-          },
-          "stars": 3,
-          "composite_score": 46.6,
-          "change_pct": 4.0,
-          "one_liner": "放量上涨，宜控仓参与，忌追高。",
-          "indices": {
-            "wealth": 53.0,
-            "momentum": 64.0,
-            "risk": 64.0,
-            "popularity": 41.0,
-            "reversal": 25.0
-          },
-          "objective_indices": {
-            "wealth": 69.2,
-            "momentum": 72.2,
-            "risk": 54.4,
-            "popularity": 44.9,
-            "reversal": 29.5,
-            "stable": 39.8
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -2661,21 +2620,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 49.3,
+          "composite_score": 49.5,
           "change_pct": 3.39,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 53.0,
+            "wealth": 54.0,
             "momentum": 68.0,
             "risk": 67.0,
             "popularity": 54.0,
             "reversal": 22.0
           },
           "objective_indices": {
-            "wealth": 67.4,
+            "wealth": 67.6,
             "momentum": 72.2,
-            "risk": 50.9,
-            "popularity": 51.5,
+            "risk": 50.6,
+            "popularity": 51.8,
             "reversal": 24.6,
             "stable": 46.4
           },
@@ -2702,23 +2661,64 @@
             }
           },
           "stars": 5,
-          "composite_score": 58.1,
+          "composite_score": 58.8,
           "change_pct": 0.75,
           "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
           "indices": {
-            "wealth": 56.0,
-            "momentum": 75.0,
+            "wealth": 58.0,
+            "momentum": 76.0,
             "risk": 62.0,
             "popularity": 83.0,
             "reversal": 20.0
           },
           "objective_indices": {
-            "wealth": 66.2,
+            "wealth": 66.4,
             "momentum": 72.1,
             "risk": 36.3,
-            "popularity": 69.3,
+            "popularity": 70.6,
             "reversal": 19.8,
             "stable": 59.4
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "INTU",
+          "name": "Intuit",
+          "name_zh": "Intuit",
+          "primary_element": {
+            "primary": "火",
+            "emoji": "🔥",
+            "icon_char": "火",
+            "icon_color": "#e8524a",
+            "icon_fg": "#ffffff",
+            "label": "火旺",
+            "distribution": {
+              "木": 0.0,
+              "火": 52.4,
+              "土": 0.0,
+              "金": 2.9,
+              "水": 44.7
+            }
+          },
+          "stars": 4,
+          "composite_score": 53.6,
+          "change_pct": 1.04,
+          "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
+          "indices": {
+            "wealth": 51.0,
+            "momentum": 55.0,
+            "risk": 56.0,
+            "popularity": 83.0,
+            "reversal": 26.0
+          },
+          "objective_indices": {
+            "wealth": 69.8,
+            "momentum": 72.1,
+            "risk": 53.4,
+            "popularity": 70.1,
+            "reversal": 32.3,
+            "stable": 43.0
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -2757,7 +2757,7 @@
             "wealth": 68.2,
             "momentum": 71.6,
             "risk": 25.9,
-            "popularity": 43.1,
+            "popularity": 43.4,
             "reversal": 17.0,
             "stable": 71.8
           },
@@ -2847,10 +2847,51 @@
           "objective_indices": {
             "wealth": 32.7,
             "momentum": 38.5,
-            "risk": 66.9,
+            "risk": 67.0,
             "popularity": 95.2,
             "reversal": 38.4,
             "stable": 32.7
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "NSC",
+          "name": "Norfolk Southern",
+          "name_zh": "Norfolk Southern",
+          "primary_element": {
+            "primary": "土",
+            "emoji": "🟫",
+            "icon_char": "土",
+            "icon_color": "#b8893d",
+            "icon_fg": "#ffffff",
+            "label": "土厚",
+            "distribution": {
+              "木": 33.3,
+              "火": 10.3,
+              "土": 40.0,
+              "金": 16.4,
+              "水": 0.0
+            }
+          },
+          "stars": 5,
+          "composite_score": 65.3,
+          "change_pct": -1.98,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 70.0,
+            "momentum": 63.0,
+            "risk": 30.0,
+            "popularity": 96.0,
+            "reversal": 16.0
+          },
+          "objective_indices": {
+            "wealth": 48.4,
+            "momentum": 53.5,
+            "risk": 20.9,
+            "popularity": 94.4,
+            "reversal": 16.3,
+            "stable": 76.7
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -2957,105 +2998,23 @@
             }
           },
           "stars": 5,
-          "composite_score": 67.7,
+          "composite_score": 67.9,
           "change_pct": 1.41,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 74.0,
+            "wealth": 75.0,
             "momentum": 78.0,
             "risk": 54.0,
             "popularity": 98.0,
             "reversal": 21.0
           },
           "objective_indices": {
-            "wealth": 72.6,
+            "wealth": 72.7,
             "momentum": 73.5,
-            "risk": 42.1,
-            "popularity": 90.2,
+            "risk": 41.6,
+            "popularity": 90.6,
             "reversal": 22.5,
             "stable": 53.5
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "NSC",
-          "name": "Norfolk Southern",
-          "name_zh": "Norfolk Southern",
-          "primary_element": {
-            "primary": "土",
-            "emoji": "🟫",
-            "icon_char": "土",
-            "icon_color": "#b8893d",
-            "icon_fg": "#ffffff",
-            "label": "土厚",
-            "distribution": {
-              "木": 33.3,
-              "火": 10.3,
-              "土": 40.0,
-              "金": 16.4,
-              "水": 0.0
-            }
-          },
-          "stars": 5,
-          "composite_score": 60.9,
-          "change_pct": -1.98,
-          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-          "indices": {
-            "wealth": 58.0,
-            "momentum": 57.0,
-            "risk": 30.0,
-            "popularity": 96.0,
-            "reversal": 16.0
-          },
-          "objective_indices": {
-            "wealth": 50.4,
-            "momentum": 53.5,
-            "risk": 20.9,
-            "popularity": 87.3,
-            "reversal": 16.3,
-            "stable": 76.7
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "AZO",
-          "name": "AutoZone",
-          "name_zh": "AutoZone",
-          "primary_element": {
-            "primary": "土",
-            "emoji": "🟫",
-            "icon_char": "土",
-            "icon_color": "#b8893d",
-            "icon_fg": "#ffffff",
-            "label": "土厚",
-            "distribution": {
-              "木": 0.0,
-              "火": 0.0,
-              "土": 95.9,
-              "金": 4.1,
-              "水": 0.0
-            }
-          },
-          "stars": 5,
-          "composite_score": 63.4,
-          "change_pct": 1.88,
-          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-          "indices": {
-            "wealth": 60.0,
-            "momentum": 66.0,
-            "risk": 34.0,
-            "popularity": 97.0,
-            "reversal": 17.0
-          },
-          "objective_indices": {
-            "wealth": 62.9,
-            "momentum": 61.6,
-            "risk": 28.5,
-            "popularity": 85.5,
-            "reversal": 18.9,
-            "stable": 68.9
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -3080,23 +3039,146 @@
             }
           },
           "stars": 4,
-          "composite_score": 51.5,
+          "composite_score": 53.5,
           "change_pct": -4.21,
           "one_liner": "趋势偏弱，宜观望，忌急于抄底。",
           "indices": {
-            "wealth": 48.0,
-            "momentum": 36.0,
+            "wealth": 53.0,
+            "momentum": 39.0,
             "risk": 52.0,
             "popularity": 93.0,
             "reversal": 31.0
           },
           "objective_indices": {
-            "wealth": 27.9,
+            "wealth": 26.7,
             "momentum": 27.2,
             "risk": 51.9,
-            "popularity": 85.2,
+            "popularity": 88.0,
             "reversal": 35.7,
             "stable": 44.6
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "AZO",
+          "name": "AutoZone",
+          "name_zh": "AutoZone",
+          "primary_element": {
+            "primary": "土",
+            "emoji": "🟫",
+            "icon_char": "土",
+            "icon_color": "#b8893d",
+            "icon_fg": "#ffffff",
+            "label": "土厚",
+            "distribution": {
+              "木": 0.0,
+              "火": 0.0,
+              "土": 95.9,
+              "金": 4.1,
+              "水": 0.0
+            }
+          },
+          "stars": 5,
+          "composite_score": 64.9,
+          "change_pct": 1.88,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 64.0,
+            "momentum": 68.0,
+            "risk": 34.0,
+            "popularity": 97.0,
+            "reversal": 17.0
+          },
+          "objective_indices": {
+            "wealth": 63.5,
+            "momentum": 61.6,
+            "risk": 28.5,
+            "popularity": 87.9,
+            "reversal": 18.9,
+            "stable": 68.9
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "EIX",
+          "name": "Edison International",
+          "name_zh": "Edison International",
+          "primary_element": {
+            "primary": "火",
+            "emoji": "🔥",
+            "icon_char": "火",
+            "icon_color": "#e8524a",
+            "icon_fg": "#ffffff",
+            "label": "火旺",
+            "distribution": {
+              "木": 40.0,
+              "火": 45.6,
+              "土": 10.3,
+              "金": 4.1,
+              "水": 0.0
+            }
+          },
+          "stars": 5,
+          "composite_score": 58.6,
+          "change_pct": 2.07,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 55.0,
+            "momentum": 49.0,
+            "risk": 39.0,
+            "popularity": 100.0,
+            "reversal": 23.0
+          },
+          "objective_indices": {
+            "wealth": 39.9,
+            "momentum": 37.3,
+            "risk": 38.6,
+            "popularity": 85.6,
+            "reversal": 26.9,
+            "stable": 57.6
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "REGN",
+          "name": "Regeneron Pharmaceuticals",
+          "name_zh": "Regeneron Pharmaceuticals",
+          "primary_element": {
+            "primary": "土",
+            "emoji": "🟫",
+            "icon_char": "土",
+            "icon_color": "#b8893d",
+            "icon_fg": "#ffffff",
+            "label": "土厚",
+            "distribution": {
+              "木": 0.0,
+              "火": 0.0,
+              "土": 66.7,
+              "金": 33.3,
+              "水": 0.0
+            }
+          },
+          "stars": 5,
+          "composite_score": 61.6,
+          "change_pct": 1.59,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 57.0,
+            "momentum": 63.0,
+            "risk": 37.0,
+            "popularity": 98.0,
+            "reversal": 17.0
+          },
+          "objective_indices": {
+            "wealth": 73.1,
+            "momentum": 73.9,
+            "risk": 24.2,
+            "popularity": 85.3,
+            "reversal": 17.3,
+            "stable": 72.4
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -3121,23 +3203,64 @@
             }
           },
           "stars": 5,
-          "composite_score": 63.2,
+          "composite_score": 63.7,
           "change_pct": 2.05,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 59.0,
-            "momentum": 67.0,
+            "wealth": 60.0,
+            "momentum": 68.0,
             "risk": 32.0,
             "popularity": 96.0,
             "reversal": 15.0
           },
           "objective_indices": {
-            "wealth": 70.7,
+            "wealth": 71.0,
             "momentum": 72.0,
-            "risk": 25.5,
-            "popularity": 83.8,
+            "risk": 25.4,
+            "popularity": 84.7,
             "reversal": 16.1,
             "stable": 71.8
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "IR",
+          "name": "Ingersoll Rand",
+          "name_zh": "Ingersoll Rand",
+          "primary_element": {
+            "primary": "土",
+            "emoji": "🟫",
+            "icon_char": "土",
+            "icon_color": "#b8893d",
+            "icon_fg": "#ffffff",
+            "label": "土厚",
+            "distribution": {
+              "木": 33.3,
+              "火": 0.0,
+              "土": 62.6,
+              "金": 4.1,
+              "水": 0.0
+            }
+          },
+          "stars": 5,
+          "composite_score": 58.8,
+          "change_pct": -1.44,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 55.0,
+            "momentum": 61.0,
+            "risk": 46.0,
+            "popularity": 95.0,
+            "reversal": 18.0
+          },
+          "objective_indices": {
+            "wealth": 57.7,
+            "momentum": 61.7,
+            "risk": 29.9,
+            "popularity": 84.7,
+            "reversal": 17.8,
+            "stable": 66.1
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -3162,11 +3285,11 @@
             }
           },
           "stars": 4,
-          "composite_score": 60.4,
+          "composite_score": 60.6,
           "change_pct": 9.86,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 64.0,
+            "wealth": 65.0,
             "momentum": 72.0,
             "risk": 74.0,
             "popularity": 90.0,
@@ -3176,9 +3299,132 @@
             "wealth": 53.8,
             "momentum": 50.3,
             "risk": 70.8,
-            "popularity": 83.3,
+            "popularity": 83.5,
             "reversal": 37.4,
             "stable": 23.9
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "AVB",
+          "name": "AvalonBay Communities",
+          "name_zh": "AvalonBay Communities",
+          "primary_element": {
+            "primary": "金",
+            "emoji": "⚪",
+            "icon_char": "金",
+            "icon_color": "#9ca3af",
+            "icon_fg": "#1a1a2e",
+            "label": "金锐",
+            "distribution": {
+              "木": 33.3,
+              "火": 10.3,
+              "土": 12.3,
+              "金": 44.1,
+              "水": 0.0
+            }
+          },
+          "stars": 5,
+          "composite_score": 60.5,
+          "change_pct": 0.54,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 52.0,
+            "momentum": 57.0,
+            "risk": 24.0,
+            "popularity": 98.0,
+            "reversal": 15.0
+          },
+          "objective_indices": {
+            "wealth": 53.3,
+            "momentum": 53.0,
+            "risk": 19.2,
+            "popularity": 83.2,
+            "reversal": 15.9,
+            "stable": 78.7
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "HST",
+          "name": "Host Hotels & Resorts",
+          "name_zh": "Host Hotels & Resorts",
+          "primary_element": {
+            "primary": "金",
+            "emoji": "⚪",
+            "icon_char": "金",
+            "icon_color": "#9ca3af",
+            "icon_fg": "#1a1a2e",
+            "label": "金锐",
+            "distribution": {
+              "木": 33.3,
+              "火": 0.0,
+              "土": 4.1,
+              "金": 50.3,
+              "水": 12.3
+            }
+          },
+          "stars": 4,
+          "composite_score": 55.6,
+          "change_pct": -0.38,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 50.0,
+            "momentum": 47.0,
+            "risk": 37.0,
+            "popularity": 94.0,
+            "reversal": 21.0
+          },
+          "objective_indices": {
+            "wealth": 47.6,
+            "momentum": 47.0,
+            "risk": 31.8,
+            "popularity": 83.2,
+            "reversal": 22.5,
+            "stable": 64.9
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "MSI",
+          "name": "Motorola Solutions",
+          "name_zh": "Motorola Solutions",
+          "primary_element": {
+            "primary": "火",
+            "emoji": "🔥",
+            "icon_char": "火",
+            "icon_color": "#e8524a",
+            "icon_fg": "#ffffff",
+            "label": "火旺",
+            "distribution": {
+              "木": 0.0,
+              "火": 28.6,
+              "土": 16.1,
+              "金": 26.7,
+              "水": 28.6
+            }
+          },
+          "stars": 5,
+          "composite_score": 63.5,
+          "change_pct": -1.38,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 63.0,
+            "momentum": 69.0,
+            "risk": 42.0,
+            "popularity": 96.0,
+            "reversal": 17.0
+          },
+          "objective_indices": {
+            "wealth": 62.1,
+            "momentum": 66.0,
+            "risk": 26.1,
+            "popularity": 83.1,
+            "reversal": 17.4,
+            "stable": 70.8
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -3225,6 +3471,88 @@
           "horizon": "day"
         },
         {
+          "symbol": "ANET",
+          "name": "Arista Networks",
+          "name_zh": "Arista Networks",
+          "primary_element": {
+            "primary": "火",
+            "emoji": "🔥",
+            "icon_char": "火",
+            "icon_color": "#e8524a",
+            "icon_fg": "#ffffff",
+            "label": "火旺",
+            "distribution": {
+              "木": 8.8,
+              "火": 52.4,
+              "土": 2.9,
+              "金": 7.3,
+              "水": 28.6
+            }
+          },
+          "stars": 5,
+          "composite_score": 58.9,
+          "change_pct": -1.9,
+          "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
+          "indices": {
+            "wealth": 58.0,
+            "momentum": 62.0,
+            "risk": 65.0,
+            "popularity": 100,
+            "reversal": 24.0
+          },
+          "objective_indices": {
+            "wealth": 53.5,
+            "momentum": 55.6,
+            "risk": 53.8,
+            "popularity": 83.0,
+            "reversal": 25.9,
+            "stable": 43.2
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "CHD",
+          "name": "Church & Dwight",
+          "name_zh": "Church & Dwight",
+          "primary_element": {
+            "primary": "土",
+            "emoji": "🟫",
+            "icon_char": "土",
+            "icon_color": "#b8893d",
+            "icon_fg": "#ffffff",
+            "label": "土厚",
+            "distribution": {
+              "木": 0.0,
+              "火": 12.3,
+              "土": 50.3,
+              "金": 4.1,
+              "水": 33.3
+            }
+          },
+          "stars": 5,
+          "composite_score": 60.6,
+          "change_pct": -0.12,
+          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+          "indices": {
+            "wealth": 52.0,
+            "momentum": 59.0,
+            "risk": 26.0,
+            "popularity": 98.0,
+            "reversal": 14.0
+          },
+          "objective_indices": {
+            "wealth": 59.7,
+            "momentum": 61.7,
+            "risk": 19.0,
+            "popularity": 83.0,
+            "reversal": 13.9,
+            "stable": 78.8
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
           "symbol": "LEN",
           "name": "Lennar",
           "name_zh": "Lennar",
@@ -3258,337 +3586,9 @@
             "wealth": 61.3,
             "momentum": 61.9,
             "risk": 35.8,
-            "popularity": 82.8,
+            "popularity": 82.9,
             "reversal": 20.4,
             "stable": 61.7
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "EIX",
-          "name": "Edison International",
-          "name_zh": "Edison International",
-          "primary_element": {
-            "primary": "火",
-            "emoji": "🔥",
-            "icon_char": "火",
-            "icon_color": "#e8524a",
-            "icon_fg": "#ffffff",
-            "label": "火旺",
-            "distribution": {
-              "木": 40.0,
-              "火": 45.6,
-              "土": 10.3,
-              "金": 4.1,
-              "水": 0.0
-            }
-          },
-          "stars": 5,
-          "composite_score": 56.6,
-          "change_pct": 2.07,
-          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-          "indices": {
-            "wealth": 50.0,
-            "momentum": 46.0,
-            "risk": 39.0,
-            "popularity": 100.0,
-            "reversal": 23.0
-          },
-          "objective_indices": {
-            "wealth": 38.9,
-            "momentum": 37.3,
-            "risk": 38.6,
-            "popularity": 82.5,
-            "reversal": 26.9,
-            "stable": 57.6
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "TPR",
-          "name": "Tapestry, Inc.",
-          "name_zh": "Tapestry, Inc.",
-          "primary_element": {
-            "primary": "土",
-            "emoji": "🟫",
-            "icon_char": "土",
-            "icon_color": "#b8893d",
-            "icon_fg": "#ffffff",
-            "label": "土厚",
-            "distribution": {
-              "木": 0.0,
-              "火": 12.3,
-              "土": 44.1,
-              "金": 43.6,
-              "水": 0.0
-            }
-          },
-          "stars": 5,
-          "composite_score": 61.9,
-          "change_pct": 0.22,
-          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-          "indices": {
-            "wealth": 58.0,
-            "momentum": 66.0,
-            "risk": 36.0,
-            "popularity": 94.0,
-            "reversal": 17.0
-          },
-          "objective_indices": {
-            "wealth": 70.2,
-            "momentum": 72.7,
-            "risk": 29.4,
-            "popularity": 81.9,
-            "reversal": 18.8,
-            "stable": 67.8
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "IR",
-          "name": "Ingersoll Rand",
-          "name_zh": "Ingersoll Rand",
-          "primary_element": {
-            "primary": "土",
-            "emoji": "🟫",
-            "icon_char": "土",
-            "icon_color": "#b8893d",
-            "icon_fg": "#ffffff",
-            "label": "土厚",
-            "distribution": {
-              "木": 33.3,
-              "火": 0.0,
-              "土": 62.6,
-              "金": 4.1,
-              "水": 0.0
-            }
-          },
-          "stars": 5,
-          "composite_score": 57.1,
-          "change_pct": -1.44,
-          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-          "indices": {
-            "wealth": 50.0,
-            "momentum": 59.0,
-            "risk": 46.0,
-            "popularity": 95.0,
-            "reversal": 18.0
-          },
-          "objective_indices": {
-            "wealth": 58.3,
-            "momentum": 61.7,
-            "risk": 29.9,
-            "popularity": 81.8,
-            "reversal": 17.8,
-            "stable": 66.1
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "XYZ",
-          "name": "Block, Inc.",
-          "name_zh": "Block, Inc.",
-          "primary_element": {
-            "primary": "金",
-            "emoji": "⚪",
-            "icon_char": "金",
-            "icon_color": "#9ca3af",
-            "icon_fg": "#1a1a2e",
-            "label": "金锐",
-            "distribution": {
-              "木": 0.0,
-              "火": 0.0,
-              "土": 40.0,
-              "金": 60.0,
-              "水": 0.0
-            }
-          },
-          "stars": 5,
-          "composite_score": 56.5,
-          "change_pct": -0.03,
-          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-          "indices": {
-            "wealth": 53.0,
-            "momentum": 54.0,
-            "risk": 45.0,
-            "popularity": 91.0,
-            "reversal": 22.0
-          },
-          "objective_indices": {
-            "wealth": 51.0,
-            "momentum": 51.3,
-            "risk": 37.2,
-            "popularity": 81.7,
-            "reversal": 24.0,
-            "stable": 58.4
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "ANET",
-          "name": "Arista Networks",
-          "name_zh": "Arista Networks",
-          "primary_element": {
-            "primary": "火",
-            "emoji": "🔥",
-            "icon_char": "火",
-            "icon_color": "#e8524a",
-            "icon_fg": "#ffffff",
-            "label": "火旺",
-            "distribution": {
-              "木": 8.8,
-              "火": 52.4,
-              "土": 2.9,
-              "金": 7.3,
-              "水": 28.6
-            }
-          },
-          "stars": 5,
-          "composite_score": 57.6,
-          "change_pct": -1.9,
-          "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
-          "indices": {
-            "wealth": 55.0,
-            "momentum": 60.0,
-            "risk": 65.0,
-            "popularity": 100,
-            "reversal": 24.0
-          },
-          "objective_indices": {
-            "wealth": 53.9,
-            "momentum": 55.6,
-            "risk": 53.8,
-            "popularity": 81.3,
-            "reversal": 25.9,
-            "stable": 43.2
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "AVB",
-          "name": "AvalonBay Communities",
-          "name_zh": "AvalonBay Communities",
-          "primary_element": {
-            "primary": "金",
-            "emoji": "⚪",
-            "icon_char": "金",
-            "icon_color": "#9ca3af",
-            "icon_fg": "#1a1a2e",
-            "label": "金锐",
-            "distribution": {
-              "木": 33.3,
-              "火": 10.3,
-              "土": 12.3,
-              "金": 44.1,
-              "水": 0.0
-            }
-          },
-          "stars": 5,
-          "composite_score": 59.0,
-          "change_pct": 0.54,
-          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-          "indices": {
-            "wealth": 48.0,
-            "momentum": 55.0,
-            "risk": 24.0,
-            "popularity": 98.0,
-            "reversal": 15.0
-          },
-          "objective_indices": {
-            "wealth": 53.1,
-            "momentum": 53.0,
-            "risk": 19.2,
-            "popularity": 80.9,
-            "reversal": 15.9,
-            "stable": 78.7
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "HST",
-          "name": "Host Hotels & Resorts",
-          "name_zh": "Host Hotels & Resorts",
-          "primary_element": {
-            "primary": "金",
-            "emoji": "⚪",
-            "icon_char": "金",
-            "icon_color": "#9ca3af",
-            "icon_fg": "#1a1a2e",
-            "label": "金锐",
-            "distribution": {
-              "木": 33.3,
-              "火": 0.0,
-              "土": 4.1,
-              "金": 50.3,
-              "水": 12.3
-            }
-          },
-          "stars": 4,
-          "composite_score": 54.1,
-          "change_pct": -0.38,
-          "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-          "indices": {
-            "wealth": 46.0,
-            "momentum": 45.0,
-            "risk": 37.0,
-            "popularity": 94.0,
-            "reversal": 21.0
-          },
-          "objective_indices": {
-            "wealth": 47.7,
-            "momentum": 47.0,
-            "risk": 31.5,
-            "popularity": 80.7,
-            "reversal": 22.5,
-            "stable": 64.9
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "TTWO",
-          "name": "Take-Two Interactive",
-          "name_zh": "Take-Two Interactive",
-          "primary_element": {
-            "primary": "水",
-            "emoji": "🌊",
-            "icon_char": "水",
-            "icon_color": "#3b82c4",
-            "icon_fg": "#ffffff",
-            "label": "水旺",
-            "distribution": {
-              "木": 0.0,
-              "火": 0.0,
-              "土": 31.5,
-              "金": 31.1,
-              "水": 37.4
-            }
-          },
-          "stars": 5,
-          "composite_score": 61.6,
-          "change_pct": 6.04,
-          "one_liner": "水势平稳，宜耐心观察，忌急躁出手。",
-          "indices": {
-            "wealth": 74.0,
-            "momentum": 68.0,
-            "risk": 43.0,
-            "popularity": 73.0,
-            "reversal": 20.0
-          },
-          "objective_indices": {
-            "wealth": 59.5,
-            "momentum": 53.7,
-            "risk": 31.7,
-            "popularity": 80.7,
-            "reversal": 21.9,
-            "stable": 64.5
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -3663,21 +3663,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 67.3,
+          "composite_score": 68.8,
           "change_pct": 13.44,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 86.0,
-            "momentum": 96.0,
+            "wealth": 90.0,
+            "momentum": 98.0,
             "risk": 100,
             "popularity": 82.0,
             "reversal": 36.0
           },
           "objective_indices": {
-            "wealth": 82.3,
+            "wealth": 83.4,
             "momentum": 82.9,
             "risk": 97.6,
-            "popularity": 84.0,
+            "popularity": 86.5,
             "reversal": 42.9,
             "stable": 1.6
           },
@@ -3704,21 +3704,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 45.2,
+          "composite_score": 45.5,
           "change_pct": -3.68,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 59.0,
+            "wealth": 60.0,
             "momentum": 57.0,
             "risk": 100,
             "popularity": 49.0,
             "reversal": 43.0
           },
           "objective_indices": {
-            "wealth": 30.0,
+            "wealth": 29.9,
             "momentum": 27.4,
-            "risk": 94.7,
-            "popularity": 48.0,
+            "risk": 94.8,
+            "popularity": 48.2,
             "reversal": 49.6,
             "stable": 0.0
           },
@@ -3745,21 +3745,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 46.8,
+          "composite_score": 47.0,
           "change_pct": -1.01,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 51.0,
+            "wealth": 52.0,
             "momentum": 69.0,
             "risk": 96.0,
             "popularity": 57.0,
             "reversal": 32.0
           },
           "objective_indices": {
-            "wealth": 50.3,
+            "wealth": 50.2,
             "momentum": 50.8,
             "risk": 92.7,
-            "popularity": 52.1,
+            "popularity": 52.8,
             "reversal": 38.9,
             "stable": 1.9
           },
@@ -3786,21 +3786,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 57.6,
+          "composite_score": 58.4,
           "change_pct": 5.41,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 59.0,
-            "momentum": 80.0,
+            "wealth": 61.0,
+            "momentum": 81.0,
             "risk": 100,
             "popularity": 89.0,
             "reversal": 34.0
           },
           "objective_indices": {
-            "wealth": 56.4,
+            "wealth": 56.9,
             "momentum": 58.7,
             "risk": 91.5,
-            "popularity": 73.8,
+            "popularity": 74.9,
             "reversal": 41.2,
             "stable": 2.8
           },
@@ -3838,10 +3838,10 @@
             "reversal": 34.0
           },
           "objective_indices": {
-            "wealth": 56.2,
+            "wealth": 56.3,
             "momentum": 58.5,
-            "risk": 91.4,
-            "popularity": 38.6,
+            "risk": 91.3,
+            "popularity": 38.7,
             "reversal": 40.7,
             "stable": 3.5
           },
@@ -3879,10 +3879,10 @@
             "reversal": 31.0
           },
           "objective_indices": {
-            "wealth": 73.6,
+            "wealth": 73.7,
             "momentum": 76.9,
             "risk": 91.2,
-            "popularity": 67.5,
+            "popularity": 67.7,
             "reversal": 37.7,
             "stable": 3.3
           },
@@ -3909,21 +3909,21 @@
             }
           },
           "stars": 1,
-          "composite_score": 37.4,
+          "composite_score": 37.9,
           "change_pct": 1.65,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 46.0,
-            "momentum": 59.0,
+            "wealth": 47.0,
+            "momentum": 60.0,
             "risk": 100,
             "popularity": 29.0,
             "reversal": 36.0
           },
           "objective_indices": {
-            "wealth": 48.8,
+            "wealth": 49.0,
             "momentum": 48.2,
             "risk": 91.0,
-            "popularity": 30.1,
+            "popularity": 31.0,
             "reversal": 42.1,
             "stable": 0.0
           },
@@ -3963,10 +3963,51 @@
           "objective_indices": {
             "wealth": 46.6,
             "momentum": 47.4,
-            "risk": 90.0,
-            "popularity": 44.1,
+            "risk": 89.8,
+            "popularity": 44.2,
             "reversal": 42.1,
             "stable": 3.2
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "AMAT",
+          "name": "Applied Materials",
+          "name_zh": "Applied Materials",
+          "primary_element": {
+            "primary": "火",
+            "emoji": "🔥",
+            "icon_char": "火",
+            "icon_color": "#e8524a",
+            "icon_fg": "#ffffff",
+            "label": "火旺",
+            "distribution": {
+              "木": 0.0,
+              "火": 61.2,
+              "土": 7.3,
+              "金": 2.9,
+              "水": 28.6
+            }
+          },
+          "stars": 2,
+          "composite_score": 39.3,
+          "change_pct": 2.21,
+          "one_liner": "放量上涨，宜控仓参与，忌追高。",
+          "indices": {
+            "wealth": 52.0,
+            "momentum": 59.0,
+            "risk": 99.0,
+            "popularity": 30.0,
+            "reversal": 36.0
+          },
+          "objective_indices": {
+            "wealth": 48.4,
+            "momentum": 49.0,
+            "risk": 84.3,
+            "popularity": 33.6,
+            "reversal": 42.3,
+            "stable": 8.6
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -4005,7 +4046,7 @@
             "wealth": 53.5,
             "momentum": 55.6,
             "risk": 84.3,
-            "popularity": 33.5,
+            "popularity": 33.7,
             "reversal": 40.6,
             "stable": 8.8
           },
@@ -4032,21 +4073,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 52.0,
+          "composite_score": 54.0,
           "change_pct": 0.93,
           "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
           "indices": {
-            "wealth": 51.0,
-            "momentum": 62.0,
+            "wealth": 56.0,
+            "momentum": 65.0,
             "risk": 92.0,
             "popularity": 89.0,
             "reversal": 32.0
           },
           "objective_indices": {
-            "wealth": 43.4,
+            "wealth": 43.9,
             "momentum": 42.0,
             "risk": 82.6,
-            "popularity": 75.1,
+            "popularity": 78.4,
             "reversal": 36.2,
             "stable": 8.7
           },
@@ -4073,12 +4114,12 @@
             }
           },
           "stars": 3,
-          "composite_score": 45.6,
+          "composite_score": 45.8,
           "change_pct": 1.83,
           "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
           "indices": {
             "wealth": 43.0,
-            "momentum": 51.0,
+            "momentum": 52.0,
             "risk": 86.0,
             "popularity": 75.0,
             "reversal": 33.0
@@ -4087,7 +4128,7 @@
             "wealth": 36.9,
             "momentum": 35.1,
             "risk": 82.5,
-            "popularity": 63.8,
+            "popularity": 63.9,
             "reversal": 38.8,
             "stable": 9.4
           },
@@ -4125,10 +4166,10 @@
             "reversal": 30.0
           },
           "objective_indices": {
-            "wealth": 58.1,
+            "wealth": 58.2,
             "momentum": 56.6,
             "risk": 81.3,
-            "popularity": 61.6,
+            "popularity": 61.8,
             "reversal": 35.6,
             "stable": 19.8
           },
@@ -4154,65 +4195,24 @@
               "水": 28.6
             }
           },
-          "stars": 1,
-          "composite_score": 37.6,
+          "stars": 2,
+          "composite_score": 38.4,
           "change_pct": 0.92,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 44.0,
-            "momentum": 42.0,
+            "wealth": 46.0,
+            "momentum": 43.0,
             "risk": 90.0,
             "popularity": 46.0,
             "reversal": 36.0
           },
           "objective_indices": {
-            "wealth": 41.4,
+            "wealth": 41.5,
             "momentum": 37.4,
             "risk": 79.8,
-            "popularity": 46.7,
+            "popularity": 47.9,
             "reversal": 39.7,
             "stable": 11.4
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "DDOG",
-          "name": "Datadog",
-          "name_zh": "Datadog",
-          "primary_element": {
-            "primary": "金",
-            "emoji": "⚪",
-            "icon_char": "金",
-            "icon_color": "#9ca3af",
-            "icon_fg": "#1a1a2e",
-            "label": "金锐",
-            "distribution": {
-              "木": 7.3,
-              "火": 28.6,
-              "土": 2.9,
-              "金": 32.6,
-              "水": 28.6
-            }
-          },
-          "stars": 3,
-          "composite_score": 47.9,
-          "change_pct": 2.02,
-          "one_liner": "放量上涨，宜控仓参与，忌追高。",
-          "indices": {
-            "wealth": 63.0,
-            "momentum": 46.0,
-            "risk": 91.0,
-            "popularity": 69.0,
-            "reversal": 37.0
-          },
-          "objective_indices": {
-            "wealth": 46.1,
-            "momentum": 38.7,
-            "risk": 79.8,
-            "popularity": 73.4,
-            "reversal": 39.6,
-            "stable": 14.1
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -4236,22 +4236,22 @@
               "水": 28.6
             }
           },
-          "stars": 2,
-          "composite_score": 43.7,
+          "stars": 3,
+          "composite_score": 45.2,
           "change_pct": 0.8,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 60.0,
-            "momentum": 69.0,
+            "wealth": 64.0,
+            "momentum": 71.0,
             "risk": 95.0,
             "popularity": 31.0,
             "reversal": 30.0
           },
           "objective_indices": {
-            "wealth": 62.5,
+            "wealth": 62.8,
             "momentum": 64.4,
             "risk": 78.7,
-            "popularity": 35.5,
+            "popularity": 37.9,
             "reversal": 32.0,
             "stable": 12.6
           },
@@ -4278,21 +4278,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 49.2,
+          "composite_score": 50.0,
           "change_pct": -1.06,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 51.0,
-            "momentum": 62.0,
+            "wealth": 53.0,
+            "momentum": 63.0,
             "risk": 84.0,
             "popularity": 69.0,
             "reversal": 32.0
           },
           "objective_indices": {
-            "wealth": 49.2,
+            "wealth": 49.1,
             "momentum": 49.2,
             "risk": 78.1,
-            "popularity": 60.1,
+            "popularity": 61.0,
             "reversal": 39.0,
             "stable": 15.5
           },
@@ -4319,21 +4319,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 48.9,
+          "composite_score": 49.1,
           "change_pct": 9.29,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
             "wealth": 77.0,
-            "momentum": 75.0,
+            "momentum": 76.0,
             "risk": 96.0,
             "popularity": 29.0,
             "reversal": 30.0
           },
           "objective_indices": {
-            "wealth": 66.5,
+            "wealth": 66.6,
             "momentum": 62.1,
-            "risk": 77.9,
-            "popularity": 48.3,
+            "risk": 78.0,
+            "popularity": 48.5,
             "reversal": 33.5,
             "stable": 13.3
           },
@@ -4360,21 +4360,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 45.9,
+          "composite_score": 46.1,
           "change_pct": 3.68,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 61.0,
+            "wealth": 62.0,
             "momentum": 74.0,
             "risk": 100,
             "popularity": 39.0,
             "reversal": 29.0
           },
           "objective_indices": {
-            "wealth": 59.7,
+            "wealth": 60.1,
             "momentum": 63.1,
             "risk": 76.6,
-            "popularity": 41.9,
+            "popularity": 42.8,
             "reversal": 31.1,
             "stable": 15.4
           },
@@ -4412,10 +4412,10 @@
             "reversal": 28.0
           },
           "objective_indices": {
-            "wealth": 45.2,
+            "wealth": 45.3,
             "momentum": 42.6,
             "risk": 71.2,
-            "popularity": 78.0,
+            "popularity": 78.1,
             "reversal": 34.4,
             "stable": 23.0
           },
@@ -4462,10 +4462,10 @@
             "reversal": 47.0
           },
           "objective_indices": {
-            "wealth": 19.2,
+            "wealth": 19.0,
             "momentum": 16.4,
             "risk": 91.4,
-            "popularity": 75.1,
+            "popularity": 75.4,
             "reversal": 53.6,
             "stable": 0.2
           },
@@ -4505,7 +4505,7 @@
           "objective_indices": {
             "wealth": 39.0,
             "momentum": 24.8,
-            "risk": 90.1,
+            "risk": 90.2,
             "popularity": 77.4,
             "reversal": 53.0,
             "stable": 0.0
@@ -4533,11 +4533,11 @@
             }
           },
           "stars": 2,
-          "composite_score": 43.2,
+          "composite_score": 43.5,
           "change_pct": 3.32,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 52.0,
+            "wealth": 53.0,
             "momentum": 41.0,
             "risk": 100,
             "popularity": 66.0,
@@ -4547,7 +4547,7 @@
             "wealth": 33.6,
             "momentum": 24.8,
             "risk": 90.7,
-            "popularity": 62.9,
+            "popularity": 63.0,
             "reversal": 51.4,
             "stable": 0.0
           },
@@ -4574,21 +4574,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 46.5,
+          "composite_score": 48.2,
           "change_pct": 7.02,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 55.0,
-            "momentum": 46.0,
+            "wealth": 60.0,
+            "momentum": 48.0,
             "risk": 80.0,
             "popularity": 61.0,
             "reversal": 40.0
           },
           "objective_indices": {
-            "wealth": 38.7,
+            "wealth": 40.0,
             "momentum": 30.9,
             "risk": 83.5,
-            "popularity": 64.7,
+            "popularity": 67.7,
             "reversal": 48.0,
             "stable": 11.6
           },
@@ -4656,21 +4656,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 47.5,
+          "composite_score": 47.8,
           "change_pct": 5.96,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 59.0,
+            "wealth": 60.0,
             "momentum": 69.0,
             "risk": 100,
             "popularity": 49.0,
             "reversal": 38.0
           },
           "objective_indices": {
-            "wealth": 61.2,
+            "wealth": 61.4,
             "momentum": 65.2,
             "risk": 84.9,
-            "popularity": 47.5,
+            "popularity": 48.0,
             "reversal": 44.6,
             "stable": 7.4
           },
@@ -4711,7 +4711,7 @@
             "wealth": 41.4,
             "momentum": 41.0,
             "risk": 85.9,
-            "popularity": 39.1,
+            "popularity": 39.3,
             "reversal": 44.3,
             "stable": 5.4
           },
@@ -4738,21 +4738,21 @@
             }
           },
           "stars": 1,
-          "composite_score": 35.6,
+          "composite_score": 37.8,
           "change_pct": 1.72,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 39.0,
-            "momentum": 24.0,
+            "wealth": 45.0,
+            "momentum": 27.0,
             "risk": 75.0,
             "popularity": 51.0,
             "reversal": 39.0
           },
           "objective_indices": {
-            "wealth": 29.3,
+            "wealth": 30.1,
             "momentum": 21.1,
             "risk": 73.6,
-            "popularity": 54.1,
+            "popularity": 57.6,
             "reversal": 44.0,
             "stable": 19.8
           },
@@ -4792,51 +4792,10 @@
           "objective_indices": {
             "wealth": 45.6,
             "momentum": 46.6,
-            "risk": 82.4,
+            "risk": 82.8,
             "popularity": 75.5,
             "reversal": 43.0,
             "stable": 9.6
-          },
-          "ranking_scoring_version": "v2.1.0-beta",
-          "horizon": "day"
-        },
-        {
-          "symbol": "AMAT",
-          "name": "Applied Materials",
-          "name_zh": "Applied Materials",
-          "primary_element": {
-            "primary": "火",
-            "emoji": "🔥",
-            "icon_char": "火",
-            "icon_color": "#e8524a",
-            "icon_fg": "#ffffff",
-            "label": "火旺",
-            "distribution": {
-              "木": 0.0,
-              "火": 61.2,
-              "土": 7.3,
-              "金": 2.9,
-              "水": 28.6
-            }
-          },
-          "stars": 2,
-          "composite_score": 38.8,
-          "change_pct": 2.21,
-          "one_liner": "放量上涨，宜控仓参与，忌追高。",
-          "indices": {
-            "wealth": 51.0,
-            "momentum": 58.0,
-            "risk": 99.0,
-            "popularity": 30.0,
-            "reversal": 36.0
-          },
-          "objective_indices": {
-            "wealth": 48.2,
-            "momentum": 49.0,
-            "risk": 83.9,
-            "popularity": 32.7,
-            "reversal": 42.3,
-            "stable": 8.6
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -4861,21 +4820,21 @@
             }
           },
           "stars": 2,
-          "composite_score": 43.7,
+          "composite_score": 43.9,
           "change_pct": 2.14,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 59.0,
+            "wealth": 60.0,
             "momentum": 69.0,
             "risk": 93.0,
             "popularity": 27.0,
             "reversal": 35.0
           },
           "objective_indices": {
-            "wealth": 51.2,
+            "wealth": 51.3,
             "momentum": 51.2,
             "risk": 81.1,
-            "popularity": 36.8,
+            "popularity": 36.9,
             "reversal": 42.3,
             "stable": 11.8
           },
@@ -4902,21 +4861,21 @@
             }
           },
           "stars": 2,
-          "composite_score": 43.2,
+          "composite_score": 43.7,
           "change_pct": -1.45,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 58.0,
-            "momentum": 62.0,
+            "wealth": 59.0,
+            "momentum": 63.0,
             "risk": 100,
             "popularity": 39.0,
             "reversal": 36.0
           },
           "objective_indices": {
-            "wealth": 50.1,
+            "wealth": 50.0,
             "momentum": 53.6,
-            "risk": 82.3,
-            "popularity": 44.3,
+            "risk": 83.0,
+            "popularity": 44.9,
             "reversal": 42.1,
             "stable": 11.0
           },
@@ -4943,21 +4902,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 47.1,
+          "composite_score": 47.9,
           "change_pct": 3.63,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 54.0,
-            "momentum": 54.0,
+            "wealth": 56.0,
+            "momentum": 55.0,
             "risk": 68.0,
             "popularity": 52.0,
             "reversal": 33.0
           },
           "objective_indices": {
-            "wealth": 43.5,
+            "wealth": 44.1,
             "momentum": 41.0,
-            "risk": 69.3,
-            "popularity": 50.9,
+            "risk": 69.5,
+            "popularity": 52.2,
             "reversal": 41.3,
             "stable": 26.6
           },
@@ -4984,11 +4943,11 @@
             }
           },
           "stars": 1,
-          "composite_score": 33.8,
+          "composite_score": 34.0,
           "change_pct": 1.34,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 42.0,
+            "wealth": 43.0,
             "momentum": 36.0,
             "risk": 91.0,
             "popularity": 36.0,
@@ -4997,8 +4956,8 @@
           "objective_indices": {
             "wealth": 40.3,
             "momentum": 35.1,
-            "risk": 78.2,
-            "popularity": 43.1,
+            "risk": 79.0,
+            "popularity": 43.4,
             "reversal": 41.1,
             "stable": 13.0
           },
@@ -5025,23 +4984,64 @@
             }
           },
           "stars": 3,
-          "composite_score": 46.7,
+          "composite_score": 47.7,
           "change_pct": 2.47,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 55.0,
-            "momentum": 72.0,
+            "wealth": 57.0,
+            "momentum": 74.0,
             "risk": 80.0,
             "popularity": 35.0,
             "reversal": 33.0
           },
           "objective_indices": {
-            "wealth": 64.2,
+            "wealth": 64.8,
             "momentum": 68.0,
             "risk": 72.5,
-            "popularity": 36.5,
+            "popularity": 38.2,
             "reversal": 40.7,
             "stable": 21.0
+          },
+          "ranking_scoring_version": "v2.1.0-beta",
+          "horizon": "day"
+        },
+        {
+          "symbol": "DDOG",
+          "name": "Datadog",
+          "name_zh": "Datadog",
+          "primary_element": {
+            "primary": "金",
+            "emoji": "⚪",
+            "icon_char": "金",
+            "icon_color": "#9ca3af",
+            "icon_fg": "#1a1a2e",
+            "label": "金锐",
+            "distribution": {
+              "木": 7.3,
+              "火": 28.6,
+              "土": 2.9,
+              "金": 32.6,
+              "水": 28.6
+            }
+          },
+          "stars": 3,
+          "composite_score": 48.2,
+          "change_pct": 2.02,
+          "one_liner": "放量上涨，宜控仓参与，忌追高。",
+          "indices": {
+            "wealth": 63.0,
+            "momentum": 47.0,
+            "risk": 91.0,
+            "popularity": 69.0,
+            "reversal": 37.0
+          },
+          "objective_indices": {
+            "wealth": 46.2,
+            "momentum": 38.7,
+            "risk": 79.7,
+            "popularity": 73.9,
+            "reversal": 39.6,
+            "stable": 14.1
           },
           "ranking_scoring_version": "v2.1.0-beta",
           "horizon": "day"
@@ -5066,21 +5066,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 48.7,
+          "composite_score": 49.5,
           "change_pct": 2.53,
           "one_liner": "放量上涨，宜控仓参与，忌追高。",
           "indices": {
-            "wealth": 56.0,
-            "momentum": 65.0,
+            "wealth": 58.0,
+            "momentum": 66.0,
             "risk": 77.0,
             "popularity": 51.0,
             "reversal": 32.0
           },
           "objective_indices": {
-            "wealth": 47.5,
+            "wealth": 48.0,
             "momentum": 47.9,
-            "risk": 76.0,
-            "popularity": 48.1,
+            "risk": 75.9,
+            "popularity": 49.2,
             "reversal": 39.6,
             "stable": 19.3
           },
@@ -5107,21 +5107,21 @@
             }
           },
           "stars": 1,
-          "composite_score": 33.0,
+          "composite_score": 34.7,
           "change_pct": -0.77,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 40.0,
-            "momentum": 36.0,
+            "wealth": 45.0,
+            "momentum": 38.0,
             "risk": 87.0,
             "popularity": 33.0,
             "reversal": 36.0
           },
           "objective_indices": {
-            "wealth": 34.5,
+            "wealth": 34.2,
             "momentum": 31.0,
             "risk": 73.6,
-            "popularity": 41.5,
+            "popularity": 44.0,
             "reversal": 39.3,
             "stable": 17.8
           },
@@ -5148,21 +5148,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 44.9,
+          "composite_score": 45.2,
           "change_pct": -1.21,
           "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
           "indices": {
-            "wealth": 60.0,
+            "wealth": 61.0,
             "momentum": 59.0,
             "risk": 97.0,
             "popularity": 48.0,
             "reversal": 34.0
           },
           "objective_indices": {
-            "wealth": 42.2,
+            "wealth": 42.1,
             "momentum": 41.8,
             "risk": 77.0,
-            "popularity": 47.6,
+            "popularity": 48.1,
             "reversal": 37.9,
             "stable": 15.5
           },
@@ -5203,7 +5203,7 @@
             "wealth": 54.4,
             "momentum": 55.0,
             "risk": 62.4,
-            "popularity": 52.0,
+            "popularity": 52.1,
             "reversal": 36.5,
             "stable": 33.0
           },
@@ -5321,21 +5321,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 45.8,
+          "composite_score": 49.3,
           "change_pct": 0.2,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 46.0,
-            "momentum": 55.0,
+            "wealth": 55.0,
+            "momentum": 60.0,
             "risk": 10.0,
             "popularity": 27.0,
             "reversal": 11.0
           },
           "objective_indices": {
-            "wealth": 51.8,
+            "wealth": 52.0,
             "momentum": 52.6,
             "risk": 5.5,
-            "popularity": 32.8,
+            "popularity": 38.1,
             "reversal": 11.1,
             "stable": 93.7
           },
@@ -5362,21 +5362,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 56.1,
+          "composite_score": 61.6,
           "change_pct": 0.54,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 50.0,
-            "momentum": 54.0,
+            "wealth": 64.0,
+            "momentum": 62.0,
             "risk": 10.0,
             "popularity": 74.0,
             "reversal": 12.0
           },
           "objective_indices": {
-            "wealth": 52.3,
+            "wealth": 52.9,
             "momentum": 52.9,
             "risk": 8.2,
-            "popularity": 66.9,
+            "popularity": 75.2,
             "reversal": 12.7,
             "stable": 91.0
           },
@@ -5403,12 +5403,12 @@
             }
           },
           "stars": 3,
-          "composite_score": 46.1,
+          "composite_score": 47.1,
           "change_pct": -0.08,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 39.0,
-            "momentum": 50.0,
+            "wealth": 42.0,
+            "momentum": 51.0,
             "risk": 13.0,
             "popularity": 45.0,
             "reversal": 12.0
@@ -5417,7 +5417,7 @@
             "wealth": 54.9,
             "momentum": 55.2,
             "risk": 11.2,
-            "popularity": 42.5,
+            "popularity": 44.1,
             "reversal": 12.3,
             "stable": 88.2
           },
@@ -5444,21 +5444,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 56.4,
+          "composite_score": 57.9,
           "change_pct": -0.54,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 44.0,
-            "momentum": 53.0,
+            "wealth": 48.0,
+            "momentum": 55.0,
             "risk": 16.0,
             "popularity": 88.0,
             "reversal": 13.0
           },
           "objective_indices": {
-            "wealth": 62.8,
+            "wealth": 62.6,
             "momentum": 63.0,
             "risk": 12.3,
-            "popularity": 73.9,
+            "popularity": 76.5,
             "reversal": 13.1,
             "stable": 87.1
           },
@@ -5485,21 +5485,21 @@
             }
           },
           "stars": 4,
-          "composite_score": 53.9,
+          "composite_score": 55.9,
           "change_pct": 0.27,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 42.0,
-            "momentum": 53.0,
+            "wealth": 47.0,
+            "momentum": 56.0,
             "risk": 19.0,
             "popularity": 80.0,
             "reversal": 13.0
           },
           "objective_indices": {
-            "wealth": 62.7,
+            "wealth": 62.8,
             "momentum": 63.1,
             "risk": 13.9,
-            "popularity": 66.2,
+            "popularity": 69.2,
             "reversal": 12.7,
             "stable": 84.8
           },
@@ -5526,12 +5526,12 @@
             }
           },
           "stars": 4,
-          "composite_score": 51.2,
+          "composite_score": 53.5,
           "change_pct": 0.06,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 44.0,
-            "momentum": 47.0,
+            "wealth": 50.0,
+            "momentum": 50.0,
             "risk": 16.0,
             "popularity": 68.0,
             "reversal": 15.0
@@ -5540,7 +5540,7 @@
             "wealth": 43.0,
             "momentum": 43.4,
             "risk": 15.1,
-            "popularity": 59.1,
+            "popularity": 62.3,
             "reversal": 15.8,
             "stable": 84.3
           },
@@ -5567,21 +5567,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 56.2,
+          "composite_score": 58.0,
           "change_pct": -1.62,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 52.0,
-            "momentum": 55.0,
+            "wealth": 57.0,
+            "momentum": 57.0,
             "risk": 20.0,
             "popularity": 76.0,
             "reversal": 15.0
           },
           "objective_indices": {
-            "wealth": 50.6,
+            "wealth": 49.9,
             "momentum": 51.7,
             "risk": 13.9,
-            "popularity": 69.9,
+            "popularity": 73.0,
             "reversal": 15.0,
             "stable": 84.2
           },
@@ -5608,21 +5608,21 @@
             }
           },
           "stars": 4,
-          "composite_score": 53.5,
+          "composite_score": 55.5,
           "change_pct": 1.2,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 48.0,
-            "momentum": 54.0,
+            "wealth": 53.0,
+            "momentum": 57.0,
             "risk": 18.0,
             "popularity": 68.0,
             "reversal": 14.0
           },
           "objective_indices": {
-            "wealth": 45.7,
+            "wealth": 46.1,
             "momentum": 47.3,
             "risk": 14.7,
-            "popularity": 59.9,
+            "popularity": 62.8,
             "reversal": 15.0,
             "stable": 83.8
           },
@@ -5649,21 +5649,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 56.2,
+          "composite_score": 57.7,
           "change_pct": -0.39,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 43.0,
-            "momentum": 53.0,
+            "wealth": 47.0,
+            "momentum": 55.0,
             "risk": 18.0,
             "popularity": 89.0,
             "reversal": 14.0
           },
           "objective_indices": {
-            "wealth": 49.0,
+            "wealth": 48.9,
             "momentum": 49.8,
             "risk": 15.3,
-            "popularity": 71.3,
+            "popularity": 73.7,
             "reversal": 14.1,
             "stable": 83.7
           },
@@ -5690,11 +5690,11 @@
             }
           },
           "stars": 4,
-          "composite_score": 53.5,
+          "composite_score": 53.8,
           "change_pct": 0.24,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 54.0,
+            "wealth": 55.0,
             "momentum": 54.0,
             "risk": 21.0,
             "popularity": 62.0,
@@ -5704,7 +5704,7 @@
             "wealth": 42.3,
             "momentum": 43.7,
             "risk": 14.8,
-            "popularity": 59.6,
+            "popularity": 59.9,
             "reversal": 15.8,
             "stable": 83.2
           },
@@ -5731,12 +5731,12 @@
             }
           },
           "stars": 3,
-          "composite_score": 47.1,
+          "composite_score": 47.6,
           "change_pct": 0.43,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 50.0,
-            "momentum": 56.0,
+            "wealth": 51.0,
+            "momentum": 57.0,
             "risk": 18.0,
             "popularity": 31.0,
             "reversal": 14.0
@@ -5745,7 +5745,7 @@
             "wealth": 45.1,
             "momentum": 46.2,
             "risk": 15.3,
-            "popularity": 38.6,
+            "popularity": 39.1,
             "reversal": 14.8,
             "stable": 83.1
           },
@@ -5772,21 +5772,21 @@
             }
           },
           "stars": 3,
-          "composite_score": 46.8,
+          "composite_score": 48.8,
           "change_pct": 0.2,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 36.0,
-            "momentum": 49.0,
+            "wealth": 41.0,
+            "momentum": 52.0,
             "risk": 20.0,
             "popularity": 58.0,
             "reversal": 13.0
           },
           "objective_indices": {
-            "wealth": 55.6,
+            "wealth": 55.7,
             "momentum": 56.5,
             "risk": 15.2,
-            "popularity": 50.1,
+            "popularity": 53.1,
             "reversal": 13.2,
             "stable": 83.1
           },
@@ -5813,21 +5813,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 56.1,
+          "composite_score": 61.8,
           "change_pct": -0.23,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 47.0,
-            "momentum": 52.0,
+            "wealth": 62.0,
+            "momentum": 60.0,
             "risk": 18.0,
             "popularity": 84.0,
             "reversal": 15.0
           },
           "objective_indices": {
-            "wealth": 43.7,
+            "wealth": 43.4,
             "momentum": 44.3,
             "risk": 16.0,
-            "popularity": 72.6,
+            "popularity": 81.5,
             "reversal": 15.7,
             "stable": 83.0
           },
@@ -5853,22 +5853,22 @@
               "水": 33.3
             }
           },
-          "stars": 2,
-          "composite_score": 43.9,
+          "stars": 3,
+          "composite_score": 46.6,
           "change_pct": -1.4,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 41.0,
-            "momentum": 51.0,
+            "wealth": 48.0,
+            "momentum": 55.0,
             "risk": 20.0,
             "popularity": 34.0,
             "reversal": 14.0
           },
           "objective_indices": {
-            "wealth": 62.4,
+            "wealth": 61.6,
             "momentum": 63.0,
             "risk": 16.2,
-            "popularity": 36.4,
+            "popularity": 40.5,
             "reversal": 14.6,
             "stable": 82.8
           },
@@ -5895,21 +5895,21 @@
             }
           },
           "stars": 5,
-          "composite_score": 58.1,
+          "composite_score": 59.6,
           "change_pct": 1.43,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 48.0,
-            "momentum": 54.0,
+            "wealth": 52.0,
+            "momentum": 56.0,
             "risk": 18.0,
             "popularity": 91.0,
             "reversal": 14.0
           },
           "objective_indices": {
-            "wealth": 42.6,
+            "wealth": 43.1,
             "momentum": 44.0,
             "risk": 16.1,
-            "popularity": 77.6,
+            "popularity": 79.9,
             "reversal": 15.5,
             "stable": 82.6
           },
@@ -5936,12 +5936,12 @@
             }
           },
           "stars": 4,
-          "composite_score": 52.9,
+          "composite_score": 54.4,
           "change_pct": 0.0,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 42.0,
-            "momentum": 53.0,
+            "wealth": 46.0,
+            "momentum": 55.0,
             "risk": 20.0,
             "popularity": 76.0,
             "reversal": 13.0
@@ -5950,7 +5950,7 @@
             "wealth": 53.7,
             "momentum": 55.0,
             "risk": 15.8,
-            "popularity": 64.2,
+            "popularity": 66.6,
             "reversal": 14.3,
             "stable": 82.5
           },
@@ -5976,22 +5976,22 @@
               "水": 0.0
             }
           },
-          "stars": 3,
-          "composite_score": 49.2,
+          "stars": 4,
+          "composite_score": 50.5,
           "change_pct": 0.77,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 50.0,
-            "momentum": 54.0,
+            "wealth": 53.0,
+            "momentum": 56.0,
             "risk": 19.0,
             "popularity": 45.0,
             "reversal": 14.0
           },
           "objective_indices": {
-            "wealth": 46.0,
+            "wealth": 46.2,
             "momentum": 47.1,
             "risk": 16.6,
-            "popularity": 49.6,
+            "popularity": 51.2,
             "reversal": 15.3,
             "stable": 82.4
           },
@@ -6018,11 +6018,11 @@
             }
           },
           "stars": 4,
-          "composite_score": 52.0,
+          "composite_score": 52.2,
           "change_pct": -0.11,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 43.0,
+            "wealth": 44.0,
             "momentum": 56.0,
             "risk": 22.0,
             "popularity": 68.0,
@@ -6032,7 +6032,7 @@
             "wealth": 57.5,
             "momentum": 58.7,
             "risk": 15.7,
-            "popularity": 58.1,
+            "popularity": 58.2,
             "reversal": 13.6,
             "stable": 82.3
           },
@@ -6058,22 +6058,22 @@
               "水": 0.0
             }
           },
-          "stars": 4,
-          "composite_score": 54.4,
+          "stars": 5,
+          "composite_score": 56.9,
           "change_pct": -1.04,
           "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
           "indices": {
-            "wealth": 45.0,
-            "momentum": 50.0,
+            "wealth": 52.0,
+            "momentum": 53.0,
             "risk": 20.0,
             "popularity": 82.0,
             "reversal": 15.0
           },
           "objective_indices": {
-            "wealth": 41.4,
+            "wealth": 40.9,
             "momentum": 42.4,
             "risk": 16.5,
-            "popularity": 68.7,
+            "popularity": 72.2,
             "reversal": 15.6,
             "stable": 82.2
           },
@@ -6091,7 +6091,7 @@
       "display": "2026年8月10日–8月14日",
       "forecast": "2026.8.10–8.14 预测"
     },
-    "vibe": "下周展望：FSLR、GEN、NEM 股运相对领先，整体动能偏强。",
+    "vibe": "下周展望：FSLR、NEM、GEN 股运相对领先，整体动能偏强。",
     "disclaimer": "基于当前行情与动能的趋势推演，仅供娱乐参考，不构成投资建议。",
     "rankings": {
       "composite": {
@@ -6120,23 +6120,64 @@
               }
             },
             "stars": 5,
-            "composite_score": 73.5,
+            "composite_score": 73.7,
             "change_pct": 2.42,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 93.0,
+              "wealth": 94.0,
               "momentum": 100,
               "risk": 62.0,
               "popularity": 81.0,
               "reversal": 22.0
             },
             "objective_indices": {
-              "wealth": 76.2,
+              "wealth": 76.4,
               "momentum": 75.3,
-              "risk": 66.7,
-              "popularity": 84.5,
+              "risk": 66.6,
+              "popularity": 84.9,
               "reversal": 31.9,
               "stable": 34.5
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "NEM",
+            "name": "Newmont",
+            "name_zh": "Newmont",
+            "primary_element": {
+              "primary": "木",
+              "emoji": "🌳",
+              "icon_char": "木",
+              "icon_color": "#3d9970",
+              "icon_fg": "#ffffff",
+              "label": "木旺",
+              "distribution": {
+                "木": 40.0,
+                "火": 0.0,
+                "土": 33.3,
+                "金": 26.7,
+                "水": 0.0
+              }
+            },
+            "stars": 5,
+            "composite_score": 71.0,
+            "change_pct": 7.16,
+            "one_liner": "放量上涨，宜控仓参与，忌追高。",
+            "indices": {
+              "wealth": 75.0,
+              "momentum": 100,
+              "risk": 56.0,
+              "popularity": 90.0,
+              "reversal": 18.0
+            },
+            "objective_indices": {
+              "wealth": 79.9,
+              "momentum": 82.6,
+              "risk": 49.8,
+              "popularity": 84.3,
+              "reversal": 24.2,
+              "stable": 50.4
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -6183,47 +6224,6 @@
             "horizon": "next_week"
           },
           {
-            "symbol": "NEM",
-            "name": "Newmont",
-            "name_zh": "Newmont",
-            "primary_element": {
-              "primary": "木",
-              "emoji": "🌳",
-              "icon_char": "木",
-              "icon_color": "#3d9970",
-              "icon_fg": "#ffffff",
-              "label": "木旺",
-              "distribution": {
-                "木": 40.0,
-                "火": 0.0,
-                "土": 33.3,
-                "金": 26.7,
-                "水": 0.0
-              }
-            },
-            "stars": 5,
-            "composite_score": 70.3,
-            "change_pct": 7.16,
-            "one_liner": "放量上涨，宜控仓参与，忌追高。",
-            "indices": {
-              "wealth": 72.0,
-              "momentum": 100,
-              "risk": 56.0,
-              "popularity": 90.0,
-              "reversal": 18.0
-            },
-            "objective_indices": {
-              "wealth": 79.0,
-              "momentum": 82.6,
-              "risk": 49.8,
-              "popularity": 82.2,
-              "reversal": 24.2,
-              "stable": 50.4
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
             "symbol": "PSKY",
             "name": "Paramount Skydance Corporation",
             "name_zh": "Paramount Skydance Corporation",
@@ -6254,10 +6254,10 @@
               "reversal": 20.0
             },
             "objective_indices": {
-              "wealth": 62.8,
+              "wealth": 62.9,
               "momentum": 65.0,
               "risk": 50.8,
-              "popularity": 78.5,
+              "popularity": 78.7,
               "reversal": 29.3,
               "stable": 44.2
             },
@@ -6284,23 +6284,64 @@
               }
             },
             "stars": 5,
-            "composite_score": 68.7,
+            "composite_score": 69.0,
             "change_pct": 1.41,
             "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
             "indices": {
-              "wealth": 71.0,
+              "wealth": 72.0,
               "momentum": 87.0,
               "risk": 54.0,
               "popularity": 98.0,
               "reversal": 18.0
             },
             "objective_indices": {
-              "wealth": 72.6,
+              "wealth": 72.7,
               "momentum": 73.5,
-              "risk": 42.1,
-              "popularity": 90.2,
+              "risk": 41.6,
+              "popularity": 90.6,
               "reversal": 22.5,
               "stable": 53.5
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "NSC",
+            "name": "Norfolk Southern",
+            "name_zh": "Norfolk Southern",
+            "primary_element": {
+              "primary": "土",
+              "emoji": "🟫",
+              "icon_char": "土",
+              "icon_color": "#b8893d",
+              "icon_fg": "#ffffff",
+              "label": "土厚",
+              "distribution": {
+                "木": 33.3,
+                "火": 10.3,
+                "土": 40.0,
+                "金": 16.4,
+                "水": 0.0
+              }
+            },
+            "stars": 5,
+            "composite_score": 68.7,
+            "change_pct": -1.98,
+            "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
+            "indices": {
+              "wealth": 72.0,
+              "momentum": 76.0,
+              "risk": 30.0,
+              "popularity": 96.0,
+              "reversal": 13.0
+            },
+            "objective_indices": {
+              "wealth": 48.4,
+              "momentum": 53.5,
+              "risk": 20.9,
+              "popularity": 94.4,
+              "reversal": 16.3,
+              "stable": 76.7
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -6325,21 +6366,21 @@
               }
             },
             "stars": 5,
-            "composite_score": 67.8,
+            "composite_score": 68.2,
             "change_pct": 1.38,
             "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
             "indices": {
-              "wealth": 66.0,
-              "momentum": 91.0,
+              "wealth": 67.0,
+              "momentum": 92.0,
               "risk": 37.0,
               "popularity": 87.0,
               "reversal": 11.0
             },
             "objective_indices": {
-              "wealth": 70.4,
+              "wealth": 70.5,
               "momentum": 73.5,
               "risk": 27.3,
-              "popularity": 78.1,
+              "popularity": 78.8,
               "reversal": 16.1,
               "stable": 69.4
             },
@@ -6366,21 +6407,21 @@
               }
             },
             "stars": 5,
-            "composite_score": 67.5,
+            "composite_score": 68.0,
             "change_pct": 2.05,
             "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
             "indices": {
-              "wealth": 62.0,
+              "wealth": 64.0,
               "momentum": 83.0,
               "risk": 32.0,
               "popularity": 96.0,
               "reversal": 12.0
             },
             "objective_indices": {
-              "wealth": 70.7,
+              "wealth": 71.0,
               "momentum": 72.0,
-              "risk": 25.5,
-              "popularity": 83.8,
+              "risk": 25.4,
+              "popularity": 84.7,
               "reversal": 16.1,
               "stable": 71.8
             },
@@ -6407,23 +6448,105 @@
               }
             },
             "stars": 5,
-            "composite_score": 66.8,
+            "composite_score": 67.0,
             "change_pct": 3.63,
             "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
             "indices": {
-              "wealth": 68.0,
+              "wealth": 69.0,
               "momentum": 88.0,
               "risk": 36.0,
               "popularity": 76.0,
               "reversal": 20.0
             },
             "objective_indices": {
-              "wealth": 74.4,
+              "wealth": 74.7,
               "momentum": 75.1,
               "risk": 41.7,
-              "popularity": 75.4,
+              "popularity": 76.0,
               "reversal": 29.1,
               "stable": 55.9
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "SWK",
+            "name": "Stanley Black & Decker",
+            "name_zh": "Stanley Black & Decker",
+            "primary_element": {
+              "primary": "水",
+              "emoji": "🌊",
+              "icon_char": "水",
+              "icon_color": "#3b82c4",
+              "icon_fg": "#ffffff",
+              "label": "水旺",
+              "distribution": {
+                "木": 10.3,
+                "火": 0.0,
+                "土": 40.0,
+                "金": 4.1,
+                "水": 45.6
+              }
+            },
+            "stars": 5,
+            "composite_score": 66.6,
+            "change_pct": 2.82,
+            "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
+            "indices": {
+              "wealth": 69.0,
+              "momentum": 89.0,
+              "risk": 43.0,
+              "popularity": 84.0,
+              "reversal": 12.0
+            },
+            "objective_indices": {
+              "wealth": 73.8,
+              "momentum": 74.6,
+              "risk": 29.8,
+              "popularity": 80.6,
+              "reversal": 16.8,
+              "stable": 66.2
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "ALB",
+            "name": "Albemarle Corporation",
+            "name_zh": "Albemarle Corporation",
+            "primary_element": {
+              "primary": "木",
+              "emoji": "🌳",
+              "icon_char": "木",
+              "icon_color": "#3d9970",
+              "icon_fg": "#ffffff",
+              "label": "木旺",
+              "distribution": {
+                "木": 85.7,
+                "火": 0.0,
+                "土": 14.3,
+                "金": 0.0,
+                "水": 0.0
+              }
+            },
+            "stars": 5,
+            "composite_score": 66.1,
+            "change_pct": 4.54,
+            "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
+            "indices": {
+              "wealth": 62.0,
+              "momentum": 86.0,
+              "risk": 45.0,
+              "popularity": 87.0,
+              "reversal": 23.0
+            },
+            "objective_indices": {
+              "wealth": 66.1,
+              "momentum": 66.5,
+              "risk": 54.8,
+              "popularity": 78.9,
+              "reversal": 32.9,
+              "stable": 44.4
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -6470,47 +6593,6 @@
             "horizon": "next_week"
           },
           {
-            "symbol": "SWK",
-            "name": "Stanley Black & Decker",
-            "name_zh": "Stanley Black & Decker",
-            "primary_element": {
-              "primary": "水",
-              "emoji": "🌊",
-              "icon_char": "水",
-              "icon_color": "#3b82c4",
-              "icon_fg": "#ffffff",
-              "label": "水旺",
-              "distribution": {
-                "木": 10.3,
-                "火": 0.0,
-                "土": 40.0,
-                "金": 4.1,
-                "水": 45.6
-              }
-            },
-            "stars": 5,
-            "composite_score": 65.9,
-            "change_pct": 2.82,
-            "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
-            "indices": {
-              "wealth": 67.0,
-              "momentum": 88.0,
-              "risk": 43.0,
-              "popularity": 84.0,
-              "reversal": 12.0
-            },
-            "objective_indices": {
-              "wealth": 73.3,
-              "momentum": 74.6,
-              "risk": 29.8,
-              "popularity": 79.3,
-              "reversal": 16.8,
-              "stable": 66.2
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
             "symbol": "LULU",
             "name": "Lululemon Athletica",
             "name_zh": "Lululemon Athletica",
@@ -6541,10 +6623,10 @@
               "reversal": 17.0
             },
             "objective_indices": {
-              "wealth": 66.7,
+              "wealth": 66.8,
               "momentum": 66.7,
               "risk": 36.0,
-              "popularity": 75.9,
+              "popularity": 76.1,
               "reversal": 24.0,
               "stable": 60.6
             },
@@ -6584,8 +6666,8 @@
             "objective_indices": {
               "wealth": 65.7,
               "momentum": 68.0,
-              "risk": 41.7,
-              "popularity": 72.0,
+              "risk": 41.6,
+              "popularity": 72.1,
               "reversal": 21.9,
               "stable": 55.0
             },
@@ -6593,42 +6675,124 @@
             "horizon": "next_week"
           },
           {
-            "symbol": "ALB",
-            "name": "Albemarle Corporation",
-            "name_zh": "Albemarle Corporation",
+            "symbol": "MSI",
+            "name": "Motorola Solutions",
+            "name_zh": "Motorola Solutions",
             "primary_element": {
-              "primary": "木",
-              "emoji": "🌳",
-              "icon_char": "木",
-              "icon_color": "#3d9970",
+              "primary": "火",
+              "emoji": "🔥",
+              "icon_char": "火",
+              "icon_color": "#e8524a",
               "icon_fg": "#ffffff",
-              "label": "木旺",
+              "label": "火旺",
               "distribution": {
-                "木": 85.7,
-                "火": 0.0,
-                "土": 14.3,
-                "金": 0.0,
+                "木": 0.0,
+                "火": 28.6,
+                "土": 16.1,
+                "金": 26.7,
+                "水": 28.6
+              }
+            },
+            "stars": 5,
+            "composite_score": 65.5,
+            "change_pct": -1.38,
+            "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
+            "indices": {
+              "wealth": 62.0,
+              "momentum": 80.0,
+              "risk": 42.0,
+              "popularity": 96.0,
+              "reversal": 14.0
+            },
+            "objective_indices": {
+              "wealth": 62.1,
+              "momentum": 66.0,
+              "risk": 26.1,
+              "popularity": 83.1,
+              "reversal": 17.4,
+              "stable": 70.8
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "PH",
+            "name": "Parker Hannifin",
+            "name_zh": "Parker Hannifin",
+            "primary_element": {
+              "primary": "土",
+              "emoji": "🟫",
+              "icon_char": "土",
+              "icon_color": "#b8893d",
+              "icon_fg": "#ffffff",
+              "label": "土厚",
+              "distribution": {
+                "木": 0.0,
+                "火": 22.6,
+                "土": 73.3,
+                "金": 4.1,
                 "水": 0.0
               }
             },
             "stars": 5,
-            "composite_score": 65.4,
-            "change_pct": 4.54,
+            "composite_score": 65.0,
+            "change_pct": 0.38,
             "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
             "indices": {
-              "wealth": 60.0,
-              "momentum": 85.0,
-              "risk": 45.0,
-              "popularity": 87.0,
-              "reversal": 23.0
+              "wealth": 68.0,
+              "momentum": 88.0,
+              "risk": 37.0,
+              "popularity": 74.0,
+              "reversal": 12.0
             },
             "objective_indices": {
-              "wealth": 65.4,
-              "momentum": 66.5,
-              "risk": 54.8,
-              "popularity": 77.2,
-              "reversal": 32.9,
-              "stable": 44.4
+              "wealth": 67.7,
+              "momentum": 70.6,
+              "risk": 25.6,
+              "popularity": 71.1,
+              "reversal": 15.8,
+              "stable": 71.7
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "AVGO",
+            "name": "Broadcom",
+            "name_zh": "博通",
+            "primary_element": {
+              "primary": "火",
+              "emoji": "🔥",
+              "icon_char": "火",
+              "icon_color": "#e8524a",
+              "icon_fg": "#ffffff",
+              "label": "火旺",
+              "distribution": {
+                "木": 0.0,
+                "火": 73.3,
+                "土": 10.3,
+                "金": 16.4,
+                "水": 0.0
+              }
+            },
+            "stars": 5,
+            "composite_score": 64.8,
+            "change_pct": 1.71,
+            "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+            "indices": {
+              "wealth": 66.0,
+              "momentum": 84.0,
+              "risk": 50.0,
+              "popularity": 84.0,
+              "reversal": 20.0
+            },
+            "objective_indices": {
+              "wealth": 67.5,
+              "momentum": 69.4,
+              "risk": 50.4,
+              "popularity": 70.5,
+              "reversal": 27.6,
+              "stable": 46.8
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -6675,9 +6839,9 @@
             "horizon": "next_week"
           },
           {
-            "symbol": "NSC",
-            "name": "Norfolk Southern",
-            "name_zh": "Norfolk Southern",
+            "symbol": "TECH",
+            "name": "Bio-Techne",
+            "name_zh": "Bio-Techne",
             "primary_element": {
               "primary": "土",
               "emoji": "🟫",
@@ -6686,72 +6850,31 @@
               "icon_fg": "#ffffff",
               "label": "土厚",
               "distribution": {
-                "木": 33.3,
-                "火": 10.3,
-                "土": 40.0,
-                "金": 16.4,
-                "水": 0.0
+                "木": 0.0,
+                "火": 12.3,
+                "土": 50.3,
+                "金": 4.1,
+                "水": 33.3
               }
             },
             "stars": 5,
             "composite_score": 64.7,
-            "change_pct": -1.98,
+            "change_pct": 0.54,
             "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
             "indices": {
-              "wealth": 61.0,
-              "momentum": 71.0,
-              "risk": 30.0,
-              "popularity": 96.0,
-              "reversal": 13.0
+              "wealth": 66.0,
+              "momentum": 74.0,
+              "risk": 10.0,
+              "popularity": 74.0,
+              "reversal": 9.0
             },
             "objective_indices": {
-              "wealth": 50.4,
-              "momentum": 53.5,
-              "risk": 20.9,
-              "popularity": 87.3,
-              "reversal": 16.3,
-              "stable": 76.7
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "AKAM",
-            "name": "Akamai Technologies",
-            "name_zh": "Akamai Technologies",
-            "primary_element": {
-              "primary": "水",
-              "emoji": "🌊",
-              "icon_char": "水",
-              "icon_color": "#3b82c4",
-              "icon_fg": "#ffffff",
-              "label": "水旺",
-              "distribution": {
-                "木": 7.3,
-                "火": 28.6,
-                "土": 11.7,
-                "金": 0.0,
-                "水": 52.4
-              }
-            },
-            "stars": 5,
-            "composite_score": 64.5,
-            "change_pct": -6.76,
-            "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
-            "indices": {
-              "wealth": 72.0,
-              "momentum": 68.0,
-              "risk": 59.0,
-              "popularity": 94.0,
-              "reversal": 30.0
-            },
-            "objective_indices": {
-              "wealth": 32.7,
-              "momentum": 38.5,
-              "risk": 66.9,
-              "popularity": 95.2,
-              "reversal": 38.4,
-              "stable": 32.7
+              "wealth": 52.9,
+              "momentum": 52.9,
+              "risk": 8.2,
+              "popularity": 75.2,
+              "reversal": 12.7,
+              "stable": 91.0
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -6790,132 +6913,9 @@
               "wealth": 61.3,
               "momentum": 61.9,
               "risk": 35.8,
-              "popularity": 82.8,
+              "popularity": 82.9,
               "reversal": 20.4,
               "stable": 61.7
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "TTWO",
-            "name": "Take-Two Interactive",
-            "name_zh": "Take-Two Interactive",
-            "primary_element": {
-              "primary": "水",
-              "emoji": "🌊",
-              "icon_char": "水",
-              "icon_color": "#3b82c4",
-              "icon_fg": "#ffffff",
-              "label": "水旺",
-              "distribution": {
-                "木": 0.0,
-                "火": 0.0,
-                "土": 31.5,
-                "金": 31.1,
-                "水": 37.4
-              }
-            },
-            "stars": 5,
-            "composite_score": 64.4,
-            "change_pct": 6.04,
-            "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
-            "indices": {
-              "wealth": 74.0,
-              "momentum": 80.0,
-              "risk": 43.0,
-              "popularity": 73.0,
-              "reversal": 18.0
-            },
-            "objective_indices": {
-              "wealth": 59.5,
-              "momentum": 53.7,
-              "risk": 31.7,
-              "popularity": 80.7,
-              "reversal": 21.9,
-              "stable": 64.5
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "AVGO",
-            "name": "Broadcom",
-            "name_zh": "博通",
-            "primary_element": {
-              "primary": "火",
-              "emoji": "🔥",
-              "icon_char": "火",
-              "icon_color": "#e8524a",
-              "icon_fg": "#ffffff",
-              "label": "火旺",
-              "distribution": {
-                "木": 0.0,
-                "火": 73.3,
-                "土": 10.3,
-                "金": 16.4,
-                "水": 0.0
-              }
-            },
-            "stars": 5,
-            "composite_score": 64.0,
-            "change_pct": 1.71,
-            "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
-            "indices": {
-              "wealth": 64.0,
-              "momentum": 83.0,
-              "risk": 50.0,
-              "popularity": 84.0,
-              "reversal": 20.0
-            },
-            "objective_indices": {
-              "wealth": 67.2,
-              "momentum": 69.4,
-              "risk": 50.5,
-              "popularity": 69.1,
-              "reversal": 27.6,
-              "stable": 46.8
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "MSI",
-            "name": "Motorola Solutions",
-            "name_zh": "Motorola Solutions",
-            "primary_element": {
-              "primary": "火",
-              "emoji": "🔥",
-              "icon_char": "火",
-              "icon_color": "#e8524a",
-              "icon_fg": "#ffffff",
-              "label": "火旺",
-              "distribution": {
-                "木": 0.0,
-                "火": 28.6,
-                "土": 16.1,
-                "金": 26.7,
-                "水": 28.6
-              }
-            },
-            "stars": 5,
-            "composite_score": 64.0,
-            "change_pct": -1.38,
-            "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
-            "indices": {
-              "wealth": 58.0,
-              "momentum": 78.0,
-              "risk": 42.0,
-              "popularity": 96.0,
-              "reversal": 14.0
-            },
-            "objective_indices": {
-              "wealth": 62.7,
-              "momentum": 66.0,
-              "risk": 26.1,
-              "popularity": 80.0,
-              "reversal": 17.4,
-              "stable": 70.8
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -6948,21 +6948,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 64.4,
+            "composite_score": 64.9,
             "change_pct": 5.41,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 66.0,
+              "wealth": 68.0,
               "momentum": 100,
               "risk": 100,
               "popularity": 89.0,
               "reversal": 34.0
             },
             "objective_indices": {
-              "wealth": 56.4,
+              "wealth": 56.9,
               "momentum": 58.7,
               "risk": 91.5,
-              "popularity": 73.8,
+              "popularity": 74.9,
               "reversal": 41.2,
               "stable": 2.8
             },
@@ -7000,10 +7000,10 @@
               "reversal": 16.0
             },
             "objective_indices": {
-              "wealth": 82.2,
+              "wealth": 82.3,
               "momentum": 88.3,
               "risk": 47.5,
-              "popularity": 65.8,
+              "popularity": 66.1,
               "reversal": 23.8,
               "stable": 48.6
             },
@@ -7112,21 +7112,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 62.4,
+            "composite_score": 62.6,
             "change_pct": 6.22,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 78.0,
+              "wealth": 79.0,
               "momentum": 99.0,
               "risk": 100,
               "popularity": 69.0,
               "reversal": 29.0
             },
             "objective_indices": {
-              "wealth": 73.6,
+              "wealth": 73.7,
               "momentum": 76.9,
               "risk": 91.2,
-              "popularity": 67.5,
+              "popularity": 67.7,
               "reversal": 37.7,
               "stable": 3.3
             },
@@ -7166,7 +7166,7 @@
             "objective_indices": {
               "wealth": 75.4,
               "momentum": 75.4,
-              "risk": 51.0,
+              "risk": 51.2,
               "popularity": 84.9,
               "reversal": 23.1,
               "stable": 51.1
@@ -7194,21 +7194,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 57.0,
+            "composite_score": 57.3,
             "change_pct": 10.32,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 82.0,
+              "wealth": 83.0,
               "momentum": 98.0,
               "risk": 100,
               "popularity": 40.0,
               "reversal": 27.0
             },
             "objective_indices": {
-              "wealth": 85.0,
+              "wealth": 85.1,
               "momentum": 90.0,
-              "risk": 79.7,
-              "popularity": 54.3,
+              "risk": 79.8,
+              "popularity": 54.6,
               "reversal": 35.7,
               "stable": 13.4
             },
@@ -7246,10 +7246,10 @@
               "reversal": 28.0
             },
             "objective_indices": {
-              "wealth": 58.1,
+              "wealth": 58.2,
               "momentum": 56.6,
               "risk": 81.3,
-              "popularity": 61.6,
+              "popularity": 61.8,
               "reversal": 35.6,
               "stable": 19.8
             },
@@ -7298,6 +7298,47 @@
             "horizon": "next_week"
           },
           {
+            "symbol": "QCOM",
+            "name": "Qualcomm",
+            "name_zh": "Qualcomm",
+            "primary_element": {
+              "primary": "火",
+              "emoji": "🔥",
+              "icon_char": "火",
+              "icon_color": "#e8524a",
+              "icon_fg": "#ffffff",
+              "label": "火旺",
+              "distribution": {
+                "木": 8.8,
+                "火": 52.4,
+                "土": 10.2,
+                "金": 0.0,
+                "水": 28.6
+              }
+            },
+            "stars": 5,
+            "composite_score": 61.7,
+            "change_pct": 4.66,
+            "one_liner": "放量上涨，宜控仓参与，忌追高。",
+            "indices": {
+              "wealth": 66.0,
+              "momentum": 91.0,
+              "risk": 58.0,
+              "popularity": 62.0,
+              "reversal": 25.0
+            },
+            "objective_indices": {
+              "wealth": 52.3,
+              "momentum": 53.7,
+              "risk": 60.9,
+              "popularity": 56.2,
+              "reversal": 34.3,
+              "stable": 35.4
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
             "symbol": "BKNG",
             "name": "Booking Holdings",
             "name_zh": "Booking Holdings",
@@ -7331,50 +7372,9 @@
               "wealth": 74.5,
               "momentum": 77.2,
               "risk": 33.3,
-              "popularity": 73.0,
+              "popularity": 73.1,
               "reversal": 19.2,
               "stable": 61.4
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "QCOM",
-            "name": "Qualcomm",
-            "name_zh": "Qualcomm",
-            "primary_element": {
-              "primary": "火",
-              "emoji": "🔥",
-              "icon_char": "火",
-              "icon_color": "#e8524a",
-              "icon_fg": "#ffffff",
-              "label": "火旺",
-              "distribution": {
-                "木": 8.8,
-                "火": 52.4,
-                "土": 10.2,
-                "金": 0.0,
-                "水": 28.6
-              }
-            },
-            "stars": 5,
-            "composite_score": 61.2,
-            "change_pct": 4.66,
-            "one_liner": "放量上涨，宜控仓参与，忌追高。",
-            "indices": {
-              "wealth": 65.0,
-              "momentum": 90.0,
-              "risk": 58.0,
-              "popularity": 62.0,
-              "reversal": 25.0
-            },
-            "objective_indices": {
-              "wealth": 51.9,
-              "momentum": 53.7,
-              "risk": 60.9,
-              "popularity": 55.2,
-              "reversal": 34.3,
-              "stable": 35.4
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -7399,105 +7399,23 @@
               }
             },
             "stars": 5,
-            "composite_score": 61.4,
+            "composite_score": 62.1,
             "change_pct": 0.75,
             "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
             "indices": {
-              "wealth": 57.0,
-              "momentum": 89.0,
+              "wealth": 59.0,
+              "momentum": 90.0,
               "risk": 62.0,
               "popularity": 83.0,
               "reversal": 17.0
             },
             "objective_indices": {
-              "wealth": 66.2,
+              "wealth": 66.4,
               "momentum": 72.1,
               "risk": 36.3,
-              "popularity": 69.3,
+              "popularity": 70.6,
               "reversal": 19.8,
               "stable": 59.4
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "NOW",
-            "name": "ServiceNow",
-            "name_zh": "ServiceNow",
-            "primary_element": {
-              "primary": "火",
-              "emoji": "🔥",
-              "icon_char": "火",
-              "icon_color": "#e8524a",
-              "icon_fg": "#ffffff",
-              "label": "火旺",
-              "distribution": {
-                "木": 0.0,
-                "火": 52.4,
-                "土": 10.2,
-                "金": 0.0,
-                "水": 37.4
-              }
-            },
-            "stars": 4,
-            "composite_score": 57.8,
-            "change_pct": 6.42,
-            "one_liner": "放量上涨，宜控仓参与，忌追高。",
-            "indices": {
-              "wealth": 68.0,
-              "momentum": 89.0,
-              "risk": 75.0,
-              "popularity": 54.0,
-              "reversal": 27.0
-            },
-            "objective_indices": {
-              "wealth": 74.7,
-              "momentum": 77.1,
-              "risk": 72.8,
-              "popularity": 54.5,
-              "reversal": 36.3,
-              "stable": 24.2
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "CVNA",
-            "name": "Carvana",
-            "name_zh": "Carvana",
-            "primary_element": {
-              "primary": "土",
-              "emoji": "🟫",
-              "icon_char": "土",
-              "icon_color": "#b8893d",
-              "icon_fg": "#ffffff",
-              "label": "土厚",
-              "distribution": {
-                "木": 0.0,
-                "火": 33.3,
-                "土": 54.3,
-                "金": 0.0,
-                "水": 12.3
-              }
-            },
-            "stars": 4,
-            "composite_score": 55.4,
-            "change_pct": 3.67,
-            "one_liner": "放量上涨，宜控仓参与，忌追高。",
-            "indices": {
-              "wealth": 63.0,
-              "momentum": 88.0,
-              "risk": 74.0,
-              "popularity": 54.0,
-              "reversal": 20.0
-            },
-            "objective_indices": {
-              "wealth": 70.5,
-              "momentum": 72.4,
-              "risk": 57.1,
-              "popularity": 54.0,
-              "reversal": 24.5,
-              "stable": 37.5
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -7522,23 +7440,187 @@
               }
             },
             "stars": 5,
-            "composite_score": 60.8,
+            "composite_score": 62.3,
             "change_pct": 1.06,
             "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
             "indices": {
-              "wealth": 72.0,
-              "momentum": 87.0,
+              "wealth": 76.0,
+              "momentum": 89.0,
               "risk": 49.0,
               "popularity": 55.0,
               "reversal": 16.0
             },
             "objective_indices": {
-              "wealth": 69.0,
+              "wealth": 69.3,
               "momentum": 70.2,
               "risk": 38.9,
-              "popularity": 65.5,
+              "popularity": 68.1,
               "reversal": 21.6,
               "stable": 56.2
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "CVNA",
+            "name": "Carvana",
+            "name_zh": "Carvana",
+            "primary_element": {
+              "primary": "土",
+              "emoji": "🟫",
+              "icon_char": "土",
+              "icon_color": "#b8893d",
+              "icon_fg": "#ffffff",
+              "label": "土厚",
+              "distribution": {
+                "木": 0.0,
+                "火": 33.3,
+                "土": 54.3,
+                "金": 0.0,
+                "水": 12.3
+              }
+            },
+            "stars": 4,
+            "composite_score": 56.2,
+            "change_pct": 3.67,
+            "one_liner": "放量上涨，宜控仓参与，忌追高。",
+            "indices": {
+              "wealth": 65.0,
+              "momentum": 89.0,
+              "risk": 74.0,
+              "popularity": 54.0,
+              "reversal": 20.0
+            },
+            "objective_indices": {
+              "wealth": 71.0,
+              "momentum": 72.4,
+              "risk": 57.1,
+              "popularity": 55.3,
+              "reversal": 24.5,
+              "stable": 37.5
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "NOW",
+            "name": "ServiceNow",
+            "name_zh": "ServiceNow",
+            "primary_element": {
+              "primary": "火",
+              "emoji": "🔥",
+              "icon_char": "火",
+              "icon_color": "#e8524a",
+              "icon_fg": "#ffffff",
+              "label": "火旺",
+              "distribution": {
+                "木": 0.0,
+                "火": 52.4,
+                "土": 10.2,
+                "金": 0.0,
+                "水": 37.4
+              }
+            },
+            "stars": 4,
+            "composite_score": 58.1,
+            "change_pct": 6.42,
+            "one_liner": "放量上涨，宜控仓参与，忌追高。",
+            "indices": {
+              "wealth": 69.0,
+              "momentum": 89.0,
+              "risk": 75.0,
+              "popularity": 54.0,
+              "reversal": 27.0
+            },
+            "objective_indices": {
+              "wealth": 75.0,
+              "momentum": 77.1,
+              "risk": 72.8,
+              "popularity": 55.1,
+              "reversal": 36.3,
+              "stable": 24.2
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "BLDR",
+            "name": "Builders FirstSource",
+            "name_zh": "Builders FirstSource",
+            "primary_element": {
+              "primary": "土",
+              "emoji": "🟫",
+              "icon_char": "土",
+              "icon_color": "#b8893d",
+              "icon_fg": "#ffffff",
+              "label": "土厚",
+              "distribution": {
+                "木": 10.3,
+                "火": 0.0,
+                "土": 89.7,
+                "金": 0.0,
+                "水": 0.0
+              }
+            },
+            "stars": 4,
+            "composite_score": 50.9,
+            "change_pct": 3.01,
+            "one_liner": "放量上涨，宜控仓参与，忌追高。",
+            "indices": {
+              "wealth": 60.0,
+              "momentum": 87.0,
+              "risk": 70.0,
+              "popularity": 32.0,
+              "reversal": 22.0
+            },
+            "objective_indices": {
+              "wealth": 60.2,
+              "momentum": 61.5,
+              "risk": 64.3,
+              "popularity": 40.7,
+              "reversal": 30.0,
+              "stable": 30.4
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "UBER",
+            "name": "Uber",
+            "name_zh": "Uber",
+            "primary_element": {
+              "primary": "土",
+              "emoji": "🟫",
+              "icon_char": "土",
+              "icon_color": "#b8893d",
+              "icon_fg": "#ffffff",
+              "label": "土厚",
+              "distribution": {
+                "木": 0.0,
+                "火": 33.3,
+                "土": 66.7,
+                "金": 0.0,
+                "水": 0.0
+              }
+            },
+            "stars": 5,
+            "composite_score": 62.8,
+            "change_pct": 6.46,
+            "one_liner": "气场平稳，宜长期思考，忌频繁交易。",
+            "indices": {
+              "wealth": 75.0,
+              "momentum": 86.0,
+              "risk": 52.0,
+              "popularity": 63.0,
+              "reversal": 18.0
+            },
+            "objective_indices": {
+              "wealth": 64.7,
+              "momentum": 60.8,
+              "risk": 41.9,
+              "popularity": 68.5,
+              "reversal": 23.0,
+              "stable": 54.4
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -7574,10 +7656,10 @@
               "reversal": 12.0
             },
             "objective_indices": {
-              "wealth": 73.5,
+              "wealth": 73.6,
               "momentum": 76.7,
               "risk": 23.9,
-              "popularity": 44.9,
+              "popularity": 45.0,
               "reversal": 16.9,
               "stable": 72.7
             },
@@ -7585,9 +7667,9 @@
             "horizon": "next_week"
           },
           {
-            "symbol": "BLDR",
-            "name": "Builders FirstSource",
-            "name_zh": "Builders FirstSource",
+            "symbol": "MRNA",
+            "name": "Moderna",
+            "name_zh": "Moderna",
             "primary_element": {
               "primary": "土",
               "emoji": "🟫",
@@ -7598,70 +7680,29 @@
               "distribution": {
                 "木": 10.3,
                 "火": 0.0,
-                "土": 89.7,
-                "金": 0.0,
-                "水": 0.0
+                "土": 44.1,
+                "金": 12.3,
+                "水": 33.3
               }
             },
-            "stars": 3,
-            "composite_score": 49.2,
-            "change_pct": 3.01,
+            "stars": 4,
+            "composite_score": 64.0,
+            "change_pct": 9.86,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 55.0,
+              "wealth": 66.0,
               "momentum": 85.0,
-              "risk": 70.0,
-              "popularity": 32.0,
-              "reversal": 22.0
+              "risk": 74.0,
+              "popularity": 90.0,
+              "reversal": 29.0
             },
             "objective_indices": {
-              "wealth": 58.8,
-              "momentum": 61.5,
-              "risk": 64.3,
-              "popularity": 37.4,
-              "reversal": 30.0,
-              "stable": 30.4
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "PH",
-            "name": "Parker Hannifin",
-            "name_zh": "Parker Hannifin",
-            "primary_element": {
-              "primary": "土",
-              "emoji": "🟫",
-              "icon_char": "土",
-              "icon_color": "#b8893d",
-              "icon_fg": "#ffffff",
-              "label": "土厚",
-              "distribution": {
-                "木": 0.0,
-                "火": 22.6,
-                "土": 73.3,
-                "金": 4.1,
-                "水": 0.0
-              }
-            },
-            "stars": 5,
-            "composite_score": 63.0,
-            "change_pct": 0.38,
-            "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
-            "indices": {
-              "wealth": 63.0,
-              "momentum": 85.0,
-              "risk": 37.0,
-              "popularity": 74.0,
-              "reversal": 12.0
-            },
-            "objective_indices": {
-              "wealth": 67.5,
-              "momentum": 70.6,
-              "risk": 25.6,
-              "popularity": 67.3,
-              "reversal": 15.8,
-              "stable": 71.7
+              "wealth": 53.8,
+              "momentum": 50.3,
+              "risk": 70.8,
+              "popularity": 83.5,
+              "reversal": 37.4,
+              "stable": 23.9
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -7700,50 +7741,9 @@
               "wealth": 68.7,
               "momentum": 74.6,
               "risk": 59.9,
-              "popularity": 64.9,
+              "popularity": 65.0,
               "reversal": 32.1,
               "stable": 34.7
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "WSM",
-            "name": "Williams-Sonoma, Inc.",
-            "name_zh": "Williams-Sonoma, Inc.",
-            "primary_element": {
-              "primary": "火",
-              "emoji": "🔥",
-              "icon_char": "火",
-              "icon_color": "#e8524a",
-              "icon_fg": "#ffffff",
-              "label": "火旺",
-              "distribution": {
-                "木": 0.0,
-                "火": 45.7,
-                "土": 40.0,
-                "金": 14.3,
-                "水": 0.0
-              }
-            },
-            "stars": 4,
-            "composite_score": 55.5,
-            "change_pct": 1.98,
-            "one_liner": "动能强劲，宜顺势止损，忌过度杠杆。",
-            "indices": {
-              "wealth": 67.0,
-              "momentum": 85.0,
-              "risk": 39.0,
-              "popularity": 33.0,
-              "reversal": 12.0
-            },
-            "objective_indices": {
-              "wealth": 64.9,
-              "momentum": 68.2,
-              "risk": 28.4,
-              "popularity": 41.7,
-              "reversal": 16.8,
-              "stable": 67.9
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -7816,22 +7816,22 @@
                 "水": 28.6
               }
             },
-            "stars": 2,
-            "composite_score": 43.8,
+            "stars": 3,
+            "composite_score": 44.0,
             "change_pct": -3.81,
             "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
             "indices": {
-              "wealth": 49.0,
+              "wealth": 50.0,
               "momentum": 33.0,
               "risk": 100,
               "popularity": 79.0,
               "reversal": 50.0
             },
             "objective_indices": {
-              "wealth": 19.2,
+              "wealth": 19.0,
               "momentum": 16.4,
               "risk": 91.4,
-              "popularity": 75.1,
+              "popularity": 75.4,
               "reversal": 53.6,
               "stable": 0.2
             },
@@ -7871,9 +7871,50 @@
             "objective_indices": {
               "wealth": 39.0,
               "momentum": 24.8,
-              "risk": 90.1,
+              "risk": 90.2,
               "popularity": 77.4,
               "reversal": 53.0,
+              "stable": 0.0
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "APP",
+            "name": "AppLovin",
+            "name_zh": "AppLovin",
+            "primary_element": {
+              "primary": "火",
+              "emoji": "🔥",
+              "icon_char": "火",
+              "icon_color": "#e8524a",
+              "icon_fg": "#ffffff",
+              "label": "火旺",
+              "distribution": {
+                "木": 0.0,
+                "火": 52.4,
+                "土": 10.2,
+                "金": 0.0,
+                "水": 37.4
+              }
+            },
+            "stars": 3,
+            "composite_score": 44.2,
+            "change_pct": 3.32,
+            "one_liner": "放量上涨，宜控仓参与，忌追高。",
+            "indices": {
+              "wealth": 51.0,
+              "momentum": 45.0,
+              "risk": 100,
+              "popularity": 66.0,
+              "reversal": 47.0
+            },
+            "objective_indices": {
+              "wealth": 33.6,
+              "momentum": 24.8,
+              "risk": 90.7,
+              "popularity": 63.0,
+              "reversal": 51.4,
               "stable": 0.0
             },
             "ranking_scoring_version": "v2.1.0-beta",
@@ -7899,21 +7940,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 45.6,
+            "composite_score": 45.9,
             "change_pct": -3.68,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 55.0,
+              "wealth": 56.0,
               "momentum": 62.0,
               "risk": 100,
               "popularity": 49.0,
               "reversal": 44.0
             },
             "objective_indices": {
-              "wealth": 30.0,
+              "wealth": 29.9,
               "momentum": 27.4,
-              "risk": 94.7,
-              "popularity": 48.0,
+              "risk": 94.8,
+              "popularity": 48.2,
               "reversal": 49.6,
               "stable": 0.0
             },
@@ -7940,21 +7981,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 44.2,
+            "composite_score": 45.7,
             "change_pct": 7.02,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 46.0,
-              "momentum": 44.0,
+              "wealth": 50.0,
+              "momentum": 46.0,
               "risk": 80.0,
               "popularity": 61.0,
               "reversal": 43.0
             },
             "objective_indices": {
-              "wealth": 38.7,
+              "wealth": 40.0,
               "momentum": 30.9,
               "risk": 83.5,
-              "popularity": 64.7,
+              "popularity": 67.7,
               "reversal": 48.0,
               "stable": 11.6
             },
@@ -7981,21 +8022,21 @@
               }
             },
             "stars": 1,
-            "composite_score": 33.6,
+            "composite_score": 35.4,
             "change_pct": 1.72,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 32.0,
-              "momentum": 22.0,
+              "wealth": 37.0,
+              "momentum": 24.0,
               "risk": 75.0,
               "popularity": 51.0,
               "reversal": 41.0
             },
             "objective_indices": {
-              "wealth": 29.3,
+              "wealth": 30.1,
               "momentum": 21.1,
               "risk": 73.6,
-              "popularity": 54.1,
+              "popularity": 57.6,
               "reversal": 44.0,
               "stable": 19.8
             },
@@ -8022,11 +8063,11 @@
               }
             },
             "stars": 1,
-            "composite_score": 32.4,
+            "composite_score": 32.6,
             "change_pct": 1.34,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 36.0,
+              "wealth": 37.0,
               "momentum": 36.0,
               "risk": 91.0,
               "popularity": 36.0,
@@ -8035,8 +8076,8 @@
             "objective_indices": {
               "wealth": 40.3,
               "momentum": 35.1,
-              "risk": 78.2,
-              "popularity": 43.1,
+              "risk": 79.0,
+              "popularity": 43.4,
               "reversal": 41.1,
               "stable": 13.0
             },
@@ -8063,12 +8104,12 @@
               }
             },
             "stars": 2,
-            "composite_score": 40.1,
+            "composite_score": 40.4,
             "change_pct": -4.71,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
               "wealth": 55.0,
-              "momentum": 59.0,
+              "momentum": 60.0,
               "risk": 100,
               "popularity": 29.0,
               "reversal": 39.0
@@ -8077,7 +8118,7 @@
               "wealth": 41.4,
               "momentum": 41.0,
               "risk": 85.9,
-              "popularity": 39.1,
+              "popularity": 39.3,
               "reversal": 44.3,
               "stable": 5.4
             },
@@ -8156,10 +8197,10 @@
               "reversal": 37.0
             },
             "objective_indices": {
-              "wealth": 46.1,
+              "wealth": 46.2,
               "momentum": 38.7,
-              "risk": 79.8,
-              "popularity": 73.4,
+              "risk": 79.7,
+              "popularity": 73.9,
               "reversal": 39.6,
               "stable": 14.1
             },
@@ -8186,21 +8227,21 @@
               }
             },
             "stars": 1,
-            "composite_score": 35.1,
+            "composite_score": 36.6,
             "change_pct": -0.77,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 41.0,
-              "momentum": 43.0,
+              "wealth": 45.0,
+              "momentum": 45.0,
               "risk": 87.0,
               "popularity": 33.0,
               "reversal": 37.0
             },
             "objective_indices": {
-              "wealth": 34.5,
+              "wealth": 34.2,
               "momentum": 31.0,
               "risk": 73.6,
-              "popularity": 41.5,
+              "popularity": 44.0,
               "reversal": 39.3,
               "stable": 17.8
             },
@@ -8227,21 +8268,21 @@
               }
             },
             "stars": 2,
-            "composite_score": 39.9,
+            "composite_score": 40.6,
             "change_pct": 0.92,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 45.0,
-              "momentum": 50.0,
+              "wealth": 47.0,
+              "momentum": 51.0,
               "risk": 90.0,
               "popularity": 46.0,
               "reversal": 36.0
             },
             "objective_indices": {
-              "wealth": 41.4,
+              "wealth": 41.5,
               "momentum": 37.4,
               "risk": 79.8,
-              "popularity": 46.7,
+              "popularity": 47.9,
               "reversal": 39.7,
               "stable": 11.4
             },
@@ -8279,10 +8320,10 @@
               "reversal": 35.0
             },
             "objective_indices": {
-              "wealth": 51.2,
+              "wealth": 51.3,
               "momentum": 51.2,
               "risk": 81.1,
-              "popularity": 36.8,
+              "popularity": 36.9,
               "reversal": 42.3,
               "stable": 11.8
             },
@@ -8309,21 +8350,21 @@
               }
             },
             "stars": 4,
-            "composite_score": 50.0,
+            "composite_score": 50.8,
             "change_pct": 3.63,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 55.0,
-              "momentum": 64.0,
+              "wealth": 57.0,
+              "momentum": 65.0,
               "risk": 68.0,
               "popularity": 52.0,
               "reversal": 34.0
             },
             "objective_indices": {
-              "wealth": 43.5,
+              "wealth": 44.1,
               "momentum": 41.0,
-              "risk": 69.3,
-              "popularity": 50.9,
+              "risk": 69.5,
+              "popularity": 52.2,
               "reversal": 41.3,
               "stable": 26.6
             },
@@ -8350,11 +8391,11 @@
               }
             },
             "stars": 3,
-            "composite_score": 46.7,
+            "composite_score": 47.0,
             "change_pct": -2.73,
             "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
             "indices": {
-              "wealth": 44.0,
+              "wealth": 45.0,
               "momentum": 43.0,
               "risk": 80.0,
               "popularity": 85.0,
@@ -8391,21 +8432,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 49.0,
+            "composite_score": 50.0,
             "change_pct": 2.47,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 53.0,
-              "momentum": 83.0,
+              "wealth": 56.0,
+              "momentum": 84.0,
               "risk": 80.0,
               "popularity": 35.0,
               "reversal": 33.0
             },
             "objective_indices": {
-              "wealth": 64.2,
+              "wealth": 64.8,
               "momentum": 68.0,
               "risk": 72.5,
-              "popularity": 36.5,
+              "popularity": 38.2,
               "reversal": 40.7,
               "stable": 21.0
             },
@@ -8432,12 +8473,12 @@
               }
             },
             "stars": 3,
-            "composite_score": 49.1,
+            "composite_score": 49.4,
             "change_pct": 1.83,
             "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
             "indices": {
               "wealth": 46.0,
-              "momentum": 63.0,
+              "momentum": 64.0,
               "risk": 86.0,
               "popularity": 75.0,
               "reversal": 32.0
@@ -8446,7 +8487,7 @@
               "wealth": 36.9,
               "momentum": 35.1,
               "risk": 82.5,
-              "popularity": 63.8,
+              "popularity": 63.9,
               "reversal": 38.8,
               "stable": 9.4
             },
@@ -8473,64 +8514,23 @@
               }
             },
             "stars": 4,
-            "composite_score": 52.0,
+            "composite_score": 52.7,
             "change_pct": 2.53,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 57.0,
-              "momentum": 77.0,
+              "wealth": 59.0,
+              "momentum": 78.0,
               "risk": 77.0,
               "popularity": 51.0,
               "reversal": 32.0
             },
             "objective_indices": {
-              "wealth": 47.5,
+              "wealth": 48.0,
               "momentum": 47.9,
-              "risk": 76.0,
-              "popularity": 48.1,
+              "risk": 75.9,
+              "popularity": 49.2,
               "reversal": 39.6,
               "stable": 19.3
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "FLEX",
-            "name": "Flex Ltd.",
-            "name_zh": "Flex Ltd.",
-            "primary_element": {
-              "primary": "土",
-              "emoji": "🟫",
-              "icon_char": "土",
-              "icon_color": "#b8893d",
-              "icon_fg": "#ffffff",
-              "label": "土厚",
-              "distribution": {
-                "木": 0.0,
-                "火": 28.6,
-                "土": 32.6,
-                "金": 10.2,
-                "水": 28.6
-              }
-            },
-            "stars": 4,
-            "composite_score": 53.6,
-            "change_pct": -1.06,
-            "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
-            "indices": {
-              "wealth": 55.0,
-              "momentum": 76.0,
-              "risk": 84.0,
-              "popularity": 69.0,
-              "reversal": 31.0
-            },
-            "objective_indices": {
-              "wealth": 49.2,
-              "momentum": 49.2,
-              "risk": 78.1,
-              "popularity": 60.1,
-              "reversal": 39.0,
-              "stable": 15.5
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -8569,7 +8569,7 @@
               "wealth": 54.4,
               "momentum": 55.0,
               "risk": 62.4,
-              "popularity": 52.0,
+              "popularity": 52.1,
               "reversal": 36.5,
               "stable": 33.0
             },
@@ -8584,47 +8584,6 @@
         "keywords": "波动风险 · 刺激盘",
         "description": "下周波动风险偏高：优先识别「刺激盘」。同一股票不会同时出现在其他下周榜。",
         "items": [
-          {
-            "symbol": "APP",
-            "name": "AppLovin",
-            "name_zh": "AppLovin",
-            "primary_element": {
-              "primary": "火",
-              "emoji": "🔥",
-              "icon_char": "火",
-              "icon_color": "#e8524a",
-              "icon_fg": "#ffffff",
-              "label": "火旺",
-              "distribution": {
-                "木": 0.0,
-                "火": 52.4,
-                "土": 10.2,
-                "金": 0.0,
-                "水": 37.4
-              }
-            },
-            "stars": 3,
-            "composite_score": 44.2,
-            "change_pct": 3.32,
-            "one_liner": "放量上涨，宜控仓参与，忌追高。",
-            "indices": {
-              "wealth": 51.0,
-              "momentum": 45.0,
-              "risk": 100,
-              "popularity": 66.0,
-              "reversal": 47.0
-            },
-            "objective_indices": {
-              "wealth": 33.6,
-              "momentum": 24.8,
-              "risk": 90.7,
-              "popularity": 62.9,
-              "reversal": 51.4,
-              "stable": 0.0
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
           {
             "symbol": "COHR",
             "name": "Coherent Corp.",
@@ -8645,23 +8604,105 @@
               }
             },
             "stars": 3,
-            "composite_score": 67.7,
+            "composite_score": 68.4,
             "change_pct": 13.44,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 86.0,
+              "wealth": 89.0,
               "momentum": 98.0,
               "risk": 100,
               "popularity": 82.0,
               "reversal": 35.0
             },
             "objective_indices": {
-              "wealth": 82.3,
+              "wealth": 83.4,
               "momentum": 82.9,
               "risk": 97.6,
-              "popularity": 84.0,
+              "popularity": 86.5,
               "reversal": 42.9,
               "stable": 1.6
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "MRVL",
+            "name": "Marvell Technology",
+            "name_zh": "Marvell Technology",
+            "primary_element": {
+              "primary": "火",
+              "emoji": "🔥",
+              "icon_char": "火",
+              "icon_color": "#e8524a",
+              "icon_fg": "#ffffff",
+              "label": "火旺",
+              "distribution": {
+                "木": 8.8,
+                "火": 52.4,
+                "土": 2.9,
+                "金": 0.0,
+                "水": 35.9
+              }
+            },
+            "stars": 3,
+            "composite_score": 52.3,
+            "change_pct": 3.89,
+            "one_liner": "放量上涨，宜控仓参与，忌追高。",
+            "indices": {
+              "wealth": 68.0,
+              "momentum": 95.0,
+              "risk": 100,
+              "popularity": 33.0,
+              "reversal": 33.0
+            },
+            "objective_indices": {
+              "wealth": 56.3,
+              "momentum": 58.5,
+              "risk": 91.3,
+              "popularity": 38.7,
+              "reversal": 40.7,
+              "stable": 3.5
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "DELL",
+            "name": "Dell Technologies",
+            "name_zh": "Dell Technologies",
+            "primary_element": {
+              "primary": "火",
+              "emoji": "🔥",
+              "icon_char": "火",
+              "icon_color": "#e8524a",
+              "icon_fg": "#ffffff",
+              "label": "火旺",
+              "distribution": {
+                "木": 0.0,
+                "火": 37.4,
+                "土": 26.7,
+                "金": 7.3,
+                "水": 28.6
+              }
+            },
+            "stars": 3,
+            "composite_score": 46.9,
+            "change_pct": 3.68,
+            "one_liner": "放量上涨，宜控仓参与，忌追高。",
+            "indices": {
+              "wealth": 59.0,
+              "momentum": 82.0,
+              "risk": 100,
+              "popularity": 39.0,
+              "reversal": 26.0
+            },
+            "objective_indices": {
+              "wealth": 60.1,
+              "momentum": 63.1,
+              "risk": 76.6,
+              "popularity": 42.8,
+              "reversal": 31.1,
+              "stable": 15.4
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -8686,105 +8727,23 @@
               }
             },
             "stars": 3,
-            "composite_score": 53.9,
+            "composite_score": 54.6,
             "change_pct": 0.42,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 64.0,
+              "wealth": 67.0,
               "momentum": 98.0,
               "risk": 100,
               "popularity": 49.0,
               "reversal": 24.0
             },
             "objective_indices": {
-              "wealth": 85.0,
+              "wealth": 85.1,
               "momentum": 94.0,
               "risk": 79.8,
-              "popularity": 47.7,
+              "popularity": 49.4,
               "reversal": 32.2,
               "stable": 13.6
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "IBM",
-            "name": "IBM",
-            "name_zh": "IBM",
-            "primary_element": {
-              "primary": "水",
-              "emoji": "🌊",
-              "icon_char": "水",
-              "icon_color": "#3b82c4",
-              "icon_fg": "#ffffff",
-              "label": "水旺",
-              "distribution": {
-                "木": 0.0,
-                "火": 28.6,
-                "土": 0.0,
-                "金": 35.5,
-                "水": 35.9
-              }
-            },
-            "stars": 2,
-            "composite_score": 40.3,
-            "change_pct": 1.65,
-            "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
-            "indices": {
-              "wealth": 47.0,
-              "momentum": 70.0,
-              "risk": 100,
-              "popularity": 29.0,
-              "reversal": 35.0
-            },
-            "objective_indices": {
-              "wealth": 48.8,
-              "momentum": 48.2,
-              "risk": 91.0,
-              "popularity": 30.1,
-              "reversal": 42.1,
-              "stable": 0.0
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "INTC",
-            "name": "Intel",
-            "name_zh": "英特尔",
-            "primary_element": {
-              "primary": "火",
-              "emoji": "🔥",
-              "icon_char": "火",
-              "icon_color": "#e8524a",
-              "icon_fg": "#ffffff",
-              "label": "火旺",
-              "distribution": {
-                "木": 0.0,
-                "火": 73.3,
-                "土": 12.3,
-                "金": 14.3,
-                "水": 0.0
-              }
-            },
-            "stars": 3,
-            "composite_score": 49.2,
-            "change_pct": 1.84,
-            "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
-            "indices": {
-              "wealth": 66.0,
-              "momentum": 88.0,
-              "risk": 100.0,
-              "popularity": 29.0,
-              "reversal": 33.0
-            },
-            "objective_indices": {
-              "wealth": 53.5,
-              "momentum": 55.6,
-              "risk": 84.3,
-              "popularity": 33.5,
-              "reversal": 40.6,
-              "stable": 8.8
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -8822,7 +8781,7 @@
             "objective_indices": {
               "wealth": 45.6,
               "momentum": 46.6,
-              "risk": 82.4,
+              "risk": 82.8,
               "popularity": 75.5,
               "reversal": 43.0,
               "stable": 9.6
@@ -8831,9 +8790,9 @@
             "horizon": "next_week"
           },
           {
-            "symbol": "MRVL",
-            "name": "Marvell Technology",
-            "name_zh": "Marvell Technology",
+            "symbol": "INTC",
+            "name": "Intel",
+            "name_zh": "英特尔",
             "primary_element": {
               "primary": "火",
               "emoji": "🔥",
@@ -8842,31 +8801,72 @@
               "icon_fg": "#ffffff",
               "label": "火旺",
               "distribution": {
-                "木": 8.8,
-                "火": 52.4,
-                "土": 2.9,
-                "金": 0.0,
-                "水": 35.9
+                "木": 0.0,
+                "火": 73.3,
+                "土": 12.3,
+                "金": 14.3,
+                "水": 0.0
               }
             },
             "stars": 3,
-            "composite_score": 52.3,
-            "change_pct": 3.89,
-            "one_liner": "放量上涨，宜控仓参与，忌追高。",
+            "composite_score": 49.5,
+            "change_pct": 1.84,
+            "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 68.0,
-              "momentum": 95.0,
-              "risk": 100,
-              "popularity": 33.0,
+              "wealth": 66.0,
+              "momentum": 89.0,
+              "risk": 100.0,
+              "popularity": 29.0,
               "reversal": 33.0
             },
             "objective_indices": {
-              "wealth": 56.2,
-              "momentum": 58.5,
-              "risk": 91.4,
-              "popularity": 38.6,
-              "reversal": 40.7,
-              "stable": 3.5
+              "wealth": 53.5,
+              "momentum": 55.6,
+              "risk": 84.3,
+              "popularity": 33.7,
+              "reversal": 40.6,
+              "stable": 8.8
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "IBM",
+            "name": "IBM",
+            "name_zh": "IBM",
+            "primary_element": {
+              "primary": "水",
+              "emoji": "🌊",
+              "icon_char": "水",
+              "icon_color": "#3b82c4",
+              "icon_fg": "#ffffff",
+              "label": "水旺",
+              "distribution": {
+                "木": 0.0,
+                "火": 28.6,
+                "土": 0.0,
+                "金": 35.5,
+                "水": 35.9
+              }
+            },
+            "stars": 2,
+            "composite_score": 40.8,
+            "change_pct": 1.65,
+            "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
+            "indices": {
+              "wealth": 48.0,
+              "momentum": 71.0,
+              "risk": 100,
+              "popularity": 29.0,
+              "reversal": 35.0
+            },
+            "objective_indices": {
+              "wealth": 49.0,
+              "momentum": 48.2,
+              "risk": 91.0,
+              "popularity": 31.0,
+              "reversal": 42.1,
+              "stable": 0.0
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -8904,8 +8904,8 @@
             "objective_indices": {
               "wealth": 46.6,
               "momentum": 47.4,
-              "risk": 90.0,
-              "popularity": 44.1,
+              "risk": 89.8,
+              "popularity": 44.2,
               "reversal": 42.1,
               "stable": 3.2
             },
@@ -8932,21 +8932,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 50.2,
+            "composite_score": 50.5,
             "change_pct": 5.96,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 59.0,
+              "wealth": 60.0,
               "momentum": 80.0,
               "risk": 100,
               "popularity": 49.0,
               "reversal": 38.0
             },
             "objective_indices": {
-              "wealth": 61.2,
+              "wealth": 61.4,
               "momentum": 65.2,
               "risk": 84.9,
-              "popularity": 47.5,
+              "popularity": 48.0,
               "reversal": 44.6,
               "stable": 7.4
             },
@@ -8973,64 +8973,23 @@
               }
             },
             "stars": 3,
-            "composite_score": 44.5,
+            "composite_score": 45.0,
             "change_pct": -1.45,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 56.0,
-              "momentum": 70.0,
+              "wealth": 57.0,
+              "momentum": 71.0,
               "risk": 100,
               "popularity": 39.0,
               "reversal": 35.0
             },
             "objective_indices": {
-              "wealth": 50.1,
+              "wealth": 50.0,
               "momentum": 53.6,
-              "risk": 82.3,
-              "popularity": 44.3,
+              "risk": 83.0,
+              "popularity": 44.9,
               "reversal": 42.1,
               "stable": 11.0
-            },
-            "ranking_scoring_version": "v2.1.0-beta",
-            "horizon": "next_week"
-          },
-          {
-            "symbol": "DELL",
-            "name": "Dell Technologies",
-            "name_zh": "Dell Technologies",
-            "primary_element": {
-              "primary": "火",
-              "emoji": "🔥",
-              "icon_char": "火",
-              "icon_color": "#e8524a",
-              "icon_fg": "#ffffff",
-              "label": "火旺",
-              "distribution": {
-                "木": 0.0,
-                "火": 37.4,
-                "土": 26.7,
-                "金": 7.3,
-                "水": 28.6
-              }
-            },
-            "stars": 3,
-            "composite_score": 46.4,
-            "change_pct": 3.68,
-            "one_liner": "放量上涨，宜控仓参与，忌追高。",
-            "indices": {
-              "wealth": 57.0,
-              "momentum": 82.0,
-              "risk": 100,
-              "popularity": 39.0,
-              "reversal": 26.0
-            },
-            "objective_indices": {
-              "wealth": 59.7,
-              "momentum": 63.1,
-              "risk": 76.6,
-              "popularity": 41.9,
-              "reversal": 31.1,
-              "stable": 15.4
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -9055,21 +9014,21 @@
               }
             },
             "stars": 2,
-            "composite_score": 42.4,
+            "composite_score": 42.6,
             "change_pct": 2.21,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
-              "wealth": 53.0,
+              "wealth": 54.0,
               "momentum": 71.0,
               "risk": 99.0,
               "popularity": 30.0,
               "reversal": 35.0
             },
             "objective_indices": {
-              "wealth": 48.2,
+              "wealth": 48.4,
               "momentum": 49.0,
-              "risk": 83.9,
-              "popularity": 32.7,
+              "risk": 84.3,
+              "popularity": 33.6,
               "reversal": 42.3,
               "stable": 8.6
             },
@@ -9107,10 +9066,10 @@
               "reversal": 33.0
             },
             "objective_indices": {
-              "wealth": 42.2,
+              "wealth": 42.1,
               "momentum": 41.8,
               "risk": 77.0,
-              "popularity": 47.6,
+              "popularity": 48.1,
               "reversal": 37.9,
               "stable": 15.5
             },
@@ -9137,21 +9096,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 50.4,
+            "composite_score": 50.6,
             "change_pct": 9.29,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
               "wealth": 74.0,
-              "momentum": 85.0,
+              "momentum": 86.0,
               "risk": 96.0,
               "popularity": 29.0,
               "reversal": 28.0
             },
             "objective_indices": {
-              "wealth": 66.5,
+              "wealth": 66.6,
               "momentum": 62.1,
-              "risk": 77.9,
-              "popularity": 48.3,
+              "risk": 78.0,
+              "popularity": 48.5,
               "reversal": 33.5,
               "stable": 13.3
             },
@@ -9178,21 +9137,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 52.1,
+            "composite_score": 52.4,
             "change_pct": -1.01,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 56.0,
+              "wealth": 57.0,
               "momentum": 86.0,
               "risk": 96.0,
               "popularity": 57.0,
               "reversal": 31.0
             },
             "objective_indices": {
-              "wealth": 50.3,
+              "wealth": 50.2,
               "momentum": 50.8,
               "risk": 92.7,
-              "popularity": 52.1,
+              "popularity": 52.8,
               "reversal": 38.9,
               "stable": 1.9
             },
@@ -9219,21 +9178,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 48.0,
+            "composite_score": 49.2,
             "change_pct": 0.8,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 64.0,
-              "momentum": 84.0,
+              "wealth": 67.0,
+              "momentum": 86.0,
               "risk": 95.0,
               "popularity": 31.0,
               "reversal": 27.0
             },
             "objective_indices": {
-              "wealth": 62.5,
+              "wealth": 62.8,
               "momentum": 64.4,
               "risk": 78.7,
-              "popularity": 35.5,
+              "popularity": 37.9,
               "reversal": 32.0,
               "stable": 12.6
             },
@@ -9260,21 +9219,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 53.5,
+            "composite_score": 55.5,
             "change_pct": 0.93,
             "one_liner": "热度与波动齐升，宜理性，忌 FOMO。",
             "indices": {
-              "wealth": 49.0,
-              "momentum": 71.0,
+              "wealth": 54.0,
+              "momentum": 74.0,
               "risk": 92.0,
               "popularity": 89.0,
               "reversal": 30.0
             },
             "objective_indices": {
-              "wealth": 43.4,
+              "wealth": 43.9,
               "momentum": 42.0,
               "risk": 82.6,
-              "popularity": 75.1,
+              "popularity": 78.4,
               "reversal": 36.2,
               "stable": 8.7
             },
@@ -9300,24 +9259,65 @@
                 "水": 33.3
               }
             },
-            "stars": 2,
-            "composite_score": 43.0,
+            "stars": 3,
+            "composite_score": 44.0,
             "change_pct": 1.05,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 49.0,
-              "momentum": 69.0,
+              "wealth": 52.0,
+              "momentum": 70.0,
               "risk": 89.0,
               "popularity": 37.0,
               "reversal": 30.0
             },
             "objective_indices": {
-              "wealth": 54.6,
+              "wealth": 54.8,
               "momentum": 56.5,
               "risk": 64.2,
-              "popularity": 39.7,
+              "popularity": 41.5,
               "reversal": 34.3,
               "stable": 28.8
+            },
+            "ranking_scoring_version": "v2.1.0-beta",
+            "horizon": "next_week"
+          },
+          {
+            "symbol": "FLEX",
+            "name": "Flex Ltd.",
+            "name_zh": "Flex Ltd.",
+            "primary_element": {
+              "primary": "土",
+              "emoji": "🟫",
+              "icon_char": "土",
+              "icon_color": "#b8893d",
+              "icon_fg": "#ffffff",
+              "label": "土厚",
+              "distribution": {
+                "木": 0.0,
+                "火": 28.6,
+                "土": 32.6,
+                "金": 10.2,
+                "水": 28.6
+              }
+            },
+            "stars": 4,
+            "composite_score": 54.1,
+            "change_pct": -1.06,
+            "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
+            "indices": {
+              "wealth": 56.0,
+              "momentum": 77.0,
+              "risk": 84.0,
+              "popularity": 69.0,
+              "reversal": 31.0
+            },
+            "objective_indices": {
+              "wealth": 49.1,
+              "momentum": 49.2,
+              "risk": 78.1,
+              "popularity": 61.0,
+              "reversal": 39.0,
+              "stable": 15.5
             },
             "ranking_scoring_version": "v2.1.0-beta",
             "horizon": "next_week"
@@ -9342,21 +9342,21 @@
               }
             },
             "stars": 3,
-            "composite_score": 49.2,
+            "composite_score": 49.5,
             "change_pct": 5.63,
             "one_liner": "放量上涨，宜控仓参与，忌追高。",
             "indices": {
               "wealth": 60.0,
-              "momentum": 74.0,
+              "momentum": 75.0,
               "risk": 83.0,
               "popularity": 45.0,
               "reversal": 28.0
             },
             "objective_indices": {
-              "wealth": 56.5,
+              "wealth": 56.6,
               "momentum": 54.9,
               "risk": 69.0,
-              "popularity": 50.5,
+              "popularity": 50.7,
               "reversal": 32.6,
               "stable": 25.1
             },
@@ -9383,21 +9383,21 @@
               }
             },
             "stars": 2,
-            "composite_score": 39.5,
+            "composite_score": 40.3,
             "change_pct": 0.6,
             "one_liner": "波动偏高，宜降频降仓，忌频繁交易。",
             "indices": {
-              "wealth": 45.0,
-              "momentum": 61.0,
+              "wealth": 47.0,
+              "momentum": 62.0,
               "risk": 83.0,
               "popularity": 30.0,
               "reversal": 30.0
             },
             "objective_indices": {
-              "wealth": 52.4,
+              "wealth": 52.6,
               "momentum": 53.6,
               "risk": 64.8,
-              "popularity": 34.6,
+              "popularity": 36.0,
               "reversal": 35.1,
               "stable": 29.6
             },
@@ -9420,9 +9420,9 @@
     "as_of": "2026-08-08",
     "display_name": null,
     "visit": {
-      "previous_visit_at": 1786159944.166799,
+      "previous_visit_at": 1786162345.177025,
       "previous_visit_date": "2026-08-08",
-      "last_visit_at": 1786160107.8572319,
+      "last_visit_at": 1786163001.188148,
       "last_visit_date": "2026-08-08"
     },
     "watchlist": [
