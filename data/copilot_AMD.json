@@ -1,1 +1,1681 @@
-{"edition_date":"2026-08-08","symbol":"AMD","name":"Advanced Micro Devices","name_zh":"AMD","decision":{"symbol":"AMD","name":"Advanced Micro Devices","name_zh":"AMD","date":"2026-08-08","edition_date":"2026-08-08","risk":77.0,"wealth":42.2,"stable":15.5,"momentum":41.8,"change_pct":-1.21,"action":"observe","not_holding":{"action_zh":"先别买，再等等","action_en":"Don't buy yet — wait"},"holding":{"action_zh":"先拿着看","action_en":"Hold and watch"},"action_zh":"先别买，再等等","action_en":"Don't buy yet — wait","action_holding_zh":"先拿着看","action_holding_en":"Hold and watch","risk_level":"high","risk_level_zh":"高","risk_level_en":"High","explain_one_liner_zh":"AMD方向还没定：还没买的先别动手；手里有的先看着。","explain_one_liner_en":"Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77","triggers":["波动率","市场情绪"],"core_reasons":["波动率：高（85）","市场情绪：偏高（66）"],"next_trigger_zh":"等方向更清楚——连涨确认，或明显跌破——再决定（留意：波动率、市场情绪）","next_trigger_en":"Decide after a clear direction print (watch: 波动率、市场情绪)","risk_breakdown":{"risk_score":77.0,"dominant_factor":"volatility","factors":[{"id":"volatility","label_zh":"波动率","label_en":"Volatility","score":85.4,"weight":0.35,"contribution_pct":49.9,"band":"high","band_zh":"高","band_en":"High","hint_zh":"波动率：高。最近波动很大，价格不好估","hint_en":"Volatility high: realized vol is hard to price","ai_note_zh":"波动率：高。最近波动很大，价格不好估"},{"id":"sentiment","label_zh":"市场情绪","label_en":"Sentiment","score":65.7,"weight":0.25,"contribution_pct":27.4,"band":"elevated","band_zh":"偏高","band_en":"Elevated","hint_zh":"市场情绪：偏高。气氛热起来了，别把热闹当趋势","hint_en":"Sentiment elevated: don't treat heat as trend confirmation","ai_note_zh":"市场情绪：偏高。气氛热起来了，别把热闹当趋势"},{"id":"event","label_zh":"事件风险","label_en":"Event risk","score":24.5,"weight":0.2,"contribution_pct":8.2,"band":"low","band_zh":"偏低","band_en":"Low","hint_zh":"事件风险：偏低。没有特别刺眼的事件","hint_en":"Event low: no extreme event heat","ai_note_zh":"事件风险：偏低。没有特别刺眼的事件"},{"id":"trend","label_zh":"趋势风险","label_en":"Trend risk","score":43.8,"weight":0.2,"contribution_pct":14.6,"band":"neutral","band_zh":"中性","band_en":"Neutral","hint_zh":"趋势风险：中性。方向还没讲清楚","hint_en":"Trend neutral: no clear directional print yet","ai_note_zh":"趋势风险：中性。方向还没讲清楚"}],"inputs":{"volatility_20d":96.6,"popularity":43.8,"gap_risk":21.2,"trend_quality_10d":40.0,"momentum_5d":58.0,"change_pct":-1.21,"market_sentiment_index":50.0}},"explain":{"reasons":["波动率：高（85）","市场情绪：偏高（66）"],"summary_zh":"AMD方向还没定：还没买的先别动手；手里有的先看着。","summary_en":"Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77","what_happened_zh":"今天 -1.2%；风险 77（高），主要来自波动率（高）。","what_happened_en":"Day move -1.2%; risk 77 (High), led by volatility.","why_matters_zh":"波动率：高。最近波动很大，价格不好估","why_matters_en":"Volatility high: realized vol is hard to price","why_ai_zh":"把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。","why_ai_en":"If flat: Don't buy yet — wait. If holding: Hold and watch. Lower decision friction, not a price call.","do_today_zh":"还没买：先别买，再等等。已经持有：先拿着看。先守住失效条件，再谈加仓。","do_today_en":"If flat: Don't buy yet — wait. If holding: Hold and watch. Respect invalidation before sizing up.","why_risk_zh":"风险 77（高），主要来自波动率（高），大约占 49.9%。","why_wealth_zh":"财气 42，只说明最近偏强，不代表可以无视风险。","biggest_risk_zh":"波动率：高。最近波动很大，价格不好估","biggest_opportunity_zh":"结构没坏时，先管好仓位和失效条件","why_action_zh":"把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。","source":"rules"},"scores":{"risk":77.0,"wealth":42.2,"stable":15.5,"momentum":41.8,"popularity":47.6},"kind":"decision_snapshot","version":"copilot-1.5.0","change_reason_zh":"AMD方向还没定：还没买的先别动手；手里有的先看着。","change_reason_en":"Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77","action_changed":false},"timeline":[{"symbol":"AMD","name":"Advanced Micro Devices","name_zh":"AMD","date":"2026-08-02","edition_date":"2026-08-02","risk":81.8,"wealth":39.3,"stable":14.6,"momentum":38.2,"change_pct":-1.9,"action":"no_chase","action_zh":"别追高","action_en":"Don't chase","explain_one_liner_zh":"AMD热度与风险同步抬升，今天更适合不追。","explain_one_liner_en":"Do not chase the move · risk 82","triggers":["波动率","市场情绪","事件风险"],"risk_breakdown":{"risk_score":81.8,"dominant_factor":"volatility","factors":[{"id":"volatility","label_zh":"波动率","label_en":"Volatility","score":86.5,"weight":0.35,"contribution_pct":44.5,"hint_zh":"波动率：高。最近波动很大，价格不好估","hint_en":"Volatility high: realized vol is hard to price","ai_note_zh":"波动率：高。最近波动很大，价格不好估","band":"high","band_zh":"高","band_en":"High"},{"id":"sentiment","label_zh":"市场情绪","label_en":"Sentiment","score":74.4,"weight":0.25,"contribution_pct":27.4,"hint_zh":"市场情绪：高。盯的人太多，容易拥挤","hint_en":"Sentiment high: crowded-trade risk rises","ai_note_zh":"市场情绪：高。盯的人太多，容易拥挤","band":"high","band_zh":"高","band_en":"High"},{"id":"event","label_zh":"事件风险","label_en":"Event risk","score":58.2,"weight":0.2,"contribution_pct":17.1,"hint_zh":"事件风险：偏高。跳空/异动偏多，这段预期放低一点","hint_en":"Event elevated: cut expectations into the event window","ai_note_zh":"事件风险：偏高。跳空/异动偏多，这段预期放低一点","band":"elevated","band_zh":"偏高","band_en":"Elevated"},{"id":"trend","label_zh":"趋势风险","label_en":"Trend risk","score":37.4,"weight":0.2,"contribution_pct":11.0,"hint_zh":"趋势风险：偏低。大框架还在，回撤先当波动看","hint_en":"Trend low: frame intact; treat dips as volatility first","ai_note_zh":"趋势风险：偏低。大框架还在，回撤先当波动看","band":"low","band_zh":"偏低","band_en":"Low"}],"inputs":{"volatility_20d":98.5,"popularity":56.3,"gap_risk":61.5,"trend_quality_10d":40.0,"momentum_5d":37.5,"change_pct":-1.9,"market_sentiment_index":50.0}},"explain":{"reasons":["波动率偏高（86.5）","市场情绪偏高（74.4）","事件风险偏高（58.2）"],"summary_zh":"AMD热度与风险同步抬升，今天更适合不追。","summary_en":"Do not chase the move · risk 82","why_risk_zh":"风险 82，主因是波动率（贡献约 44.5%）。","why_wealth_zh":"财气 39，反映近端强度与动量，不等于可以无视风险。","biggest_risk_zh":"近月波动明显放大，价格路径更难定价","biggest_opportunity_zh":"若回踩后风险分回落，再评估是否加回","why_action_zh":"在 Risk/Trend/Sentiment/Event 综合下，系统给出「不建议追高」，优先降低决策难度。","source":"rules"},"scores":{"risk":81.8,"wealth":39.3,"stable":14.6,"momentum":38.2,"popularity":57.0},"kind":"decision_snapshot","version":"copilot-1.5.0","not_holding":{"action_zh":"别追高","action_en":"Don't chase"},"holding":{"action_zh":"别加仓","action_en":"Don't add"},"action_holding_zh":"别加仓","action_holding_en":"Don't add","risk_level":"high","risk_level_zh":"高","risk_level_en":"High","core_reasons":["波动率：高（86）","市场情绪：高（74）"],"next_trigger_zh":"回调之后，如果风险掉回 60 以下，再考虑要不要参与（留意：波动率、市场情绪）","next_trigger_en":"Reassess after a pullback if risk falls below 60 (watch: 波动率、市场情绪)","action_changed":false,"change_reason_zh":"AMD热度与风险同步抬升，今天更适合不追。","change_reason_en":"Do not chase the move · risk 82"},{"symbol":"AMD","name":"Advanced Micro Devices","name_zh":"AMD","date":"2026-08-03","edition_date":"2026-08-03","risk":77.7,"wealth":41.8,"stable":16.5,"momentum":40.0,"change_pct":1.78,"action":"no_chase","action_zh":"别追高","action_en":"Don't chase","explain_one_liner_zh":"AMD热度与风险同步抬升，今天更适合不追。","explain_one_liner_en":"Do not chase the move · risk 78","triggers":["波动率","市场情绪"],"risk_breakdown":{"risk_score":77.7,"dominant_factor":"volatility","factors":[{"id":"volatility","label_zh":"波动率","label_en":"Volatility","score":84.3,"weight":0.35,"contribution_pct":45.2,"hint_zh":"波动率：高。最近波动很大，价格不好估","hint_en":"Volatility high: realized vol is hard to price","ai_note_zh":"波动率：高。最近波动很大，价格不好估","band":"high","band_zh":"高","band_en":"High"},{"id":"sentiment","label_zh":"市场情绪","label_en":"Sentiment","score":84.8,"weight":0.25,"contribution_pct":32.5,"hint_zh":"市场情绪：高。盯的人太多，容易拥挤","hint_en":"Sentiment high: crowded-trade risk rises","ai_note_zh":"市场情绪：高。盯的人太多，容易拥挤","band":"high","band_zh":"高","band_en":"High"},{"id":"event","label_zh":"事件风险","label_en":"Event risk","score":39.6,"weight":0.2,"contribution_pct":12.1,"hint_zh":"事件风险：偏低。没有特别刺眼的事件","hint_en":"Event low: no extreme event heat","ai_note_zh":"事件风险：偏低。没有特别刺眼的事件","band":"low","band_zh":"偏低","band_en":"Low"},{"id":"trend","label_zh":"趋势风险","label_en":"Trend risk","score":33.3,"weight":0.2,"contribution_pct":10.2,"hint_zh":"趋势风险：偏低。大框架还在，回撤先当波动看","hint_en":"Trend low: frame intact; treat dips as volatility first","ai_note_zh":"趋势风险：偏低。大框架还在，回撤先当波动看","band":"low","band_zh":"偏低","band_en":"Low"}],"inputs":{"volatility_20d":94.6,"popularity":71.2,"gap_risk":36.2,"trend_quality_10d":40.0,"momentum_5d":50.8,"change_pct":1.78,"market_sentiment_index":50.0}},"explain":{"reasons":["波动率偏高（84.3）","市场情绪偏高（84.8）"],"summary_zh":"AMD热度与风险同步抬升，今天更适合不追。","summary_en":"Do not chase the move · risk 78","why_risk_zh":"风险 78，主因是波动率（贡献约 45.2%）。","why_wealth_zh":"财气 42，反映近端强度与动量，不等于可以无视风险。","biggest_risk_zh":"近月波动明显放大，价格路径更难定价","biggest_opportunity_zh":"若回踩后风险分回落，再评估是否加回","why_action_zh":"在 Risk/Trend/Sentiment/Event 综合下，系统给出「不建议追高」，优先降低决策难度。","source":"rules"},"scores":{"risk":77.7,"wealth":41.8,"stable":16.5,"momentum":40.0,"popularity":65.9},"kind":"decision_snapshot","version":"copilot-1.5.0","not_holding":{"action_zh":"别追高","action_en":"Don't chase"},"holding":{"action_zh":"别加仓","action_en":"Don't add"},"action_holding_zh":"别加仓","action_holding_en":"Don't add","risk_level":"high","risk_level_zh":"高","risk_level_en":"High","core_reasons":["波动率：高（84）","市场情绪：高（85）"],"next_trigger_zh":"回调之后，如果风险掉回 60 以下，再考虑要不要参与（留意：波动率、市场情绪）","next_trigger_en":"Reassess after a pullback if risk falls below 60 (watch: 波动率、市场情绪)","action_changed":false,"change_reason_zh":"AMD热度与风险同步抬升，今天更适合不追。","change_reason_en":"Do not chase the move · risk 78"},{"symbol":"AMD","name":"Advanced Micro Devices","name_zh":"AMD","date":"2026-08-04","edition_date":"2026-08-04","risk":78.4,"wealth":61.2,"stable":16.9,"momentum":59.9,"change_pct":7.0,"action":"reduce","action_zh":"现在别开新仓","action_en":"Don't open a new position","explain_one_liner_zh":"AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。","explain_one_liner_en":"Elevated risk — consider reducing size · risk 78","triggers":["波动率","市场情绪","事件风险","日内波动 +7.0%"],"risk_breakdown":{"risk_score":78.4,"dominant_factor":"volatility","factors":[{"id":"volatility","label_zh":"波动率","label_en":"Volatility","score":84.0,"weight":0.35,"contribution_pct":41.2,"hint_zh":"波动率：高。最近波动很大，价格不好估","hint_en":"Volatility high: realized vol is hard to price","ai_note_zh":"波动率：高。最近波动很大，价格不好估","band":"high","band_zh":"高","band_en":"High"},{"id":"sentiment","label_zh":"市场情绪","label_en":"Sentiment","score":73.6,"weight":0.25,"contribution_pct":25.8,"hint_zh":"市场情绪：高。盯的人太多，容易拥挤","hint_en":"Sentiment high: crowded-trade risk rises","ai_note_zh":"市场情绪：高。盯的人太多，容易拥挤","band":"high","band_zh":"高","band_en":"High"},{"id":"event","label_zh":"事件风险","label_en":"Event risk","score":73.5,"weight":0.2,"contribution_pct":20.6,"hint_zh":"事件风险：高。跳空/异动偏多，这段预期放低一点","hint_en":"Event high: cut expectations into the event window","ai_note_zh":"事件风险：高。跳空/异动偏多，这段预期放低一点","band":"high","band_zh":"高","band_en":"High"},{"id":"trend","label_zh":"趋势风险","label_en":"Trend risk","score":44.6,"weight":0.2,"contribution_pct":12.5,"hint_zh":"趋势风险：中性。方向还没讲清楚","hint_en":"Trend neutral: no clear directional print yet","ai_note_zh":"趋势风险：中性。方向还没讲清楚","band":"neutral","band_zh":"中性","band_en":"Neutral"}],"inputs":{"volatility_20d":95.6,"popularity":50.6,"gap_risk":47.9,"trend_quality_10d":40.0,"momentum_5d":83.1,"change_pct":7.0,"market_sentiment_index":60.6}},"explain":{"reasons":["今日波动 +7.0% 放大决策噪音","波动率偏高（84.0）","市场情绪偏高（73.6）","事件风险偏高（73.5）"],"summary_zh":"AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。","summary_en":"Elevated risk — consider reducing size · risk 78","why_risk_zh":"风险 78，主因是波动率（贡献约 41.2%）。","why_wealth_zh":"财气 61，反映近端强度与动量，不等于可以无视风险。","biggest_risk_zh":"近月波动明显放大，价格路径更难定价","biggest_opportunity_zh":"若回踩后风险分回落，再评估是否加回","why_action_zh":"在 Risk/Trend/Sentiment/Event 综合下，系统给出「风险较高，建议降低仓位」，优先降低决策难度。","source":"rules"},"scores":{"risk":78.4,"wealth":61.2,"stable":16.9,"momentum":59.9,"popularity":62.4},"kind":"decision_snapshot","version":"copilot-1.5.0","not_holding":{"action_zh":"现在别开新仓","action_en":"Don't open a new position"},"holding":{"action_zh":"建议减仓","action_en":"Consider reducing"},"action_holding_zh":"建议减仓","action_holding_en":"Consider reducing","risk_level":"high","risk_level_zh":"高","risk_level_en":"High","core_reasons":["波动率：高（84）","市场情绪：高（74）"],"next_trigger_zh":"波动和事件风险明显降温（风险低于 63）后，再考虑要不要加回","next_trigger_en":"Reassess adds only after vol/event risk cools (risk < 63)","action_changed":true,"change_reason_zh":"由「不建议追高」调整为「现在别开新仓」：AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。","change_reason_en":"Shifted from Do not chase the move to Don't open a new position: Elevated risk — consider reducing size · risk 78"},{"symbol":"AMD","name":"Advanced Micro Devices","name_zh":"AMD","date":"2026-08-05","edition_date":"2026-08-05","risk":84.4,"wealth":43.8,"stable":13.5,"momentum":51.7,"change_pct":-7.04,"action":"reduce","action_zh":"现在别开新仓","action_en":"Don't open a new position","explain_one_liner_zh":"AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。","explain_one_liner_en":"Elevated risk — consider reducing size · risk 84","triggers":["波动率","市场情绪","事件风险","日内波动 -7.0%"],"risk_breakdown":{"risk_score":84.4,"dominant_factor":"volatility","factors":[{"id":"volatility","label_zh":"波动率","label_en":"Volatility","score":87.5,"weight":0.35,"contribution_pct":35.6,"hint_zh":"波动率：高。最近波动很大，价格不好估","hint_en":"Volatility high: realized vol is hard to price","ai_note_zh":"波动率：高。最近波动很大，价格不好估","band":"high","band_zh":"高","band_en":"High"},{"id":"sentiment","label_zh":"市场情绪","label_en":"Sentiment","score":100.0,"weight":0.25,"contribution_pct":29.1,"hint_zh":"市场情绪：高。盯的人太多，容易拥挤","hint_en":"Sentiment high: crowded-trade risk rises","ai_note_zh":"市场情绪：高。盯的人太多，容易拥挤","band":"high","band_zh":"高","band_en":"High"},{"id":"event","label_zh":"事件风险","label_en":"Event risk","score":95.2,"weight":0.2,"contribution_pct":22.1,"hint_zh":"事件风险：高。跳空/异动偏多，这段预期放低一点","hint_en":"Event high: cut expectations into the event window","ai_note_zh":"事件风险：高。跳空/异动偏多，这段预期放低一点","band":"high","band_zh":"高","band_en":"High"},{"id":"trend","label_zh":"趋势风险","label_en":"Trend risk","score":56.8,"weight":0.2,"contribution_pct":13.2,"hint_zh":"趋势风险：偏高。多空拉锯，先等方向确认","hint_en":"Trend elevated: two-way tape — confirmation beats prediction","ai_note_zh":"趋势风险：偏高。多空拉锯，先等方向确认","band":"elevated","band_zh":"偏高","band_en":"Elevated"}],"inputs":{"volatility_20d":99.9,"popularity":96.7,"gap_risk":78.9,"trend_quality_10d":30.0,"momentum_5d":79.4,"change_pct":-7.04,"market_sentiment_index":60.6}},"explain":{"reasons":["今日波动 -7.0% 放大决策噪音","波动率偏高（87.5）","市场情绪偏高（100.0）","事件风险偏高（95.2）"],"summary_zh":"AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。","summary_en":"Elevated risk — consider reducing size · risk 84","why_risk_zh":"风险 84，主因是波动率（贡献约 35.6%）。","why_wealth_zh":"财气 44，反映近端强度与动量，不等于可以无视风险。","biggest_risk_zh":"近月波动明显放大，价格路径更难定价","biggest_opportunity_zh":"若回踩后风险分回落，再评估是否加回","why_action_zh":"在 Risk/Trend/Sentiment/Event 综合下，系统给出「风险较高，建议降低仓位」，优先降低决策难度。","source":"rules"},"scores":{"risk":84.4,"wealth":43.8,"stable":13.5,"momentum":51.7,"popularity":92.0},"kind":"decision_snapshot","version":"copilot-1.5.0","not_holding":{"action_zh":"现在别开新仓","action_en":"Don't open a new position"},"holding":{"action_zh":"建议减仓","action_en":"Consider reducing"},"action_holding_zh":"建议减仓","action_holding_en":"Consider reducing","risk_level":"high","risk_level_zh":"高","risk_level_en":"High","core_reasons":["波动率：高（88）","市场情绪：高（100）"],"next_trigger_zh":"波动和事件风险明显降温（风险低于 69）后，再考虑要不要加回","next_trigger_en":"Reassess adds only after vol/event risk cools (risk < 69)","action_changed":false,"change_reason_zh":"AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。","change_reason_en":"Elevated risk — consider reducing size · risk 84"},{"symbol":"AMD","name":"Advanced Micro Devices","name_zh":"AMD","date":"2026-08-06","edition_date":"2026-08-06","risk":77.9,"wealth":43.9,"stable":15.0,"momentum":43.2,"change_pct":1.5,"action":"observe","action_zh":"先别买，再等等","action_en":"Don't buy yet — wait","explain_one_liner_zh":"AMD多空未决，今天的正确动作是继续观察。","explain_one_liner_en":"Keep watching · risk 78","triggers":["波动率","市场情绪"],"risk_breakdown":{"risk_score":77.9,"dominant_factor":"volatility","factors":[{"id":"volatility","label_zh":"波动率","label_en":"Volatility","score":86.0,"weight":0.35,"contribution_pct":50.8,"hint_zh":"波动率：高。最近波动很大，价格不好估","hint_en":"Volatility high: realized vol is hard to price","ai_note_zh":"波动率：高。最近波动很大，价格不好估","band":"high","band_zh":"高","band_en":"High"},{"id":"sentiment","label_zh":"市场情绪","label_en":"Sentiment","score":64.5,"weight":0.25,"contribution_pct":27.2,"hint_zh":"市场情绪：偏高。气氛热起来了，别把热闹当趋势","hint_en":"Sentiment elevated: don't treat heat as trend confirmation","ai_note_zh":"市场情绪：偏高。气氛热起来了，别把热闹当趋势","band":"elevated","band_zh":"偏高","band_en":"Elevated"},{"id":"event","label_zh":"事件风险","label_en":"Event risk","score":29.9,"weight":0.2,"contribution_pct":10.1,"hint_zh":"事件风险：偏低。没有特别刺眼的事件","hint_en":"Event low: no extreme event heat","ai_note_zh":"事件风险：偏低。没有特别刺眼的事件","band":"low","band_zh":"偏低","band_en":"Low"},{"id":"trend","label_zh":"趋势风险","label_en":"Trend risk","score":35.3,"weight":0.2,"contribution_pct":11.9,"hint_zh":"趋势风险：偏低。大框架还在，回撤先当波动看","hint_en":"Trend low: frame intact; treat dips as volatility first","ai_note_zh":"趋势风险：偏低。大框架还在，回撤先当波动看","band":"low","band_zh":"偏低","band_en":"Low"}],"inputs":{"volatility_20d":97.1,"popularity":37.6,"gap_risk":25.6,"trend_quality_10d":40.0,"momentum_5d":56.6,"change_pct":1.5,"market_sentiment_index":60.6}},"explain":{"reasons":["波动率偏高（86.0）","市场情绪偏高（64.5）"],"summary_zh":"AMD多空未决，今天的正确动作是继续观察。","summary_en":"Keep watching · risk 78","why_risk_zh":"风险 78，主因是波动率（贡献约 50.8%）。","why_wealth_zh":"财气 44，反映近端强度与动量，不等于可以无视风险。","biggest_risk_zh":"近月波动明显放大，价格路径更难定价","biggest_opportunity_zh":"结构未破坏时，把注意力放在仓位与失效条件","why_action_zh":"在 Risk/Trend/Sentiment/Event 综合下，系统给出「可以继续观察」，优先降低决策难度。","source":"rules"},"scores":{"risk":77.9,"wealth":43.9,"stable":15.0,"momentum":43.2,"popularity":43.3},"kind":"decision_snapshot","version":"copilot-1.5.0","not_holding":{"action_zh":"先别买，再等等","action_en":"Don't buy yet — wait"},"holding":{"action_zh":"先拿着看","action_en":"Hold and watch"},"action_holding_zh":"先拿着看","action_holding_en":"Hold and watch","risk_level":"high","risk_level_zh":"高","risk_level_en":"High","core_reasons":["波动率：高（86）","市场情绪：偏高（64）"],"next_trigger_zh":"等方向更清楚——连涨确认，或明显跌破——再决定（留意：波动率、市场情绪）","next_trigger_en":"Decide after a clear direction print (watch: 波动率、市场情绪)","action_changed":true,"change_reason_zh":"由「风险较高，建议降低仓位」调整为「先别买，再等等」：AMD多空未决，今天的正确动作是继续观察。","change_reason_en":"Shifted from Elevated risk — consider reducing size to Don't buy yet — wait: Keep watching · risk 78"},{"symbol":"AMD","name":"Advanced Micro Devices","name_zh":"AMD","date":"2026-08-07","edition_date":"2026-08-07","risk":77.0,"wealth":42.2,"stable":15.5,"momentum":41.8,"change_pct":-1.21,"action":"observe","action_zh":"先别买，再等等","action_en":"Don't buy yet — wait","explain_one_liner_zh":"AMD多空未决，今天的正确动作是继续观察。","explain_one_liner_en":"Keep watching · risk 77","triggers":["波动率","市场情绪"],"risk_breakdown":{"risk_score":77.0,"dominant_factor":"volatility","factors":[{"id":"volatility","label_zh":"波动率","label_en":"Volatility","score":85.4,"weight":0.35,"contribution_pct":49.7,"hint_zh":"波动率：高。最近波动很大，价格不好估","hint_en":"Volatility high: realized vol is hard to price","ai_note_zh":"波动率：高。最近波动很大，价格不好估","band":"high","band_zh":"高","band_en":"High"},{"id":"sentiment","label_zh":"市场情绪","label_en":"Sentiment","score":66.5,"weight":0.25,"contribution_pct":27.6,"hint_zh":"市场情绪：偏高。气氛热起来了，别把热闹当趋势","hint_en":"Sentiment elevated: don't treat heat as trend confirmation","ai_note_zh":"市场情绪：偏高。气氛热起来了，别把热闹当趋势","band":"elevated","band_zh":"偏高","band_en":"Elevated"},{"id":"event","label_zh":"事件风险","label_en":"Event risk","score":24.5,"weight":0.2,"contribution_pct":8.1,"hint_zh":"事件风险：偏低。没有特别刺眼的事件","hint_en":"Event low: no extreme event heat","ai_note_zh":"事件风险：偏低。没有特别刺眼的事件","band":"low","band_zh":"偏低","band_en":"Low"},{"id":"trend","label_zh":"趋势风险","label_en":"Trend risk","score":43.8,"weight":0.2,"contribution_pct":14.6,"hint_zh":"趋势风险：中性。方向还没讲清楚","hint_en":"Trend neutral: no clear directional print yet","ai_note_zh":"趋势风险：中性。方向还没讲清楚","band":"neutral","band_zh":"中性","band_en":"Neutral"}],"inputs":{"volatility_20d":96.6,"popularity":40.5,"gap_risk":21.2,"trend_quality_10d":40.0,"momentum_5d":58.0,"change_pct":-1.21,"market_sentiment_index":60.6}},"explain":{"reasons":["波动率偏高（85.4）","市场情绪偏高（66.5）"],"summary_zh":"AMD多空未决，今天的正确动作是继续观察。","summary_en":"Keep watching · risk 77","why_risk_zh":"风险 77，主因是波动率（贡献约 49.7%）。","why_wealth_zh":"财气 42，反映近端强度与动量，不等于可以无视风险。","biggest_risk_zh":"近月波动明显放大，价格路径更难定价","biggest_opportunity_zh":"结构未破坏时，把注意力放在仓位与失效条件","why_action_zh":"在 Risk/Trend/Sentiment/Event 综合下，系统给出「可以继续观察」，优先降低决策难度。","source":"rules"},"scores":{"risk":77.0,"wealth":42.2,"stable":15.5,"momentum":41.8,"popularity":45.5},"kind":"decision_snapshot","version":"copilot-1.5.0","not_holding":{"action_zh":"先别买，再等等","action_en":"Don't buy yet — wait"},"holding":{"action_zh":"先拿着看","action_en":"Hold and watch"},"action_holding_zh":"先拿着看","action_holding_en":"Hold and watch","risk_level":"high","risk_level_zh":"高","risk_level_en":"High","core_reasons":["波动率：高（85）","市场情绪：偏高（66）"],"next_trigger_zh":"等方向更清楚——连涨确认，或明显跌破——再决定（留意：波动率、市场情绪）","next_trigger_en":"Decide after a clear direction print (watch: 波动率、市场情绪)","action_changed":false,"change_reason_zh":"AMD多空未决，今天的正确动作是继续观察。","change_reason_en":"Keep watching · risk 77"},{"symbol":"AMD","name":"Advanced Micro Devices","name_zh":"AMD","date":"2026-08-08","edition_date":"2026-08-08","risk":77.0,"wealth":42.2,"stable":15.5,"momentum":41.8,"change_pct":-1.21,"action":"observe","not_holding":{"action_zh":"先别买，再等等","action_en":"Don't buy yet — wait"},"holding":{"action_zh":"先拿着看","action_en":"Hold and watch"},"action_zh":"先别买，再等等","action_en":"Don't buy yet — wait","action_holding_zh":"先拿着看","action_holding_en":"Hold and watch","risk_level":"high","risk_level_zh":"高","risk_level_en":"High","explain_one_liner_zh":"AMD方向还没定：还没买的先别动手；手里有的先看着。","explain_one_liner_en":"Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77","triggers":["波动率","市场情绪"],"core_reasons":["波动率：高（85）","市场情绪：偏高（66）"],"next_trigger_zh":"等方向更清楚——连涨确认，或明显跌破——再决定（留意：波动率、市场情绪）","next_trigger_en":"Decide after a clear direction print (watch: 波动率、市场情绪)","risk_breakdown":{"risk_score":77.0,"dominant_factor":"volatility","factors":[{"id":"volatility","label_zh":"波动率","label_en":"Volatility","score":85.4,"weight":0.35,"contribution_pct":49.9,"band":"high","band_zh":"高","band_en":"High","hint_zh":"波动率：高。最近波动很大，价格不好估","hint_en":"Volatility high: realized vol is hard to price","ai_note_zh":"波动率：高。最近波动很大，价格不好估"},{"id":"sentiment","label_zh":"市场情绪","label_en":"Sentiment","score":65.7,"weight":0.25,"contribution_pct":27.4,"band":"elevated","band_zh":"偏高","band_en":"Elevated","hint_zh":"市场情绪：偏高。气氛热起来了，别把热闹当趋势","hint_en":"Sentiment elevated: don't treat heat as trend confirmation","ai_note_zh":"市场情绪：偏高。气氛热起来了，别把热闹当趋势"},{"id":"event","label_zh":"事件风险","label_en":"Event risk","score":24.5,"weight":0.2,"contribution_pct":8.2,"band":"low","band_zh":"偏低","band_en":"Low","hint_zh":"事件风险：偏低。没有特别刺眼的事件","hint_en":"Event low: no extreme event heat","ai_note_zh":"事件风险：偏低。没有特别刺眼的事件"},{"id":"trend","label_zh":"趋势风险","label_en":"Trend risk","score":43.8,"weight":0.2,"contribution_pct":14.6,"band":"neutral","band_zh":"中性","band_en":"Neutral","hint_zh":"趋势风险：中性。方向还没讲清楚","hint_en":"Trend neutral: no clear directional print yet","ai_note_zh":"趋势风险：中性。方向还没讲清楚"}],"inputs":{"volatility_20d":96.6,"popularity":43.8,"gap_risk":21.2,"trend_quality_10d":40.0,"momentum_5d":58.0,"change_pct":-1.21,"market_sentiment_index":50.0}},"explain":{"reasons":["波动率：高（85）","市场情绪：偏高（66）"],"summary_zh":"AMD方向还没定：还没买的先别动手；手里有的先看着。","summary_en":"Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77","what_happened_zh":"今天 -1.2%；风险 77（高），主要来自波动率（高）。","what_happened_en":"Day move -1.2%; risk 77 (High), led by volatility.","why_matters_zh":"波动率：高。最近波动很大，价格不好估","why_matters_en":"Volatility high: realized vol is hard to price","why_ai_zh":"把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。","why_ai_en":"If flat: Don't buy yet — wait. If holding: Hold and watch. Lower decision friction, not a price call.","do_today_zh":"还没买：先别买，再等等。已经持有：先拿着看。先守住失效条件，再谈加仓。","do_today_en":"If flat: Don't buy yet — wait. If holding: Hold and watch. Respect invalidation before sizing up.","why_risk_zh":"风险 77（高），主要来自波动率（高），大约占 49.9%。","why_wealth_zh":"财气 42，只说明最近偏强，不代表可以无视风险。","biggest_risk_zh":"波动率：高。最近波动很大，价格不好估","biggest_opportunity_zh":"结构没坏时，先管好仓位和失效条件","why_action_zh":"把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。","source":"rules"},"scores":{"risk":77.0,"wealth":42.2,"stable":15.5,"momentum":41.8,"popularity":47.6},"kind":"decision_snapshot","version":"copilot-1.5.0","action_changed":false,"change_reason_zh":"AMD方向还没定：还没买的先别动手；手里有的先看着。","change_reason_en":"Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77"}],"timeline_status":"ready","history":{"days":7,"points":[{"date":"2026-08-02","risk":81.8,"wealth":39.3,"stable":14.6,"action":"no_chase"},{"date":"2026-08-03","risk":77.7,"wealth":41.8,"stable":16.5,"action":"no_chase"},{"date":"2026-08-04","risk":78.4,"wealth":61.2,"stable":16.9,"action":"reduce"},{"date":"2026-08-05","risk":84.4,"wealth":43.8,"stable":13.5,"action":"reduce"},{"date":"2026-08-06","risk":77.9,"wealth":43.9,"stable":15.0,"action":"observe"},{"date":"2026-08-07","risk":77.0,"wealth":42.2,"stable":15.5,"action":"observe"},{"date":"2026-08-08","risk":77.0,"wealth":42.2,"stable":15.5,"action":"observe"}]},"questions":{"what_happened_zh":"今天 -1.2%；风险 77（高），主要来自波动率（高）。","what_happened_en":"Day move -1.2%; risk 77 (High), led by volatility.","why_matters_zh":"波动率：高。最近波动很大，价格不好估","why_matters_en":"Volatility high: realized vol is hard to price","why_ai_zh":"把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。","why_ai_en":"If flat: Don't buy yet — wait. If holding: Hold and watch. Lower decision friction, not a price call.","do_today_zh":"还没买：先别买，再等等。已经持有：先拿着看。先守住失效条件，再谈加仓。","do_today_en":"If flat: Don't buy yet — wait. If holding: Hold and watch. Respect invalidation before sizing up.","why_risk":"风险 77（高），主要来自波动率（高），大约占 49.9%。","why_wealth":"财气 42，只说明最近偏强，不代表可以无视风险。","biggest_risk":"波动率：高。最近波动很大，价格不好估","biggest_opportunity":"结构没坏时，先管好仓位和失效条件","why_action":"把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。"},"product":{"role":"ai_investment_copilot","promise_zh":"先给 Decision，再 Explain，最后才是数据。","promise_en":"Decision first, then Explain, then data."}}
+{
+  "edition_date": "2026-08-08",
+  "symbol": "AMD",
+  "name": "Advanced Micro Devices",
+  "name_zh": "AMD",
+  "decision": {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices",
+    "name_zh": "AMD",
+    "date": "2026-08-08",
+    "edition_date": "2026-08-08",
+    "risk": 77.0,
+    "wealth": 42.2,
+    "stable": 15.5,
+    "momentum": 41.8,
+    "change_pct": -1.21,
+    "action": "observe",
+    "not_holding": {
+      "action_zh": "先别买，再等等",
+      "action_en": "Don't buy yet — wait"
+    },
+    "holding": {
+      "action_zh": "先拿着看",
+      "action_en": "Hold and watch"
+    },
+    "action_zh": "先别买，再等等",
+    "action_en": "Don't buy yet — wait",
+    "action_holding_zh": "先拿着看",
+    "action_holding_en": "Hold and watch",
+    "risk_level": "high",
+    "risk_level_zh": "高",
+    "risk_level_en": "High",
+    "explain_one_liner_zh": "AMD方向还没定：还没买的先别动手；手里有的先看着。",
+    "explain_one_liner_en": "Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77",
+    "triggers": [
+      "波动率",
+      "市场情绪"
+    ],
+    "core_reasons": [
+      "波动率：高（85）",
+      "市场情绪：偏高（66）"
+    ],
+    "next_trigger_zh": "等方向更清楚——连涨确认，或明显跌破——再决定（留意：波动率、市场情绪）",
+    "next_trigger_en": "Decide after a clear direction print (watch: 波动率、市场情绪)",
+    "risk_breakdown": {
+      "risk_score": 77.0,
+      "dominant_factor": "volatility",
+      "factors": [
+        {
+          "id": "volatility",
+          "label_zh": "波动率",
+          "label_en": "Volatility",
+          "score": 85.4,
+          "weight": 0.35,
+          "contribution_pct": 49.9,
+          "band": "high",
+          "band_zh": "高",
+          "band_en": "High",
+          "hint_zh": "波动率：高。最近波动很大，价格不好估",
+          "hint_en": "Volatility high: realized vol is hard to price",
+          "ai_note_zh": "波动率：高。最近波动很大，价格不好估"
+        },
+        {
+          "id": "sentiment",
+          "label_zh": "市场情绪",
+          "label_en": "Sentiment",
+          "score": 65.7,
+          "weight": 0.25,
+          "contribution_pct": 27.4,
+          "band": "elevated",
+          "band_zh": "偏高",
+          "band_en": "Elevated",
+          "hint_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+          "hint_en": "Sentiment elevated: don't treat heat as trend confirmation",
+          "ai_note_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势"
+        },
+        {
+          "id": "event",
+          "label_zh": "事件风险",
+          "label_en": "Event risk",
+          "score": 24.5,
+          "weight": 0.2,
+          "contribution_pct": 8.2,
+          "band": "low",
+          "band_zh": "偏低",
+          "band_en": "Low",
+          "hint_zh": "事件风险：偏低。没有特别刺眼的事件",
+          "hint_en": "Event low: no extreme event heat",
+          "ai_note_zh": "事件风险：偏低。没有特别刺眼的事件"
+        },
+        {
+          "id": "trend",
+          "label_zh": "趋势风险",
+          "label_en": "Trend risk",
+          "score": 43.8,
+          "weight": 0.2,
+          "contribution_pct": 14.6,
+          "band": "neutral",
+          "band_zh": "中性",
+          "band_en": "Neutral",
+          "hint_zh": "趋势风险：中性。方向还没讲清楚",
+          "hint_en": "Trend neutral: no clear directional print yet",
+          "ai_note_zh": "趋势风险：中性。方向还没讲清楚"
+        }
+      ],
+      "inputs": {
+        "volatility_20d": 96.6,
+        "popularity": 43.8,
+        "gap_risk": 21.2,
+        "trend_quality_10d": 40.0,
+        "momentum_5d": 58.0,
+        "change_pct": -1.21,
+        "market_sentiment_index": 50.0
+      }
+    },
+    "explain": {
+      "reasons": [
+        "波动率：高（85）",
+        "市场情绪：偏高（66）"
+      ],
+      "summary_zh": "AMD方向还没定：还没买的先别动手；手里有的先看着。",
+      "summary_en": "Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77",
+      "what_happened_zh": "今天 -1.2%；风险 77（高），主要来自波动率（高）。",
+      "what_happened_en": "Day move -1.2%; risk 77 (High), led by volatility.",
+      "why_matters_zh": "波动率：高。最近波动很大，价格不好估",
+      "why_matters_en": "Volatility high: realized vol is hard to price",
+      "why_ai_zh": "把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。",
+      "why_ai_en": "If flat: Don't buy yet — wait. If holding: Hold and watch. Lower decision friction, not a price call.",
+      "do_today_zh": "还没买：先别买，再等等。已经持有：先拿着看。先守住失效条件，再谈加仓。",
+      "do_today_en": "If flat: Don't buy yet — wait. If holding: Hold and watch. Respect invalidation before sizing up.",
+      "why_risk_zh": "风险 77（高），主要来自波动率（高），大约占 49.9%。",
+      "why_wealth_zh": "财气 42，只说明最近偏强，不代表可以无视风险。",
+      "biggest_risk_zh": "波动率：高。最近波动很大，价格不好估",
+      "biggest_opportunity_zh": "结构没坏时，先管好仓位和失效条件",
+      "why_action_zh": "把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。",
+      "source": "rules"
+    },
+    "scores": {
+      "risk": 77.0,
+      "wealth": 42.2,
+      "stable": 15.5,
+      "momentum": 41.8,
+      "popularity": 47.6
+    },
+    "kind": "decision_snapshot",
+    "version": "copilot-1.5.0",
+    "confidence": 88,
+    "decision_signals": {
+      "why_zh": "主要因为风险处于「高」——所以现在更适合先别买，再等等。",
+      "why_en": "The main driver is risk at high — so the call is Don't buy yet — wait.",
+      "top_driver": {
+        "id": "volatility",
+        "label_zh": "风险",
+        "label_en": "Risk",
+        "score": 85.4,
+        "band": "high",
+        "band_zh": "高",
+        "band_en": "High",
+        "contribution_pct": 49.9,
+        "summary_zh": "波动率：高。最近波动很大，价格不好估",
+        "summary_en": "Volatility high: realized vol is hard to price"
+      },
+      "supporting_drivers": [
+        {
+          "id": "sentiment",
+          "label_zh": "情绪",
+          "label_en": "Sentiment",
+          "score": 65.7,
+          "band": "elevated",
+          "band_zh": "偏高",
+          "band_en": "Elevated",
+          "contribution_pct": 27.4,
+          "summary_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+          "summary_en": "Sentiment elevated: don't treat heat as trend confirmation"
+        },
+        {
+          "id": "trend",
+          "label_zh": "趋势",
+          "label_en": "Trend",
+          "score": 43.8,
+          "band": "neutral",
+          "band_zh": "中性",
+          "band_en": "Neutral",
+          "contribution_pct": 14.6,
+          "summary_zh": "趋势风险：中性。方向还没讲清楚",
+          "summary_en": "Trend neutral: no clear directional print yet"
+        },
+        {
+          "id": "event",
+          "label_zh": "事件",
+          "label_en": "Event",
+          "score": 24.5,
+          "band": "low",
+          "band_zh": "偏低",
+          "band_en": "Low",
+          "contribution_pct": 8.2,
+          "summary_zh": "事件风险：偏低。没有特别刺眼的事件",
+          "summary_en": "Event low: no extreme event heat"
+        }
+      ],
+      "next_trigger_zh": "方向更清楚——连涨确认，或明显跌破——AI 才会从观望转向行动（留意：风险、情绪）",
+      "next_trigger_en": "AI leaves wait-mode after a clear direction print (watch: Risk / Sentiment)",
+      "bull_case_zh": "若出现清晰上行确认，同时风险降到 55 以下，AI 可能转向更积极。",
+      "bull_case_en": "A clear upside confirmation with risk below 55 could make AI more constructive.",
+      "bear_case_zh": "若波动与事件压力继续抬升，AI 会偏向不追/减仓，而不是买入。",
+      "bear_case_en": "If volatility and event pressure keep climbing, AI leans no-chase/reduce — not buy."
+    },
+    "action_changed": false,
+    "change_reason_zh": "AMD方向还没定：还没买的先别动手；手里有的先看着。",
+    "change_reason_en": "Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77"
+  },
+  "timeline": [
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "name_zh": "AMD",
+      "date": "2026-08-02",
+      "edition_date": "2026-08-02",
+      "risk": 81.8,
+      "wealth": 39.3,
+      "stable": 14.6,
+      "momentum": 38.2,
+      "change_pct": -1.9,
+      "action": "no_chase",
+      "action_zh": "别追高",
+      "action_en": "Don't chase",
+      "explain_one_liner_zh": "AMD热度与风险同步抬升，今天更适合不追。",
+      "explain_one_liner_en": "Do not chase the move · risk 82",
+      "triggers": [
+        "波动率",
+        "市场情绪",
+        "事件风险"
+      ],
+      "risk_breakdown": {
+        "risk_score": 81.8,
+        "dominant_factor": "volatility",
+        "factors": [
+          {
+            "id": "volatility",
+            "label_zh": "波动率",
+            "label_en": "Volatility",
+            "score": 86.5,
+            "weight": 0.35,
+            "contribution_pct": 44.5,
+            "hint_zh": "波动率：高。最近波动很大，价格不好估",
+            "hint_en": "Volatility high: realized vol is hard to price",
+            "ai_note_zh": "波动率：高。最近波动很大，价格不好估",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "sentiment",
+            "label_zh": "市场情绪",
+            "label_en": "Sentiment",
+            "score": 74.4,
+            "weight": 0.25,
+            "contribution_pct": 27.4,
+            "hint_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "hint_en": "Sentiment high: crowded-trade risk rises",
+            "ai_note_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件风险",
+            "label_en": "Event risk",
+            "score": 58.2,
+            "weight": 0.2,
+            "contribution_pct": 17.1,
+            "hint_zh": "事件风险：偏高。跳空/异动偏多，这段预期放低一点",
+            "hint_en": "Event elevated: cut expectations into the event window",
+            "ai_note_zh": "事件风险：偏高。跳空/异动偏多，这段预期放低一点",
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势风险",
+            "label_en": "Trend risk",
+            "score": 37.4,
+            "weight": 0.2,
+            "contribution_pct": 11.0,
+            "hint_zh": "趋势风险：偏低。大框架还在，回撤先当波动看",
+            "hint_en": "Trend low: frame intact; treat dips as volatility first",
+            "ai_note_zh": "趋势风险：偏低。大框架还在，回撤先当波动看",
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low"
+          }
+        ],
+        "inputs": {
+          "volatility_20d": 98.5,
+          "popularity": 56.3,
+          "gap_risk": 61.5,
+          "trend_quality_10d": 40.0,
+          "momentum_5d": 37.5,
+          "change_pct": -1.9,
+          "market_sentiment_index": 50.0
+        }
+      },
+      "explain": {
+        "reasons": [
+          "波动率偏高（86.5）",
+          "市场情绪偏高（74.4）",
+          "事件风险偏高（58.2）"
+        ],
+        "summary_zh": "AMD热度与风险同步抬升，今天更适合不追。",
+        "summary_en": "Do not chase the move · risk 82",
+        "why_risk_zh": "风险 82，主因是波动率（贡献约 44.5%）。",
+        "why_wealth_zh": "财气 39，反映近端强度与动量，不等于可以无视风险。",
+        "biggest_risk_zh": "近月波动明显放大，价格路径更难定价",
+        "biggest_opportunity_zh": "若回踩后风险分回落，再评估是否加回",
+        "why_action_zh": "在 Risk/Trend/Sentiment/Event 综合下，系统给出「不建议追高」，优先降低决策难度。",
+        "source": "rules"
+      },
+      "scores": {
+        "risk": 81.8,
+        "wealth": 39.3,
+        "stable": 14.6,
+        "momentum": 38.2,
+        "popularity": 57.0
+      },
+      "kind": "decision_snapshot",
+      "version": "copilot-1.5.0",
+      "not_holding": {
+        "action_zh": "别追高",
+        "action_en": "Don't chase"
+      },
+      "holding": {
+        "action_zh": "别加仓",
+        "action_en": "Don't add"
+      },
+      "action_holding_zh": "别加仓",
+      "action_holding_en": "Don't add",
+      "risk_level": "high",
+      "risk_level_zh": "高",
+      "risk_level_en": "High",
+      "core_reasons": [
+        "波动率：高（86）",
+        "市场情绪：高（74）"
+      ],
+      "confidence": 90,
+      "next_trigger_zh": "回调之后若风险掉回 60 以下，AI 才会重新评估是否参与（留意：波动率、市场情绪）",
+      "next_trigger_en": "AI reassesses after a pullback if risk falls below 60 (watch: tape or risk shifts)",
+      "decision_signals": {
+        "why_zh": "主要因为风险处于「高」——所以现在更适合别追高。",
+        "why_en": "The main driver is risk at high — so the call is Don't chase.",
+        "top_driver": {
+          "id": "volatility",
+          "label_zh": "风险",
+          "label_en": "Risk",
+          "score": 86.5,
+          "band": "high",
+          "band_zh": "高",
+          "band_en": "High",
+          "contribution_pct": 44.5,
+          "summary_zh": "波动率：高。最近波动很大，价格不好估",
+          "summary_en": "Volatility high: realized vol is hard to price"
+        },
+        "supporting_drivers": [
+          {
+            "id": "sentiment",
+            "label_zh": "情绪",
+            "label_en": "Sentiment",
+            "score": 74.4,
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High",
+            "contribution_pct": 27.4,
+            "summary_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "summary_en": "Sentiment high: crowded-trade risk rises"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件",
+            "label_en": "Event",
+            "score": 58.2,
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated",
+            "contribution_pct": 17.1,
+            "summary_zh": "事件风险：偏高。跳空/异动偏多，这段预期放低一点",
+            "summary_en": "Event elevated: cut expectations into the event window"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势",
+            "label_en": "Trend",
+            "score": 37.4,
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low",
+            "contribution_pct": 11.0,
+            "summary_zh": "趋势风险：偏低。大框架还在，回撤先当波动看",
+            "summary_en": "Trend low: frame intact; treat dips as volatility first"
+          }
+        ],
+        "next_trigger_zh": "回调之后若风险掉回 60 以下，AI 才会重新评估是否参与（留意：风险、情绪）",
+        "next_trigger_en": "AI reassesses after a pullback if risk falls below 60 (watch: Risk / Sentiment)",
+        "bull_case_zh": "若先回调、风险掉到 60 以下，且风险降温，AI 可能允许重新评估参与。",
+        "bull_case_en": "A pullback with risk below 60 and cooler Risk could reopen participation.",
+        "bear_case_zh": "若继续追高且风险不降温，AI 会维持回避，甚至转向减仓。",
+        "bear_case_en": "If the chase continues and Risk stays hot, AI stays away — or shifts to reduce."
+      },
+      "action_changed": false,
+      "change_reason_zh": "AMD热度与风险同步抬升，今天更适合不追。",
+      "change_reason_en": "Do not chase the move · risk 82"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "name_zh": "AMD",
+      "date": "2026-08-03",
+      "edition_date": "2026-08-03",
+      "risk": 77.7,
+      "wealth": 41.8,
+      "stable": 16.5,
+      "momentum": 40.0,
+      "change_pct": 1.78,
+      "action": "no_chase",
+      "action_zh": "别追高",
+      "action_en": "Don't chase",
+      "explain_one_liner_zh": "AMD热度与风险同步抬升，今天更适合不追。",
+      "explain_one_liner_en": "Do not chase the move · risk 78",
+      "triggers": [
+        "波动率",
+        "市场情绪"
+      ],
+      "risk_breakdown": {
+        "risk_score": 77.7,
+        "dominant_factor": "volatility",
+        "factors": [
+          {
+            "id": "volatility",
+            "label_zh": "波动率",
+            "label_en": "Volatility",
+            "score": 84.3,
+            "weight": 0.35,
+            "contribution_pct": 45.2,
+            "hint_zh": "波动率：高。最近波动很大，价格不好估",
+            "hint_en": "Volatility high: realized vol is hard to price",
+            "ai_note_zh": "波动率：高。最近波动很大，价格不好估",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "sentiment",
+            "label_zh": "市场情绪",
+            "label_en": "Sentiment",
+            "score": 84.8,
+            "weight": 0.25,
+            "contribution_pct": 32.5,
+            "hint_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "hint_en": "Sentiment high: crowded-trade risk rises",
+            "ai_note_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件风险",
+            "label_en": "Event risk",
+            "score": 39.6,
+            "weight": 0.2,
+            "contribution_pct": 12.1,
+            "hint_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "hint_en": "Event low: no extreme event heat",
+            "ai_note_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势风险",
+            "label_en": "Trend risk",
+            "score": 33.3,
+            "weight": 0.2,
+            "contribution_pct": 10.2,
+            "hint_zh": "趋势风险：偏低。大框架还在，回撤先当波动看",
+            "hint_en": "Trend low: frame intact; treat dips as volatility first",
+            "ai_note_zh": "趋势风险：偏低。大框架还在，回撤先当波动看",
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low"
+          }
+        ],
+        "inputs": {
+          "volatility_20d": 94.6,
+          "popularity": 71.2,
+          "gap_risk": 36.2,
+          "trend_quality_10d": 40.0,
+          "momentum_5d": 50.8,
+          "change_pct": 1.78,
+          "market_sentiment_index": 50.0
+        }
+      },
+      "explain": {
+        "reasons": [
+          "波动率偏高（84.3）",
+          "市场情绪偏高（84.8）"
+        ],
+        "summary_zh": "AMD热度与风险同步抬升，今天更适合不追。",
+        "summary_en": "Do not chase the move · risk 78",
+        "why_risk_zh": "风险 78，主因是波动率（贡献约 45.2%）。",
+        "why_wealth_zh": "财气 42，反映近端强度与动量，不等于可以无视风险。",
+        "biggest_risk_zh": "近月波动明显放大，价格路径更难定价",
+        "biggest_opportunity_zh": "若回踩后风险分回落，再评估是否加回",
+        "why_action_zh": "在 Risk/Trend/Sentiment/Event 综合下，系统给出「不建议追高」，优先降低决策难度。",
+        "source": "rules"
+      },
+      "scores": {
+        "risk": 77.7,
+        "wealth": 41.8,
+        "stable": 16.5,
+        "momentum": 40.0,
+        "popularity": 65.9
+      },
+      "kind": "decision_snapshot",
+      "version": "copilot-1.5.0",
+      "not_holding": {
+        "action_zh": "别追高",
+        "action_en": "Don't chase"
+      },
+      "holding": {
+        "action_zh": "别加仓",
+        "action_en": "Don't add"
+      },
+      "action_holding_zh": "别加仓",
+      "action_holding_en": "Don't add",
+      "risk_level": "high",
+      "risk_level_zh": "高",
+      "risk_level_en": "High",
+      "core_reasons": [
+        "波动率：高（84）",
+        "市场情绪：高（85）"
+      ],
+      "confidence": 88,
+      "next_trigger_zh": "回调之后若风险掉回 60 以下，AI 才会重新评估是否参与（留意：波动率、市场情绪）",
+      "next_trigger_en": "AI reassesses after a pullback if risk falls below 60 (watch: tape or risk shifts)",
+      "decision_signals": {
+        "why_zh": "主要因为风险处于「高」——所以现在更适合别追高。",
+        "why_en": "The main driver is risk at high — so the call is Don't chase.",
+        "top_driver": {
+          "id": "volatility",
+          "label_zh": "风险",
+          "label_en": "Risk",
+          "score": 84.3,
+          "band": "high",
+          "band_zh": "高",
+          "band_en": "High",
+          "contribution_pct": 45.2,
+          "summary_zh": "波动率：高。最近波动很大，价格不好估",
+          "summary_en": "Volatility high: realized vol is hard to price"
+        },
+        "supporting_drivers": [
+          {
+            "id": "sentiment",
+            "label_zh": "情绪",
+            "label_en": "Sentiment",
+            "score": 84.8,
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High",
+            "contribution_pct": 32.5,
+            "summary_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "summary_en": "Sentiment high: crowded-trade risk rises"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件",
+            "label_en": "Event",
+            "score": 39.6,
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low",
+            "contribution_pct": 12.1,
+            "summary_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "summary_en": "Event low: no extreme event heat"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势",
+            "label_en": "Trend",
+            "score": 33.3,
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low",
+            "contribution_pct": 10.2,
+            "summary_zh": "趋势风险：偏低。大框架还在，回撤先当波动看",
+            "summary_en": "Trend low: frame intact; treat dips as volatility first"
+          }
+        ],
+        "next_trigger_zh": "回调之后若风险掉回 60 以下，AI 才会重新评估是否参与（留意：风险、情绪）",
+        "next_trigger_en": "AI reassesses after a pullback if risk falls below 60 (watch: Risk / Sentiment)",
+        "bull_case_zh": "若先回调、风险掉到 60 以下，且风险降温，AI 可能允许重新评估参与。",
+        "bull_case_en": "A pullback with risk below 60 and cooler Risk could reopen participation.",
+        "bear_case_zh": "若继续追高且风险不降温，AI 会维持回避，甚至转向减仓。",
+        "bear_case_en": "If the chase continues and Risk stays hot, AI stays away — or shifts to reduce."
+      },
+      "action_changed": false,
+      "change_reason_zh": "AMD热度与风险同步抬升，今天更适合不追。",
+      "change_reason_en": "Do not chase the move · risk 78"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "name_zh": "AMD",
+      "date": "2026-08-04",
+      "edition_date": "2026-08-04",
+      "risk": 78.4,
+      "wealth": 61.2,
+      "stable": 16.9,
+      "momentum": 59.9,
+      "change_pct": 7.0,
+      "action": "reduce",
+      "action_zh": "现在别开新仓",
+      "action_en": "Don't open a new position",
+      "explain_one_liner_zh": "AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。",
+      "explain_one_liner_en": "Elevated risk — consider reducing size · risk 78",
+      "triggers": [
+        "波动率",
+        "市场情绪",
+        "事件风险",
+        "日内波动 +7.0%"
+      ],
+      "risk_breakdown": {
+        "risk_score": 78.4,
+        "dominant_factor": "volatility",
+        "factors": [
+          {
+            "id": "volatility",
+            "label_zh": "波动率",
+            "label_en": "Volatility",
+            "score": 84.0,
+            "weight": 0.35,
+            "contribution_pct": 41.2,
+            "hint_zh": "波动率：高。最近波动很大，价格不好估",
+            "hint_en": "Volatility high: realized vol is hard to price",
+            "ai_note_zh": "波动率：高。最近波动很大，价格不好估",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "sentiment",
+            "label_zh": "市场情绪",
+            "label_en": "Sentiment",
+            "score": 73.6,
+            "weight": 0.25,
+            "contribution_pct": 25.8,
+            "hint_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "hint_en": "Sentiment high: crowded-trade risk rises",
+            "ai_note_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件风险",
+            "label_en": "Event risk",
+            "score": 73.5,
+            "weight": 0.2,
+            "contribution_pct": 20.6,
+            "hint_zh": "事件风险：高。跳空/异动偏多，这段预期放低一点",
+            "hint_en": "Event high: cut expectations into the event window",
+            "ai_note_zh": "事件风险：高。跳空/异动偏多，这段预期放低一点",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势风险",
+            "label_en": "Trend risk",
+            "score": 44.6,
+            "weight": 0.2,
+            "contribution_pct": 12.5,
+            "hint_zh": "趋势风险：中性。方向还没讲清楚",
+            "hint_en": "Trend neutral: no clear directional print yet",
+            "ai_note_zh": "趋势风险：中性。方向还没讲清楚",
+            "band": "neutral",
+            "band_zh": "中性",
+            "band_en": "Neutral"
+          }
+        ],
+        "inputs": {
+          "volatility_20d": 95.6,
+          "popularity": 50.6,
+          "gap_risk": 47.9,
+          "trend_quality_10d": 40.0,
+          "momentum_5d": 83.1,
+          "change_pct": 7.0,
+          "market_sentiment_index": 60.6
+        }
+      },
+      "explain": {
+        "reasons": [
+          "今日波动 +7.0% 放大决策噪音",
+          "波动率偏高（84.0）",
+          "市场情绪偏高（73.6）",
+          "事件风险偏高（73.5）"
+        ],
+        "summary_zh": "AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。",
+        "summary_en": "Elevated risk — consider reducing size · risk 78",
+        "why_risk_zh": "风险 78，主因是波动率（贡献约 41.2%）。",
+        "why_wealth_zh": "财气 61，反映近端强度与动量，不等于可以无视风险。",
+        "biggest_risk_zh": "近月波动明显放大，价格路径更难定价",
+        "biggest_opportunity_zh": "若回踩后风险分回落，再评估是否加回",
+        "why_action_zh": "在 Risk/Trend/Sentiment/Event 综合下，系统给出「风险较高，建议降低仓位」，优先降低决策难度。",
+        "source": "rules"
+      },
+      "scores": {
+        "risk": 78.4,
+        "wealth": 61.2,
+        "stable": 16.9,
+        "momentum": 59.9,
+        "popularity": 62.4
+      },
+      "kind": "decision_snapshot",
+      "version": "copilot-1.5.0",
+      "not_holding": {
+        "action_zh": "现在别开新仓",
+        "action_en": "Don't open a new position"
+      },
+      "holding": {
+        "action_zh": "建议减仓",
+        "action_en": "Consider reducing"
+      },
+      "action_holding_zh": "建议减仓",
+      "action_holding_en": "Consider reducing",
+      "risk_level": "high",
+      "risk_level_zh": "高",
+      "risk_level_en": "High",
+      "core_reasons": [
+        "波动率：高（84）",
+        "市场情绪：高（74）"
+      ],
+      "confidence": 88,
+      "next_trigger_zh": "波动和事件风险明显降温（风险低于 63）后，AI 才会考虑放松立场",
+      "next_trigger_en": "AI eases only after vol/event risk cools (risk < 63)",
+      "decision_signals": {
+        "why_zh": "主要因为风险处于「高」——所以现在更适合现在别开新仓。",
+        "why_en": "The main driver is risk at high — so the call is Don't open a new position.",
+        "top_driver": {
+          "id": "volatility",
+          "label_zh": "风险",
+          "label_en": "Risk",
+          "score": 84.0,
+          "band": "high",
+          "band_zh": "高",
+          "band_en": "High",
+          "contribution_pct": 41.2,
+          "summary_zh": "波动率：高。最近波动很大，价格不好估",
+          "summary_en": "Volatility high: realized vol is hard to price"
+        },
+        "supporting_drivers": [
+          {
+            "id": "sentiment",
+            "label_zh": "情绪",
+            "label_en": "Sentiment",
+            "score": 73.6,
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High",
+            "contribution_pct": 25.8,
+            "summary_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "summary_en": "Sentiment high: crowded-trade risk rises"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件",
+            "label_en": "Event",
+            "score": 73.5,
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High",
+            "contribution_pct": 20.6,
+            "summary_zh": "事件风险：高。跳空/异动偏多，这段预期放低一点",
+            "summary_en": "Event high: cut expectations into the event window"
+          }
+        ],
+        "next_trigger_zh": "波动和事件风险明显降温（风险低于 63）后，AI 才会考虑放松立场",
+        "next_trigger_en": "AI eases only after vol/event risk cools (risk < 63)",
+        "bull_case_zh": "若波动与事件风险降到 63 以下，且情绪、事件同步缓和，AI 才会放松减仓立场。",
+        "bull_case_en": "Only if vol/event risk falls below 63 and Sentiment / Event ease will AI soften reduce.",
+        "bear_case_zh": "若风险与波动继续恶化，AI 会坚持减仓/不开新仓，直到触发条件出现。",
+        "bear_case_en": "If Risk and volatility keep worsening, AI keeps reduce / no-new-entry until triggers fire."
+      },
+      "action_changed": true,
+      "change_reason_zh": "由「不建议追高」调整为「现在别开新仓」：AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。",
+      "change_reason_en": "Shifted from Do not chase the move to Don't open a new position: Elevated risk — consider reducing size · risk 78"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "name_zh": "AMD",
+      "date": "2026-08-05",
+      "edition_date": "2026-08-05",
+      "risk": 84.4,
+      "wealth": 43.8,
+      "stable": 13.5,
+      "momentum": 51.7,
+      "change_pct": -7.04,
+      "action": "reduce",
+      "action_zh": "现在别开新仓",
+      "action_en": "Don't open a new position",
+      "explain_one_liner_zh": "AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。",
+      "explain_one_liner_en": "Elevated risk — consider reducing size · risk 84",
+      "triggers": [
+        "波动率",
+        "市场情绪",
+        "事件风险",
+        "日内波动 -7.0%"
+      ],
+      "risk_breakdown": {
+        "risk_score": 84.4,
+        "dominant_factor": "volatility",
+        "factors": [
+          {
+            "id": "volatility",
+            "label_zh": "波动率",
+            "label_en": "Volatility",
+            "score": 87.5,
+            "weight": 0.35,
+            "contribution_pct": 35.6,
+            "hint_zh": "波动率：高。最近波动很大，价格不好估",
+            "hint_en": "Volatility high: realized vol is hard to price",
+            "ai_note_zh": "波动率：高。最近波动很大，价格不好估",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "sentiment",
+            "label_zh": "市场情绪",
+            "label_en": "Sentiment",
+            "score": 100.0,
+            "weight": 0.25,
+            "contribution_pct": 29.1,
+            "hint_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "hint_en": "Sentiment high: crowded-trade risk rises",
+            "ai_note_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件风险",
+            "label_en": "Event risk",
+            "score": 95.2,
+            "weight": 0.2,
+            "contribution_pct": 22.1,
+            "hint_zh": "事件风险：高。跳空/异动偏多，这段预期放低一点",
+            "hint_en": "Event high: cut expectations into the event window",
+            "ai_note_zh": "事件风险：高。跳空/异动偏多，这段预期放低一点",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势风险",
+            "label_en": "Trend risk",
+            "score": 56.8,
+            "weight": 0.2,
+            "contribution_pct": 13.2,
+            "hint_zh": "趋势风险：偏高。多空拉锯，先等方向确认",
+            "hint_en": "Trend elevated: two-way tape — confirmation beats prediction",
+            "ai_note_zh": "趋势风险：偏高。多空拉锯，先等方向确认",
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated"
+          }
+        ],
+        "inputs": {
+          "volatility_20d": 99.9,
+          "popularity": 96.7,
+          "gap_risk": 78.9,
+          "trend_quality_10d": 30.0,
+          "momentum_5d": 79.4,
+          "change_pct": -7.04,
+          "market_sentiment_index": 60.6
+        }
+      },
+      "explain": {
+        "reasons": [
+          "今日波动 -7.0% 放大决策噪音",
+          "波动率偏高（87.5）",
+          "市场情绪偏高（100.0）",
+          "事件风险偏高（95.2）"
+        ],
+        "summary_zh": "AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。",
+        "summary_en": "Elevated risk — consider reducing size · risk 84",
+        "why_risk_zh": "风险 84，主因是波动率（贡献约 35.6%）。",
+        "why_wealth_zh": "财气 44，反映近端强度与动量，不等于可以无视风险。",
+        "biggest_risk_zh": "近月波动明显放大，价格路径更难定价",
+        "biggest_opportunity_zh": "若回踩后风险分回落，再评估是否加回",
+        "why_action_zh": "在 Risk/Trend/Sentiment/Event 综合下，系统给出「风险较高，建议降低仓位」，优先降低决策难度。",
+        "source": "rules"
+      },
+      "scores": {
+        "risk": 84.4,
+        "wealth": 43.8,
+        "stable": 13.5,
+        "momentum": 51.7,
+        "popularity": 92.0
+      },
+      "kind": "decision_snapshot",
+      "version": "copilot-1.5.0",
+      "not_holding": {
+        "action_zh": "现在别开新仓",
+        "action_en": "Don't open a new position"
+      },
+      "holding": {
+        "action_zh": "建议减仓",
+        "action_en": "Consider reducing"
+      },
+      "action_holding_zh": "建议减仓",
+      "action_holding_en": "Consider reducing",
+      "risk_level": "high",
+      "risk_level_zh": "高",
+      "risk_level_en": "High",
+      "core_reasons": [
+        "波动率：高（88）",
+        "市场情绪：高（100）"
+      ],
+      "confidence": 92,
+      "next_trigger_zh": "波动和事件风险明显降温（风险低于 69）后，AI 才会考虑放松立场",
+      "next_trigger_en": "AI eases only after vol/event risk cools (risk < 69)",
+      "decision_signals": {
+        "why_zh": "主要因为风险处于「高」——所以现在更适合现在别开新仓。",
+        "why_en": "The main driver is risk at high — so the call is Don't open a new position.",
+        "top_driver": {
+          "id": "volatility",
+          "label_zh": "风险",
+          "label_en": "Risk",
+          "score": 87.5,
+          "band": "high",
+          "band_zh": "高",
+          "band_en": "High",
+          "contribution_pct": 35.6,
+          "summary_zh": "波动率：高。最近波动很大，价格不好估",
+          "summary_en": "Volatility high: realized vol is hard to price"
+        },
+        "supporting_drivers": [
+          {
+            "id": "sentiment",
+            "label_zh": "情绪",
+            "label_en": "Sentiment",
+            "score": 100.0,
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High",
+            "contribution_pct": 29.1,
+            "summary_zh": "市场情绪：高。盯的人太多，容易拥挤",
+            "summary_en": "Sentiment high: crowded-trade risk rises"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件",
+            "label_en": "Event",
+            "score": 95.2,
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High",
+            "contribution_pct": 22.1,
+            "summary_zh": "事件风险：高。跳空/异动偏多，这段预期放低一点",
+            "summary_en": "Event high: cut expectations into the event window"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势",
+            "label_en": "Trend",
+            "score": 56.8,
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated",
+            "contribution_pct": 13.2,
+            "summary_zh": "趋势风险：偏高。多空拉锯，先等方向确认",
+            "summary_en": "Trend elevated: two-way tape — confirmation beats prediction"
+          }
+        ],
+        "next_trigger_zh": "波动和事件风险明显降温（风险低于 69）后，AI 才会考虑放松立场",
+        "next_trigger_en": "AI eases only after vol/event risk cools (risk < 69)",
+        "bull_case_zh": "若波动与事件风险降到 69 以下，且情绪、事件同步缓和，AI 才会放松减仓立场。",
+        "bull_case_en": "Only if vol/event risk falls below 69 and Sentiment / Event ease will AI soften reduce.",
+        "bear_case_zh": "若风险与波动继续恶化，AI 会坚持减仓/不开新仓，直到触发条件出现。",
+        "bear_case_en": "If Risk and volatility keep worsening, AI keeps reduce / no-new-entry until triggers fire."
+      },
+      "action_changed": false,
+      "change_reason_zh": "AMD短期风险偏高，先降难度：减仓观望优于猜测反弹。",
+      "change_reason_en": "Elevated risk — consider reducing size · risk 84"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "name_zh": "AMD",
+      "date": "2026-08-06",
+      "edition_date": "2026-08-06",
+      "risk": 77.9,
+      "wealth": 43.9,
+      "stable": 15.0,
+      "momentum": 43.2,
+      "change_pct": 1.5,
+      "action": "observe",
+      "action_zh": "先别买，再等等",
+      "action_en": "Don't buy yet — wait",
+      "explain_one_liner_zh": "AMD多空未决，今天的正确动作是继续观察。",
+      "explain_one_liner_en": "Keep watching · risk 78",
+      "triggers": [
+        "波动率",
+        "市场情绪"
+      ],
+      "risk_breakdown": {
+        "risk_score": 77.9,
+        "dominant_factor": "volatility",
+        "factors": [
+          {
+            "id": "volatility",
+            "label_zh": "波动率",
+            "label_en": "Volatility",
+            "score": 86.0,
+            "weight": 0.35,
+            "contribution_pct": 50.8,
+            "hint_zh": "波动率：高。最近波动很大，价格不好估",
+            "hint_en": "Volatility high: realized vol is hard to price",
+            "ai_note_zh": "波动率：高。最近波动很大，价格不好估",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "sentiment",
+            "label_zh": "市场情绪",
+            "label_en": "Sentiment",
+            "score": 64.5,
+            "weight": 0.25,
+            "contribution_pct": 27.2,
+            "hint_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+            "hint_en": "Sentiment elevated: don't treat heat as trend confirmation",
+            "ai_note_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件风险",
+            "label_en": "Event risk",
+            "score": 29.9,
+            "weight": 0.2,
+            "contribution_pct": 10.1,
+            "hint_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "hint_en": "Event low: no extreme event heat",
+            "ai_note_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势风险",
+            "label_en": "Trend risk",
+            "score": 35.3,
+            "weight": 0.2,
+            "contribution_pct": 11.9,
+            "hint_zh": "趋势风险：偏低。大框架还在，回撤先当波动看",
+            "hint_en": "Trend low: frame intact; treat dips as volatility first",
+            "ai_note_zh": "趋势风险：偏低。大框架还在，回撤先当波动看",
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low"
+          }
+        ],
+        "inputs": {
+          "volatility_20d": 97.1,
+          "popularity": 37.6,
+          "gap_risk": 25.6,
+          "trend_quality_10d": 40.0,
+          "momentum_5d": 56.6,
+          "change_pct": 1.5,
+          "market_sentiment_index": 60.6
+        }
+      },
+      "explain": {
+        "reasons": [
+          "波动率偏高（86.0）",
+          "市场情绪偏高（64.5）"
+        ],
+        "summary_zh": "AMD多空未决，今天的正确动作是继续观察。",
+        "summary_en": "Keep watching · risk 78",
+        "why_risk_zh": "风险 78，主因是波动率（贡献约 50.8%）。",
+        "why_wealth_zh": "财气 44，反映近端强度与动量，不等于可以无视风险。",
+        "biggest_risk_zh": "近月波动明显放大，价格路径更难定价",
+        "biggest_opportunity_zh": "结构未破坏时，把注意力放在仓位与失效条件",
+        "why_action_zh": "在 Risk/Trend/Sentiment/Event 综合下，系统给出「可以继续观察」，优先降低决策难度。",
+        "source": "rules"
+      },
+      "scores": {
+        "risk": 77.9,
+        "wealth": 43.9,
+        "stable": 15.0,
+        "momentum": 43.2,
+        "popularity": 43.3
+      },
+      "kind": "decision_snapshot",
+      "version": "copilot-1.5.0",
+      "not_holding": {
+        "action_zh": "先别买，再等等",
+        "action_en": "Don't buy yet — wait"
+      },
+      "holding": {
+        "action_zh": "先拿着看",
+        "action_en": "Hold and watch"
+      },
+      "action_holding_zh": "先拿着看",
+      "action_holding_en": "Hold and watch",
+      "risk_level": "high",
+      "risk_level_zh": "高",
+      "risk_level_en": "High",
+      "core_reasons": [
+        "波动率：高（86）",
+        "市场情绪：偏高（64）"
+      ],
+      "confidence": 89,
+      "next_trigger_zh": "方向更清楚——连涨确认，或明显跌破——AI 才会从观望转向行动（留意：波动率、市场情绪）",
+      "next_trigger_en": "AI leaves wait-mode after a clear direction print (watch: tape or risk shifts)",
+      "decision_signals": {
+        "why_zh": "主要因为风险处于「高」——所以现在更适合先别买，再等等。",
+        "why_en": "The main driver is risk at high — so the call is Don't buy yet — wait.",
+        "top_driver": {
+          "id": "volatility",
+          "label_zh": "风险",
+          "label_en": "Risk",
+          "score": 86.0,
+          "band": "high",
+          "band_zh": "高",
+          "band_en": "High",
+          "contribution_pct": 50.8,
+          "summary_zh": "波动率：高。最近波动很大，价格不好估",
+          "summary_en": "Volatility high: realized vol is hard to price"
+        },
+        "supporting_drivers": [
+          {
+            "id": "sentiment",
+            "label_zh": "情绪",
+            "label_en": "Sentiment",
+            "score": 64.5,
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated",
+            "contribution_pct": 27.2,
+            "summary_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+            "summary_en": "Sentiment elevated: don't treat heat as trend confirmation"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势",
+            "label_en": "Trend",
+            "score": 35.3,
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low",
+            "contribution_pct": 11.9,
+            "summary_zh": "趋势风险：偏低。大框架还在，回撤先当波动看",
+            "summary_en": "Trend low: frame intact; treat dips as volatility first"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件",
+            "label_en": "Event",
+            "score": 29.9,
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low",
+            "contribution_pct": 10.1,
+            "summary_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "summary_en": "Event low: no extreme event heat"
+          }
+        ],
+        "next_trigger_zh": "方向更清楚——连涨确认，或明显跌破——AI 才会从观望转向行动（留意：风险、情绪）",
+        "next_trigger_en": "AI leaves wait-mode after a clear direction print (watch: Risk / Sentiment)",
+        "bull_case_zh": "若出现清晰上行确认，同时风险降到 55 以下，AI 可能转向更积极。",
+        "bull_case_en": "A clear upside confirmation with risk below 55 could make AI more constructive.",
+        "bear_case_zh": "若波动与事件压力继续抬升，AI 会偏向不追/减仓，而不是买入。",
+        "bear_case_en": "If volatility and event pressure keep climbing, AI leans no-chase/reduce — not buy."
+      },
+      "action_changed": true,
+      "change_reason_zh": "由「风险较高，建议降低仓位」调整为「先别买，再等等」：AMD多空未决，今天的正确动作是继续观察。",
+      "change_reason_en": "Shifted from Elevated risk — consider reducing size to Don't buy yet — wait: Keep watching · risk 78"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "name_zh": "AMD",
+      "date": "2026-08-07",
+      "edition_date": "2026-08-07",
+      "risk": 77.0,
+      "wealth": 42.2,
+      "stable": 15.5,
+      "momentum": 41.8,
+      "change_pct": -1.21,
+      "action": "observe",
+      "action_zh": "先别买，再等等",
+      "action_en": "Don't buy yet — wait",
+      "explain_one_liner_zh": "AMD多空未决，今天的正确动作是继续观察。",
+      "explain_one_liner_en": "Keep watching · risk 77",
+      "triggers": [
+        "波动率",
+        "市场情绪"
+      ],
+      "risk_breakdown": {
+        "risk_score": 77.0,
+        "dominant_factor": "volatility",
+        "factors": [
+          {
+            "id": "volatility",
+            "label_zh": "波动率",
+            "label_en": "Volatility",
+            "score": 85.4,
+            "weight": 0.35,
+            "contribution_pct": 49.7,
+            "hint_zh": "波动率：高。最近波动很大，价格不好估",
+            "hint_en": "Volatility high: realized vol is hard to price",
+            "ai_note_zh": "波动率：高。最近波动很大，价格不好估",
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High"
+          },
+          {
+            "id": "sentiment",
+            "label_zh": "市场情绪",
+            "label_en": "Sentiment",
+            "score": 66.5,
+            "weight": 0.25,
+            "contribution_pct": 27.6,
+            "hint_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+            "hint_en": "Sentiment elevated: don't treat heat as trend confirmation",
+            "ai_note_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件风险",
+            "label_en": "Event risk",
+            "score": 24.5,
+            "weight": 0.2,
+            "contribution_pct": 8.1,
+            "hint_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "hint_en": "Event low: no extreme event heat",
+            "ai_note_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势风险",
+            "label_en": "Trend risk",
+            "score": 43.8,
+            "weight": 0.2,
+            "contribution_pct": 14.6,
+            "hint_zh": "趋势风险：中性。方向还没讲清楚",
+            "hint_en": "Trend neutral: no clear directional print yet",
+            "ai_note_zh": "趋势风险：中性。方向还没讲清楚",
+            "band": "neutral",
+            "band_zh": "中性",
+            "band_en": "Neutral"
+          }
+        ],
+        "inputs": {
+          "volatility_20d": 96.6,
+          "popularity": 40.5,
+          "gap_risk": 21.2,
+          "trend_quality_10d": 40.0,
+          "momentum_5d": 58.0,
+          "change_pct": -1.21,
+          "market_sentiment_index": 60.6
+        }
+      },
+      "explain": {
+        "reasons": [
+          "波动率偏高（85.4）",
+          "市场情绪偏高（66.5）"
+        ],
+        "summary_zh": "AMD多空未决，今天的正确动作是继续观察。",
+        "summary_en": "Keep watching · risk 77",
+        "why_risk_zh": "风险 77，主因是波动率（贡献约 49.7%）。",
+        "why_wealth_zh": "财气 42，反映近端强度与动量，不等于可以无视风险。",
+        "biggest_risk_zh": "近月波动明显放大，价格路径更难定价",
+        "biggest_opportunity_zh": "结构未破坏时，把注意力放在仓位与失效条件",
+        "why_action_zh": "在 Risk/Trend/Sentiment/Event 综合下，系统给出「可以继续观察」，优先降低决策难度。",
+        "source": "rules"
+      },
+      "scores": {
+        "risk": 77.0,
+        "wealth": 42.2,
+        "stable": 15.5,
+        "momentum": 41.8,
+        "popularity": 45.5
+      },
+      "kind": "decision_snapshot",
+      "version": "copilot-1.5.0",
+      "not_holding": {
+        "action_zh": "先别买，再等等",
+        "action_en": "Don't buy yet — wait"
+      },
+      "holding": {
+        "action_zh": "先拿着看",
+        "action_en": "Hold and watch"
+      },
+      "action_holding_zh": "先拿着看",
+      "action_holding_en": "Hold and watch",
+      "risk_level": "high",
+      "risk_level_zh": "高",
+      "risk_level_en": "High",
+      "core_reasons": [
+        "波动率：高（85）",
+        "市场情绪：偏高（66）"
+      ],
+      "confidence": 88,
+      "next_trigger_zh": "方向更清楚——连涨确认，或明显跌破——AI 才会从观望转向行动（留意：波动率、市场情绪）",
+      "next_trigger_en": "AI leaves wait-mode after a clear direction print (watch: tape or risk shifts)",
+      "decision_signals": {
+        "why_zh": "主要因为风险处于「高」——所以现在更适合先别买，再等等。",
+        "why_en": "The main driver is risk at high — so the call is Don't buy yet — wait.",
+        "top_driver": {
+          "id": "volatility",
+          "label_zh": "风险",
+          "label_en": "Risk",
+          "score": 85.4,
+          "band": "high",
+          "band_zh": "高",
+          "band_en": "High",
+          "contribution_pct": 49.7,
+          "summary_zh": "波动率：高。最近波动很大，价格不好估",
+          "summary_en": "Volatility high: realized vol is hard to price"
+        },
+        "supporting_drivers": [
+          {
+            "id": "sentiment",
+            "label_zh": "情绪",
+            "label_en": "Sentiment",
+            "score": 66.5,
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated",
+            "contribution_pct": 27.6,
+            "summary_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+            "summary_en": "Sentiment elevated: don't treat heat as trend confirmation"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势",
+            "label_en": "Trend",
+            "score": 43.8,
+            "band": "neutral",
+            "band_zh": "中性",
+            "band_en": "Neutral",
+            "contribution_pct": 14.6,
+            "summary_zh": "趋势风险：中性。方向还没讲清楚",
+            "summary_en": "Trend neutral: no clear directional print yet"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件",
+            "label_en": "Event",
+            "score": 24.5,
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low",
+            "contribution_pct": 8.1,
+            "summary_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "summary_en": "Event low: no extreme event heat"
+          }
+        ],
+        "next_trigger_zh": "方向更清楚——连涨确认，或明显跌破——AI 才会从观望转向行动（留意：风险、情绪）",
+        "next_trigger_en": "AI leaves wait-mode after a clear direction print (watch: Risk / Sentiment)",
+        "bull_case_zh": "若出现清晰上行确认，同时风险降到 55 以下，AI 可能转向更积极。",
+        "bull_case_en": "A clear upside confirmation with risk below 55 could make AI more constructive.",
+        "bear_case_zh": "若波动与事件压力继续抬升，AI 会偏向不追/减仓，而不是买入。",
+        "bear_case_en": "If volatility and event pressure keep climbing, AI leans no-chase/reduce — not buy."
+      },
+      "action_changed": false,
+      "change_reason_zh": "AMD多空未决，今天的正确动作是继续观察。",
+      "change_reason_en": "Keep watching · risk 77"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "name_zh": "AMD",
+      "date": "2026-08-08",
+      "edition_date": "2026-08-08",
+      "risk": 77.0,
+      "wealth": 42.2,
+      "stable": 15.5,
+      "momentum": 41.8,
+      "change_pct": -1.21,
+      "action": "observe",
+      "not_holding": {
+        "action_zh": "先别买，再等等",
+        "action_en": "Don't buy yet — wait"
+      },
+      "holding": {
+        "action_zh": "先拿着看",
+        "action_en": "Hold and watch"
+      },
+      "action_zh": "先别买，再等等",
+      "action_en": "Don't buy yet — wait",
+      "action_holding_zh": "先拿着看",
+      "action_holding_en": "Hold and watch",
+      "risk_level": "high",
+      "risk_level_zh": "高",
+      "risk_level_en": "High",
+      "explain_one_liner_zh": "AMD方向还没定：还没买的先别动手；手里有的先看着。",
+      "explain_one_liner_en": "Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77",
+      "triggers": [
+        "波动率",
+        "市场情绪"
+      ],
+      "core_reasons": [
+        "波动率：高（85）",
+        "市场情绪：偏高（66）"
+      ],
+      "next_trigger_zh": "等方向更清楚——连涨确认，或明显跌破——再决定（留意：波动率、市场情绪）",
+      "next_trigger_en": "Decide after a clear direction print (watch: 波动率、市场情绪)",
+      "risk_breakdown": {
+        "risk_score": 77.0,
+        "dominant_factor": "volatility",
+        "factors": [
+          {
+            "id": "volatility",
+            "label_zh": "波动率",
+            "label_en": "Volatility",
+            "score": 85.4,
+            "weight": 0.35,
+            "contribution_pct": 49.9,
+            "band": "high",
+            "band_zh": "高",
+            "band_en": "High",
+            "hint_zh": "波动率：高。最近波动很大，价格不好估",
+            "hint_en": "Volatility high: realized vol is hard to price",
+            "ai_note_zh": "波动率：高。最近波动很大，价格不好估"
+          },
+          {
+            "id": "sentiment",
+            "label_zh": "市场情绪",
+            "label_en": "Sentiment",
+            "score": 65.7,
+            "weight": 0.25,
+            "contribution_pct": 27.4,
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated",
+            "hint_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+            "hint_en": "Sentiment elevated: don't treat heat as trend confirmation",
+            "ai_note_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件风险",
+            "label_en": "Event risk",
+            "score": 24.5,
+            "weight": 0.2,
+            "contribution_pct": 8.2,
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low",
+            "hint_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "hint_en": "Event low: no extreme event heat",
+            "ai_note_zh": "事件风险：偏低。没有特别刺眼的事件"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势风险",
+            "label_en": "Trend risk",
+            "score": 43.8,
+            "weight": 0.2,
+            "contribution_pct": 14.6,
+            "band": "neutral",
+            "band_zh": "中性",
+            "band_en": "Neutral",
+            "hint_zh": "趋势风险：中性。方向还没讲清楚",
+            "hint_en": "Trend neutral: no clear directional print yet",
+            "ai_note_zh": "趋势风险：中性。方向还没讲清楚"
+          }
+        ],
+        "inputs": {
+          "volatility_20d": 96.6,
+          "popularity": 43.8,
+          "gap_risk": 21.2,
+          "trend_quality_10d": 40.0,
+          "momentum_5d": 58.0,
+          "change_pct": -1.21,
+          "market_sentiment_index": 50.0
+        }
+      },
+      "explain": {
+        "reasons": [
+          "波动率：高（85）",
+          "市场情绪：偏高（66）"
+        ],
+        "summary_zh": "AMD方向还没定：还没买的先别动手；手里有的先看着。",
+        "summary_en": "Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77",
+        "what_happened_zh": "今天 -1.2%；风险 77（高），主要来自波动率（高）。",
+        "what_happened_en": "Day move -1.2%; risk 77 (High), led by volatility.",
+        "why_matters_zh": "波动率：高。最近波动很大，价格不好估",
+        "why_matters_en": "Volatility high: realized vol is hard to price",
+        "why_ai_zh": "把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。",
+        "why_ai_en": "If flat: Don't buy yet — wait. If holding: Hold and watch. Lower decision friction, not a price call.",
+        "do_today_zh": "还没买：先别买，再等等。已经持有：先拿着看。先守住失效条件，再谈加仓。",
+        "do_today_en": "If flat: Don't buy yet — wait. If holding: Hold and watch. Respect invalidation before sizing up.",
+        "why_risk_zh": "风险 77（高），主要来自波动率（高），大约占 49.9%。",
+        "why_wealth_zh": "财气 42，只说明最近偏强，不代表可以无视风险。",
+        "biggest_risk_zh": "波动率：高。最近波动很大，价格不好估",
+        "biggest_opportunity_zh": "结构没坏时，先管好仓位和失效条件",
+        "why_action_zh": "把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。",
+        "source": "rules"
+      },
+      "scores": {
+        "risk": 77.0,
+        "wealth": 42.2,
+        "stable": 15.5,
+        "momentum": 41.8,
+        "popularity": 47.6
+      },
+      "kind": "decision_snapshot",
+      "version": "copilot-1.5.0",
+      "confidence": 88,
+      "decision_signals": {
+        "why_zh": "主要因为风险处于「高」——所以现在更适合先别买，再等等。",
+        "why_en": "The main driver is risk at high — so the call is Don't buy yet — wait.",
+        "top_driver": {
+          "id": "volatility",
+          "label_zh": "风险",
+          "label_en": "Risk",
+          "score": 85.4,
+          "band": "high",
+          "band_zh": "高",
+          "band_en": "High",
+          "contribution_pct": 49.9,
+          "summary_zh": "波动率：高。最近波动很大，价格不好估",
+          "summary_en": "Volatility high: realized vol is hard to price"
+        },
+        "supporting_drivers": [
+          {
+            "id": "sentiment",
+            "label_zh": "情绪",
+            "label_en": "Sentiment",
+            "score": 65.7,
+            "band": "elevated",
+            "band_zh": "偏高",
+            "band_en": "Elevated",
+            "contribution_pct": 27.4,
+            "summary_zh": "市场情绪：偏高。气氛热起来了，别把热闹当趋势",
+            "summary_en": "Sentiment elevated: don't treat heat as trend confirmation"
+          },
+          {
+            "id": "trend",
+            "label_zh": "趋势",
+            "label_en": "Trend",
+            "score": 43.8,
+            "band": "neutral",
+            "band_zh": "中性",
+            "band_en": "Neutral",
+            "contribution_pct": 14.6,
+            "summary_zh": "趋势风险：中性。方向还没讲清楚",
+            "summary_en": "Trend neutral: no clear directional print yet"
+          },
+          {
+            "id": "event",
+            "label_zh": "事件",
+            "label_en": "Event",
+            "score": 24.5,
+            "band": "low",
+            "band_zh": "偏低",
+            "band_en": "Low",
+            "contribution_pct": 8.2,
+            "summary_zh": "事件风险：偏低。没有特别刺眼的事件",
+            "summary_en": "Event low: no extreme event heat"
+          }
+        ],
+        "next_trigger_zh": "方向更清楚——连涨确认，或明显跌破——AI 才会从观望转向行动（留意：风险、情绪）",
+        "next_trigger_en": "AI leaves wait-mode after a clear direction print (watch: Risk / Sentiment)",
+        "bull_case_zh": "若出现清晰上行确认，同时风险降到 55 以下，AI 可能转向更积极。",
+        "bull_case_en": "A clear upside confirmation with risk below 55 could make AI more constructive.",
+        "bear_case_zh": "若波动与事件压力继续抬升，AI 会偏向不追/减仓，而不是买入。",
+        "bear_case_en": "If volatility and event pressure keep climbing, AI leans no-chase/reduce — not buy."
+      },
+      "action_changed": false,
+      "change_reason_zh": "AMD方向还没定：还没买的先别动手；手里有的先看着。",
+      "change_reason_en": "Flat: Don't buy yet — wait · Holding: Hold and watch · risk 77"
+    }
+  ],
+  "timeline_status": "ready",
+  "history": {
+    "days": 7,
+    "points": [
+      {
+        "date": "2026-08-02",
+        "risk": 81.8,
+        "wealth": 39.3,
+        "stable": 14.6,
+        "action": "no_chase"
+      },
+      {
+        "date": "2026-08-03",
+        "risk": 77.7,
+        "wealth": 41.8,
+        "stable": 16.5,
+        "action": "no_chase"
+      },
+      {
+        "date": "2026-08-04",
+        "risk": 78.4,
+        "wealth": 61.2,
+        "stable": 16.9,
+        "action": "reduce"
+      },
+      {
+        "date": "2026-08-05",
+        "risk": 84.4,
+        "wealth": 43.8,
+        "stable": 13.5,
+        "action": "reduce"
+      },
+      {
+        "date": "2026-08-06",
+        "risk": 77.9,
+        "wealth": 43.9,
+        "stable": 15.0,
+        "action": "observe"
+      },
+      {
+        "date": "2026-08-07",
+        "risk": 77.0,
+        "wealth": 42.2,
+        "stable": 15.5,
+        "action": "observe"
+      },
+      {
+        "date": "2026-08-08",
+        "risk": 77.0,
+        "wealth": 42.2,
+        "stable": 15.5,
+        "action": "observe"
+      }
+    ]
+  },
+  "questions": {
+    "what_happened_zh": "今天 -1.2%；风险 77（高），主要来自波动率（高）。",
+    "what_happened_en": "Day move -1.2%; risk 77 (High), led by volatility.",
+    "why_matters_zh": "波动率：高。最近波动很大，价格不好估",
+    "why_matters_en": "Volatility high: realized vol is hard to price",
+    "why_ai_zh": "把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。",
+    "why_ai_en": "If flat: Don't buy yet — wait. If holding: Hold and watch. Lower decision friction, not a price call.",
+    "do_today_zh": "还没买：先别买，再等等。已经持有：先拿着看。先守住失效条件，再谈加仓。",
+    "do_today_en": "If flat: Don't buy yet — wait. If holding: Hold and watch. Respect invalidation before sizing up.",
+    "why_risk": "风险 77（高），主要来自波动率（高），大约占 49.9%。",
+    "why_wealth": "财气 42，只说明最近偏强，不代表可以无视风险。",
+    "biggest_risk": "波动率：高。最近波动很大，价格不好估",
+    "biggest_opportunity": "结构没坏时，先管好仓位和失效条件",
+    "why_action": "把风险、趋势、情绪、事件放在一起看：还没买就「先别买，再等等」，已经持有就「先拿着看」。先把决定做简单，不猜明天涨跌。"
+  },
+  "product": {
+    "role": "ai_investment_copilot",
+    "promise_zh": "先给 Decision，再 Explain，最后才是数据。",
+    "promise_en": "Decision first, then Explain, then data."
+  }
+}

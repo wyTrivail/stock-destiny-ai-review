@@ -1,1 +1,1033 @@
-{"date":"2026-08-08","as_of":"2026-08-08","stale":false,"label":"今日信号","count":5,"items":[{"id":"2026-08-08-consumer","title":"TTD急杀后：空头结构是否坐实","theme_label":"消费与零售","stance_label":"信号待确认，留意短线波动","stance":"observe","cover_url":"/api/hot/2026-08-08-consumer/cover.png","chart_url":"/api/hot/2026-08-08-consumer/chart.png","summary":"先看结论：Trade Desk 今日明显走弱，优先确认下行结构是否成立，而不是急着抄底。 现价大约 13.80（-21.90%），先别被单日涨跌带跑。","movers":[{"symbol":"TTD","name":"Trade Desk (The)","name_zh":"Trade Desk (The)","change_pct":-21.9,"volume_ratio":100.0,"volatility_20d":100.0,"momentum_5d":8.0,"price":13.8},{"symbol":"ABNB","name":"Airbnb","name_zh":"Airbnb","change_pct":17.43,"volume_ratio":100.0,"volatility_20d":77.0,"momentum_5d":90.0,"price":178.07},{"symbol":"MRNA","name":"Moderna","name_zh":"Moderna","change_pct":9.86,"volume_ratio":70.2,"volatility_20d":73.9,"momentum_5d":70.9,"price":59.17},{"symbol":"AXON","name":"Axon Enterprise","name_zh":"Axon Enterprise","change_pct":9.29,"volume_ratio":88.0,"volatility_20d":95.8,"momentum_5d":71.4,"price":571.01}],"top_likes":221,"lead_symbol":"TTD","event_key":"TTD:consumer","signal":{"what_happened_zh":"先看结论：Trade Desk 今日明显走弱，优先确认下行结构是否成立，而不是急着抄底。 现价大约 13.80（-21.90%），先别被单日涨跌带跑。","what_happened_en":"TTD moved -21.9% — clear weakness in 消费与零售.","why_now_zh":"跌幅与波动同步抬升，会改变仓位与观察优先级，而不是一条普通新闻标题。","why_now_en":"Size of the move plus vol changes position priority — not a headline alone.","affected_symbols":["TTD","ABNB","MRNA","AXON"],"watch_next_zh":"确认K线、回踩质量与成交变化，判断震荡是否转为方向","watch_next_en":"Confirmation candles, pullback quality, and volume — range vs direction"},"event_timeline":[{"date":"2026-08-08","what_changed_zh":"TTD急杀后：空头结构是否坐实","what_changed_en":"TTD急杀后：空头结构是否坐实","stance":"observe","change_pct":-21.9}]},{"id":"2026-08-08-semiconductor","title":"芯片半导体领涨：MCHP还能走多远","theme_label":"芯片半导体","stance_label":"信号待确认，留意短线波动","stance":"observe","cover_url":"/api/hot/2026-08-08-semiconductor/cover.png","chart_url":"/api/hot/2026-08-08-semiconductor/chart.png","summary":"先看结论：MCHP 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 84.69（+13.89%），先别被单日涨跌带跑。","movers":[{"symbol":"MCHP","name":"Microchip Technology","name_zh":"Microchip Technology","change_pct":13.89,"volume_ratio":81.4,"volatility_20d":88.5,"momentum_5d":83.0,"price":84.69},{"symbol":"COHR","name":"Coherent Corp.","name_zh":"Coherent Corp.","change_pct":13.44,"volume_ratio":89.8,"volatility_20d":100.0,"momentum_5d":100.0,"price":379.13},{"symbol":"AKAM","name":"Akamai Technologies","name_zh":"Akamai Technologies","change_pct":-6.76,"volume_ratio":100.0,"volatility_20d":58.7,"momentum_5d":46.9,"price":110.54},{"symbol":"HPQ","name":"HP Inc.","name_zh":"HP Inc.","change_pct":6.64,"volume_ratio":65.4,"volatility_20d":61.1,"momentum_5d":75.4,"price":30.05}],"top_likes":17,"lead_symbol":"MCHP","event_key":"MCHP:semiconductor","signal":{"what_happened_zh":"先看结论：MCHP 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 84.69（+13.89%），先别被单日涨跌带跑。","what_happened_en":"MCHP moved +13.9% — strong tape in 芯片半导体.","why_now_zh":"短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。","why_now_en":"Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.","affected_symbols":["MCHP","COHR","AKAM","HPQ"],"watch_next_zh":"确认K线、回踩质量与成交变化，判断震荡是否转为方向","watch_next_en":"Confirmation candles, pullback quality, and volume — range vs direction"},"event_timeline":[{"date":"2026-08-08","what_changed_zh":"芯片半导体领涨：MCHP还能走多远","what_changed_en":"芯片半导体领涨：MCHP还能走多远","stance":"observe","change_pct":13.89}]},{"id":"2026-08-08-energy","title":"Newmont拉升7.2%：跟涨还是等回踩","theme_label":"能源","stance_label":"多空拉锯，等待方向选择","stance":"hold_rhythm","cover_url":"/api/hot/2026-08-08-energy/cover.png","chart_url":"/api/hot/2026-08-08-energy/chart.png","summary":"先看结论：Newmont 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 112.98（+7.16%），先别被单日涨跌带跑。","movers":[{"symbol":"NEM","name":"Newmont","name_zh":"Newmont","change_pct":7.16,"volume_ratio":68.1,"volatility_20d":56.1,"momentum_5d":96.1,"price":112.98},{"symbol":"ALB","name":"Albemarle Corporation","name_zh":"Albemarle Corporation","change_pct":4.54,"volume_ratio":59.1,"volatility_20d":45.3,"momentum_5d":77.9,"price":131.11},{"symbol":"TRGP","name":"Targa Resources","name_zh":"Targa Resources","change_pct":-4.24,"volume_ratio":54.2,"volatility_20d":36.8,"momentum_5d":45.0,"price":256.87},{"symbol":"TPL","name":"Texas Pacific Land Corporation","name_zh":"Texas Pacific Land Corporation","change_pct":-4.21,"volume_ratio":70.9,"volatility_20d":51.7,"momentum_5d":24.2,"price":340.65}],"top_likes":14,"lead_symbol":"NEM","event_key":"NEM:energy","signal":{"what_happened_zh":"先看结论：Newmont 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 112.98（+7.16%），先别被单日涨跌带跑。","what_happened_en":"NEM moved +7.2% — strong tape in 能源.","why_now_zh":"短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。","why_now_en":"Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.","affected_symbols":["NEM","ALB","TRGP","TPL"],"watch_next_zh":"区间边界是否被有效突破，突破后能否完成回踩确认","watch_next_en":"Whether range edges break and the breakout holds on retest"},"event_timeline":[{"date":"2026-08-08","what_changed_zh":"Newmont拉升7.2%：跟涨还是等回踩","what_changed_en":"Newmont拉升7.2%：跟涨还是等回踩","stance":"hold_rhythm","change_pct":7.16}]},{"id":"2026-08-08-finance","title":"金融股偏强：FactSet走到哪一档","theme_label":"金融股","stance_label":"多空拉锯，等待方向选择","stance":"hold_rhythm","cover_url":"/api/hot/2026-08-08-finance/cover.png","chart_url":"/api/hot/2026-08-08-finance/chart.png","summary":"先看结论：FactSet 仍处结构博弈阶段，短线涨跌不足以单独定方向。 关键区域大致在 $127.4 / $26.90 / $29.31 附近。 现价大约 285.57（+4.00%），先别被单日涨跌带跑。","movers":[{"symbol":"FDS","name":"FactSet","name_zh":"FactSet","change_pct":4.0,"volume_ratio":53.5,"volatility_20d":64.1,"momentum_5d":72.0,"price":285.57},{"symbol":"FISV","name":"Fiserv","name_zh":"Fiserv","change_pct":-3.14,"volume_ratio":61.3,"volatility_20d":41.4,"momentum_5d":49.3,"price":52.41},{"symbol":"ALL","name":"Allstate","name_zh":"Allstate","change_pct":-2.95,"volume_ratio":76.0,"volatility_20d":41.8,"momentum_5d":57.2,"price":267.0},{"symbol":"HOOD","name":"Robinhood Markets","name_zh":"Robinhood Markets","change_pct":2.84,"volume_ratio":50.2,"volatility_20d":70.0,"momentum_5d":70.5,"price":93.29}],"top_likes":37,"lead_symbol":"FDS","event_key":"FDS:finance","signal":{"what_happened_zh":"先看结论：FactSet 仍处结构博弈阶段，短线涨跌不足以单独定方向。 关键区域大致在 $127.4 / $26.90 / $29.31 附近。 现价大约 285.57（+4.00%），先别被单日涨跌带跑。","what_happened_en":"FDS moved +4.0% — strong tape in 金融股.","why_now_zh":"短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。","why_now_en":"Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.","affected_symbols":["FDS","FISV","ALL","HOOD"],"watch_next_zh":"区间边界是否被有效突破，突破后能否完成回踩确认","watch_next_en":"Whether range edges break and the breakout holds on retest"},"event_timeline":[{"date":"2026-08-08","what_changed_zh":"金融股偏强：FactSet走到哪一档","what_changed_en":"金融股偏强：FactSet走到哪一档","stance":"hold_rhythm","change_pct":4.0}]},{"id":"2026-08-08-ev_space","title":"SpaceX大涨16%：突破还是诱多","theme_label":"新能源与航天","stance_label":"信号待确认，留意短线波动","stance":"observe","cover_url":"/api/hot/2026-08-08-ev_space/cover.png","chart_url":"/api/hot/2026-08-08-ev_space/chart.png","summary":"先看结论：SpaceX 今日强势上冲，焦点应放在能否守住突破后的回踩带。 关键区域大致在 $250 附近。 现价大约 133.11（+15.83%），先别被单日涨跌带跑。","movers":[{"symbol":"SPCX","name":"SpaceX","name_zh":"SpaceX","change_pct":15.83,"volume_ratio":100.0,"volatility_20d":100.0,"momentum_5d":100.0,"price":133.11},{"symbol":"TSLA","name":"Tesla","name_zh":"特斯拉","change_pct":2.83,"volume_ratio":59.5,"volatility_20d":69.1,"momentum_5d":66.2,"price":328.58}],"top_likes":82,"lead_symbol":"SPCX","event_key":"SPCX:ev_space","signal":{"what_happened_zh":"先看结论：SpaceX 今日强势上冲，焦点应放在能否守住突破后的回踩带。 关键区域大致在 $250 附近。 现价大约 133.11（+15.83%），先别被单日涨跌带跑。","what_happened_en":"SPCX moved +15.8% — strong tape in 新能源与航天.","why_now_zh":"短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。","why_now_en":"Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.","affected_symbols":["SPCX","TSLA"],"watch_next_zh":"确认K线、回踩质量与成交变化，判断震荡是否转为方向","watch_next_en":"Confirmation candles, pullback quality, and volume — range vs direction"},"event_timeline":[{"date":"2026-08-08","what_changed_zh":"SpaceX大涨16%：突破还是诱多","what_changed_en":"SpaceX大涨16%：突破还是诱多","stance":"observe","change_pct":15.83}]}]}
+{
+  "date": "2026-08-08",
+  "as_of": "2026-08-08",
+  "stale": false,
+  "label": "信号流",
+  "count": 15,
+  "items": [
+    {
+      "id": "2026-08-08-consumer",
+      "title": "TTD急杀后：空头结构是否坐实",
+      "theme_label": "消费与零售",
+      "stance_label": "信号待确认，留意短线波动",
+      "stance": "observe",
+      "cover_url": "/api/hot/2026-08-08-consumer/cover.png",
+      "chart_url": "/api/hot/2026-08-08-consumer/chart.png",
+      "summary": "先看结论：Trade Desk 今日明显走弱，优先确认下行结构是否成立，而不是急着抄底。 现价大约 13.80（-21.90%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "TTD",
+          "name": "Trade Desk (The)",
+          "name_zh": "Trade Desk (The)",
+          "change_pct": -21.9,
+          "volume_ratio": 100.0,
+          "volatility_20d": 100.0,
+          "momentum_5d": 8.0,
+          "price": 13.8
+        },
+        {
+          "symbol": "ABNB",
+          "name": "Airbnb",
+          "name_zh": "Airbnb",
+          "change_pct": 17.43,
+          "volume_ratio": 100.0,
+          "volatility_20d": 77.0,
+          "momentum_5d": 90.0,
+          "price": 178.07
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna",
+          "name_zh": "Moderna",
+          "change_pct": 9.86,
+          "volume_ratio": 70.2,
+          "volatility_20d": 73.9,
+          "momentum_5d": 70.9,
+          "price": 59.17
+        },
+        {
+          "symbol": "AXON",
+          "name": "Axon Enterprise",
+          "name_zh": "Axon Enterprise",
+          "change_pct": 9.29,
+          "volume_ratio": 88.0,
+          "volatility_20d": 95.8,
+          "momentum_5d": 71.4,
+          "price": 571.01
+        }
+      ],
+      "top_likes": 221,
+      "lead_symbol": "TTD",
+      "event_key": "TTD:consumer",
+      "signal": {
+        "what_happened_zh": "先看结论：Trade Desk 今日明显走弱，优先确认下行结构是否成立，而不是急着抄底。 现价大约 13.80（-21.90%），先别被单日涨跌带跑。",
+        "what_happened_en": "TTD moved -21.9% — clear weakness in 消费与零售.",
+        "why_now_zh": "跌幅与波动同步抬升，会改变仓位与观察优先级，而不是一条普通新闻标题。",
+        "why_now_en": "Size of the move plus vol changes position priority — not a headline alone.",
+        "affected_symbols": [
+          "TTD",
+          "ABNB",
+          "MRNA",
+          "AXON"
+        ],
+        "watch_next_zh": "确认K线、回踩质量与成交变化，判断震荡是否转为方向",
+        "watch_next_en": "Confirmation candles, pullback quality, and volume — range vs direction"
+      },
+      "event_timeline": [
+        {
+          "date": "2026-08-08",
+          "what_changed_zh": "TTD急杀后：空头结构是否坐实",
+          "what_changed_en": "TTD急杀后：空头结构是否坐实",
+          "stance": "observe",
+          "change_pct": -21.9
+        }
+      ],
+      "date": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-semiconductor",
+      "title": "芯片半导体领涨：MCHP还能走多远",
+      "theme_label": "芯片半导体",
+      "stance_label": "信号待确认，留意短线波动",
+      "stance": "observe",
+      "cover_url": "/api/hot/2026-08-08-semiconductor/cover.png",
+      "chart_url": "/api/hot/2026-08-08-semiconductor/chart.png",
+      "summary": "先看结论：MCHP 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 84.69（+13.89%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "MCHP",
+          "name": "Microchip Technology",
+          "name_zh": "Microchip Technology",
+          "change_pct": 13.89,
+          "volume_ratio": 81.4,
+          "volatility_20d": 88.5,
+          "momentum_5d": 83.0,
+          "price": 84.69
+        },
+        {
+          "symbol": "COHR",
+          "name": "Coherent Corp.",
+          "name_zh": "Coherent Corp.",
+          "change_pct": 13.44,
+          "volume_ratio": 89.8,
+          "volatility_20d": 100.0,
+          "momentum_5d": 100.0,
+          "price": 379.13
+        },
+        {
+          "symbol": "AKAM",
+          "name": "Akamai Technologies",
+          "name_zh": "Akamai Technologies",
+          "change_pct": -6.76,
+          "volume_ratio": 100.0,
+          "volatility_20d": 58.7,
+          "momentum_5d": 46.9,
+          "price": 110.54
+        },
+        {
+          "symbol": "HPQ",
+          "name": "HP Inc.",
+          "name_zh": "HP Inc.",
+          "change_pct": 6.64,
+          "volume_ratio": 65.4,
+          "volatility_20d": 61.1,
+          "momentum_5d": 75.4,
+          "price": 30.05
+        }
+      ],
+      "top_likes": 17,
+      "lead_symbol": "MCHP",
+      "event_key": "MCHP:semiconductor",
+      "signal": {
+        "what_happened_zh": "先看结论：MCHP 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 84.69（+13.89%），先别被单日涨跌带跑。",
+        "what_happened_en": "MCHP moved +13.9% — strong tape in 芯片半导体.",
+        "why_now_zh": "短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。",
+        "why_now_en": "Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.",
+        "affected_symbols": [
+          "MCHP",
+          "COHR",
+          "AKAM",
+          "HPQ"
+        ],
+        "watch_next_zh": "确认K线、回踩质量与成交变化，判断震荡是否转为方向",
+        "watch_next_en": "Confirmation candles, pullback quality, and volume — range vs direction"
+      },
+      "event_timeline": [
+        {
+          "date": "2026-08-08",
+          "what_changed_zh": "芯片半导体领涨：MCHP还能走多远",
+          "what_changed_en": "芯片半导体领涨：MCHP还能走多远",
+          "stance": "observe",
+          "change_pct": 13.89
+        }
+      ],
+      "date": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-energy",
+      "title": "Newmont拉升7.2%：跟涨还是等回踩",
+      "theme_label": "能源",
+      "stance_label": "多空拉锯，等待方向选择",
+      "stance": "hold_rhythm",
+      "cover_url": "/api/hot/2026-08-08-energy/cover.png",
+      "chart_url": "/api/hot/2026-08-08-energy/chart.png",
+      "summary": "先看结论：Newmont 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 112.98（+7.16%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "NEM",
+          "name": "Newmont",
+          "name_zh": "Newmont",
+          "change_pct": 7.16,
+          "volume_ratio": 68.1,
+          "volatility_20d": 56.1,
+          "momentum_5d": 96.1,
+          "price": 112.98
+        },
+        {
+          "symbol": "ALB",
+          "name": "Albemarle Corporation",
+          "name_zh": "Albemarle Corporation",
+          "change_pct": 4.54,
+          "volume_ratio": 59.1,
+          "volatility_20d": 45.3,
+          "momentum_5d": 77.9,
+          "price": 131.11
+        },
+        {
+          "symbol": "TRGP",
+          "name": "Targa Resources",
+          "name_zh": "Targa Resources",
+          "change_pct": -4.24,
+          "volume_ratio": 54.2,
+          "volatility_20d": 36.8,
+          "momentum_5d": 45.0,
+          "price": 256.87
+        },
+        {
+          "symbol": "TPL",
+          "name": "Texas Pacific Land Corporation",
+          "name_zh": "Texas Pacific Land Corporation",
+          "change_pct": -4.21,
+          "volume_ratio": 70.9,
+          "volatility_20d": 51.7,
+          "momentum_5d": 24.2,
+          "price": 340.65
+        }
+      ],
+      "top_likes": 14,
+      "lead_symbol": "NEM",
+      "event_key": "NEM:energy",
+      "signal": {
+        "what_happened_zh": "先看结论：Newmont 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 112.98（+7.16%），先别被单日涨跌带跑。",
+        "what_happened_en": "NEM moved +7.2% — strong tape in 能源.",
+        "why_now_zh": "短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。",
+        "why_now_en": "Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.",
+        "affected_symbols": [
+          "NEM",
+          "ALB",
+          "TRGP",
+          "TPL"
+        ],
+        "watch_next_zh": "区间边界是否被有效突破，突破后能否完成回踩确认",
+        "watch_next_en": "Whether range edges break and the breakout holds on retest"
+      },
+      "event_timeline": [
+        {
+          "date": "2026-08-08",
+          "what_changed_zh": "Newmont拉升7.2%：跟涨还是等回踩",
+          "what_changed_en": "Newmont拉升7.2%：跟涨还是等回踩",
+          "stance": "hold_rhythm",
+          "change_pct": 7.16
+        }
+      ],
+      "date": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-finance",
+      "title": "金融股偏强：FactSet走到哪一档",
+      "theme_label": "金融股",
+      "stance_label": "多空拉锯，等待方向选择",
+      "stance": "hold_rhythm",
+      "cover_url": "/api/hot/2026-08-08-finance/cover.png",
+      "chart_url": "/api/hot/2026-08-08-finance/chart.png",
+      "summary": "先看结论：FactSet 仍处结构博弈阶段，短线涨跌不足以单独定方向。 关键区域大致在 $127.4 / $26.90 / $29.31 附近。 现价大约 285.57（+4.00%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "FDS",
+          "name": "FactSet",
+          "name_zh": "FactSet",
+          "change_pct": 4.0,
+          "volume_ratio": 53.5,
+          "volatility_20d": 64.1,
+          "momentum_5d": 72.0,
+          "price": 285.57
+        },
+        {
+          "symbol": "FISV",
+          "name": "Fiserv",
+          "name_zh": "Fiserv",
+          "change_pct": -3.14,
+          "volume_ratio": 61.3,
+          "volatility_20d": 41.4,
+          "momentum_5d": 49.3,
+          "price": 52.41
+        },
+        {
+          "symbol": "ALL",
+          "name": "Allstate",
+          "name_zh": "Allstate",
+          "change_pct": -2.95,
+          "volume_ratio": 76.0,
+          "volatility_20d": 41.8,
+          "momentum_5d": 57.2,
+          "price": 267.0
+        },
+        {
+          "symbol": "HOOD",
+          "name": "Robinhood Markets",
+          "name_zh": "Robinhood Markets",
+          "change_pct": 2.84,
+          "volume_ratio": 50.2,
+          "volatility_20d": 70.0,
+          "momentum_5d": 70.5,
+          "price": 93.29
+        }
+      ],
+      "top_likes": 37,
+      "lead_symbol": "FDS",
+      "event_key": "FDS:finance",
+      "signal": {
+        "what_happened_zh": "先看结论：FactSet 仍处结构博弈阶段，短线涨跌不足以单独定方向。 关键区域大致在 $127.4 / $26.90 / $29.31 附近。 现价大约 285.57（+4.00%），先别被单日涨跌带跑。",
+        "what_happened_en": "FDS moved +4.0% — strong tape in 金融股.",
+        "why_now_zh": "短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。",
+        "why_now_en": "Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.",
+        "affected_symbols": [
+          "FDS",
+          "FISV",
+          "ALL",
+          "HOOD"
+        ],
+        "watch_next_zh": "区间边界是否被有效突破，突破后能否完成回踩确认",
+        "watch_next_en": "Whether range edges break and the breakout holds on retest"
+      },
+      "event_timeline": [
+        {
+          "date": "2026-08-08",
+          "what_changed_zh": "金融股偏强：FactSet走到哪一档",
+          "what_changed_en": "金融股偏强：FactSet走到哪一档",
+          "stance": "hold_rhythm",
+          "change_pct": 4.0
+        }
+      ],
+      "date": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-ev_space",
+      "title": "SpaceX大涨16%：突破还是诱多",
+      "theme_label": "新能源与航天",
+      "stance_label": "信号待确认，留意短线波动",
+      "stance": "observe",
+      "cover_url": "/api/hot/2026-08-08-ev_space/cover.png",
+      "chart_url": "/api/hot/2026-08-08-ev_space/chart.png",
+      "summary": "先看结论：SpaceX 今日强势上冲，焦点应放在能否守住突破后的回踩带。 关键区域大致在 $250 附近。 现价大约 133.11（+15.83%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "SPCX",
+          "name": "SpaceX",
+          "name_zh": "SpaceX",
+          "change_pct": 15.83,
+          "volume_ratio": 100.0,
+          "volatility_20d": 100.0,
+          "momentum_5d": 100.0,
+          "price": 133.11
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "name_zh": "特斯拉",
+          "change_pct": 2.83,
+          "volume_ratio": 59.5,
+          "volatility_20d": 69.1,
+          "momentum_5d": 66.2,
+          "price": 328.58
+        }
+      ],
+      "top_likes": 82,
+      "lead_symbol": "SPCX",
+      "event_key": "SPCX:ev_space",
+      "signal": {
+        "what_happened_zh": "先看结论：SpaceX 今日强势上冲，焦点应放在能否守住突破后的回踩带。 关键区域大致在 $250 附近。 现价大约 133.11（+15.83%），先别被单日涨跌带跑。",
+        "what_happened_en": "SPCX moved +15.8% — strong tape in 新能源与航天.",
+        "why_now_zh": "短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。",
+        "why_now_en": "Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.",
+        "affected_symbols": [
+          "SPCX",
+          "TSLA"
+        ],
+        "watch_next_zh": "确认K线、回踩质量与成交变化，判断震荡是否转为方向",
+        "watch_next_en": "Confirmation candles, pullback quality, and volume — range vs direction"
+      },
+      "event_timeline": [
+        {
+          "date": "2026-08-08",
+          "what_changed_zh": "SpaceX大涨16%：突破还是诱多",
+          "what_changed_en": "SpaceX大涨16%：突破还是诱多",
+          "stance": "observe",
+          "change_pct": 15.83
+        }
+      ],
+      "date": "2026-08-08"
+    },
+    {
+      "id": "2026-07-29-consumer",
+      "title": "IQVIA支撑正在承压：临界点到了",
+      "theme_label": "消费与零售",
+      "stance_label": "多空拉锯，等待方向选择",
+      "stance": "hold_rhythm",
+      "cover_url": "/api/hot/2026-07-29-consumer/cover.png",
+      "chart_url": "/api/hot/2026-07-29-consumer/chart.png",
+      "summary": "先看结论：IQVIA 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $410 / $290 附近。 现价大约 242.94（+13.94%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "IQV",
+          "name": "IQVIA",
+          "name_zh": "IQVIA",
+          "change_pct": 13.94,
+          "volume_ratio": 100.0,
+          "volatility_20d": 64.9,
+          "momentum_5d": 93.3,
+          "price": 242.94
+        },
+        {
+          "symbol": "INCY",
+          "name": "Incyte",
+          "name_zh": "Incyte",
+          "change_pct": 9.3,
+          "volume_ratio": 100.0,
+          "volatility_20d": 43.8,
+          "momentum_5d": 79.7,
+          "price": 129.93
+        },
+        {
+          "symbol": "CARR",
+          "name": "Carrier Global",
+          "name_zh": "Carrier Global",
+          "change_pct": -8.9,
+          "volume_ratio": 100.0,
+          "volatility_20d": 45.3,
+          "momentum_5d": 44.3,
+          "price": 63.16
+        },
+        {
+          "symbol": "HCA",
+          "name": "HCA Healthcare",
+          "name_zh": "HCA Healthcare",
+          "change_pct": 7.33,
+          "volume_ratio": 76.7,
+          "volatility_20d": 58.1,
+          "momentum_5d": 80.8,
+          "price": 418.19
+        }
+      ],
+      "top_likes": 30,
+      "lead_symbol": "IQV",
+      "event_key": "IQV:consumer",
+      "signal": {
+        "what_happened_zh": "先看结论：IQVIA 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $410 / $290 附近。 现价大约 242.94（+13.94%），先别被单日涨跌带跑。",
+        "what_happened_en": "IQV moved +13.9% — strong tape in 消费与零售.",
+        "why_now_zh": "涨得急时更容易做错：还没买的别追，手里有的别情绪加仓。",
+        "why_now_en": "Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.",
+        "affected_symbols": [
+          "IQV",
+          "INCY",
+          "CARR",
+          "HCA"
+        ],
+        "watch_next_zh": "区间上下沿有没有真突破，突破后能不能站稳",
+        "watch_next_en": "Whether range edges break and the breakout holds"
+      },
+      "event_timeline": [],
+      "date": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-ai_cloud",
+      "title": "Corning Inc.支撑正在承压：临界点到了",
+      "theme_label": "AI与云巨头",
+      "stance_label": "结构偏弱，关注下行风险",
+      "stance": "avoid",
+      "cover_url": "/api/hot/2026-07-29-ai_cloud/cover.png",
+      "chart_url": "/api/hot/2026-07-29-ai_cloud/chart.png",
+      "summary": "先看结论：Corning Inc. 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $125 / $78.86 附近。 现价大约 126.01（-12.10%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "GLW",
+          "name": "Corning Inc.",
+          "name_zh": "Corning Inc.",
+          "change_pct": -12.1,
+          "volume_ratio": 100.0,
+          "volatility_20d": 96.2,
+          "momentum_5d": 10.2,
+          "price": 126.01
+        },
+        {
+          "symbol": "COHR",
+          "name": "Coherent Corp.",
+          "name_zh": "Coherent Corp.",
+          "change_pct": -10.31,
+          "volume_ratio": 81.8,
+          "volatility_20d": 96.3,
+          "momentum_5d": 8.4,
+          "price": 243.33
+        },
+        {
+          "symbol": "STX",
+          "name": "Seagate Technology",
+          "name_zh": "Seagate Technology",
+          "change_pct": -8.53,
+          "volume_ratio": 81.4,
+          "volatility_20d": 100.0,
+          "momentum_5d": 22.6,
+          "price": 747.3
+        },
+        {
+          "symbol": "LITE",
+          "name": "Lumentum",
+          "name_zh": "Lumentum",
+          "change_pct": -8.43,
+          "volume_ratio": 71.7,
+          "volatility_20d": 100.0,
+          "momentum_5d": 10.7,
+          "price": 651.93
+        }
+      ],
+      "top_likes": 19,
+      "lead_symbol": "GLW",
+      "event_key": "GLW:ai_cloud",
+      "signal": {
+        "what_happened_zh": "先看结论：Corning Inc. 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $125 / $78.86 附近。 现价大约 126.01（-12.10%），先别被单日涨跌带跑。",
+        "what_happened_en": "GLW moved -12.1% — clear weakness in AI与云巨头.",
+        "why_now_zh": "跌得又快又晃，仓位和观察顺序都要跟着调，不只是一条标题。",
+        "why_now_en": "Size of the move plus vol changes position priority — not a headline alone.",
+        "affected_symbols": [
+          "GLW",
+          "COHR",
+          "STX",
+          "LITE"
+        ],
+        "watch_next_zh": "关键支撑会不会继续破，反弹能不能回到前高附近",
+        "watch_next_en": "Whether support keeps failing and rebounds reclaim structure"
+      },
+      "event_timeline": [],
+      "date": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-semiconductor",
+      "title": "闪迪逼近决策区：结构还能撑多久？",
+      "theme_label": "芯片半导体",
+      "stance_label": "结构偏弱，关注下行风险",
+      "stance": "avoid",
+      "cover_url": "/api/hot/2026-07-29-semiconductor/cover.png",
+      "chart_url": "/api/hot/2026-07-29-semiconductor/chart.png",
+      "summary": "先看结论：闪迪 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $26.5 附近。 现价大约 1096.10（-14.25%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "SNDK",
+          "name": "SanDisk",
+          "name_zh": "闪迪",
+          "change_pct": -14.25,
+          "volume_ratio": 86.2,
+          "volatility_20d": 100.0,
+          "momentum_5d": 5.0,
+          "price": 1096.1
+        },
+        {
+          "symbol": "GLW",
+          "name": "Corning Inc.",
+          "name_zh": "Corning Inc.",
+          "change_pct": -12.1,
+          "volume_ratio": 100.0,
+          "volatility_20d": 96.2,
+          "momentum_5d": 10.2,
+          "price": 126.01
+        },
+        {
+          "symbol": "COHR",
+          "name": "Coherent Corp.",
+          "name_zh": "Coherent Corp.",
+          "change_pct": -10.31,
+          "volume_ratio": 81.8,
+          "volatility_20d": 96.3,
+          "momentum_5d": 8.4,
+          "price": 243.33
+        },
+        {
+          "symbol": "SKHY",
+          "name": "SK hynix",
+          "name_zh": "海力士",
+          "change_pct": -8.98,
+          "volume_ratio": 53.6,
+          "volatility_20d": 100.0,
+          "momentum_5d": 6.4,
+          "price": 130.17
+        }
+      ],
+      "top_likes": 302,
+      "lead_symbol": "SNDK",
+      "event_key": "SNDK:semiconductor",
+      "signal": {
+        "what_happened_zh": "先看结论：闪迪 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $26.5 附近。 现价大约 1096.10（-14.25%），先别被单日涨跌带跑。",
+        "what_happened_en": "SNDK moved -14.2% — clear weakness in 芯片半导体.",
+        "why_now_zh": "跌得又快又晃，仓位和观察顺序都要跟着调，不只是一条标题。",
+        "why_now_en": "Size of the move plus vol changes position priority — not a headline alone.",
+        "affected_symbols": [
+          "SNDK",
+          "GLW",
+          "COHR",
+          "SKHY"
+        ],
+        "watch_next_zh": "关键支撑会不会继续破，反弹能不能回到前高附近",
+        "watch_next_en": "Whether support keeps failing and rebounds reclaim structure"
+      },
+      "event_timeline": [],
+      "date": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-energy",
+      "title": "Sherwin-Williams一个信号变了：方向要变了吗？",
+      "theme_label": "能源",
+      "stance_label": "多空拉锯，等待方向选择",
+      "stance": "hold_rhythm",
+      "cover_url": "/api/hot/2026-07-29-energy/cover.png",
+      "chart_url": "/api/hot/2026-07-29-energy/chart.png",
+      "summary": "先看结论：Sherwin-Williams 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 现价大约 354.27（+8.25%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "SHW",
+          "name": "Sherwin-Williams",
+          "name_zh": "Sherwin-Williams",
+          "change_pct": 8.25,
+          "volume_ratio": 74.8,
+          "volatility_20d": 49.7,
+          "momentum_5d": 74.0,
+          "price": 354.27
+        },
+        {
+          "symbol": "NUE",
+          "name": "Nucor",
+          "name_zh": "Nucor",
+          "change_pct": 7.17,
+          "volume_ratio": 80.0,
+          "volatility_20d": 39.2,
+          "momentum_5d": 82.8,
+          "price": 265.62
+        },
+        {
+          "symbol": "NRG",
+          "name": "NRG Energy",
+          "name_zh": "NRG Energy",
+          "change_pct": -6.55,
+          "volume_ratio": 58.6,
+          "volatility_20d": 53.4,
+          "momentum_5d": 50.4,
+          "price": 127.56
+        },
+        {
+          "symbol": "VST",
+          "name": "Vistra Corp.",
+          "name_zh": "Vistra Corp.",
+          "change_pct": -5.37,
+          "volume_ratio": 70.8,
+          "volatility_20d": 48.9,
+          "momentum_5d": 38.1,
+          "price": 148.64
+        }
+      ],
+      "top_likes": 28,
+      "lead_symbol": "SHW",
+      "event_key": "SHW:energy",
+      "signal": {
+        "what_happened_zh": "先看结论：Sherwin-Williams 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 现价大约 354.27（+8.25%），先别被单日涨跌带跑。",
+        "what_happened_en": "SHW moved +8.2% — strong tape in 能源.",
+        "why_now_zh": "涨得急时更容易做错：还没买的别追，手里有的别情绪加仓。",
+        "why_now_en": "Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.",
+        "affected_symbols": [
+          "SHW",
+          "NUE",
+          "NRG",
+          "VST"
+        ],
+        "watch_next_zh": "区间上下沿有没有真突破，突破后能不能站稳",
+        "watch_next_en": "Whether range edges break and the breakout holds"
+      },
+      "event_timeline": [],
+      "date": "2026-07-29"
+    },
+    {
+      "id": "2026-07-27-memory_vol",
+      "title": "7.28 存储开门暴杀：风险分早就在前排",
+      "theme_label": "芯片存储",
+      "stance_label": "结构偏弱，关注下行风险",
+      "stance": "avoid",
+      "cover_url": "/api/hot/2026-07-27-memory_vol/cover.png",
+      "chart_url": "/api/hot/2026-07-28-semiconductor/chart.png",
+      "summary": "先看硬结论：7.28 开周，存储相关高波动被一次性打出来——SNDK -21.6%，SKHY -14.9%，MU -10.1%（数据截至 7/28 收盘）。三只客观风险分均为 100，占据日榜前排。",
+      "movers": [
+        {
+          "symbol": "SKHY",
+          "name_zh": "海力士",
+          "change_pct": -14.89,
+          "volume_ratio": 51.4,
+          "volatility_20d": 100.0,
+          "momentum_5d": 42.3,
+          "price": 144.26
+        },
+        {
+          "symbol": "SNDK",
+          "name_zh": "闪迪",
+          "change_pct": -21.56,
+          "volume_ratio": 69.3,
+          "volatility_20d": 100.0,
+          "momentum_5d": 41.5,
+          "price": 1263.17
+        },
+        {
+          "symbol": "MU",
+          "name_zh": "美光",
+          "change_pct": -10.06,
+          "volume_ratio": 52.8,
+          "volatility_20d": 100.0,
+          "momentum_5d": 64.8,
+          "price": 890.62
+        },
+        {
+          "symbol": "NVDA",
+          "name_zh": "英伟达",
+          "change_pct": -5.38,
+          "volume_ratio": 54.1,
+          "volatility_20d": 46.3,
+          "momentum_5d": 49.8,
+          "price": 197.53
+        }
+      ],
+      "top_likes": 0,
+      "lead_symbol": "SKHY",
+      "event_key": "SKHY:semiconductor",
+      "signal": {
+        "what_happened_zh": "先看硬结论：7.28 开周，存储相关高波动被一次性打出来——SNDK -21.6%，SKHY -14.9%，MU -10.1%（数据截至 7/28 收盘）。三只客观风险分均为 100，占据日榜前排。",
+        "what_happened_en": "SKHY moved -14.9% — clear weakness in 芯片存储.",
+        "why_now_zh": "跌得又快又晃，仓位和观察顺序都要跟着调，不只是一条标题。",
+        "why_now_en": "Size of the move plus vol changes position priority — not a headline alone.",
+        "affected_symbols": [
+          "SKHY",
+          "SNDK",
+          "MU",
+          "NVDA"
+        ],
+        "watch_next_zh": "关键支撑会不会继续破，反弹能不能回到前高附近",
+        "watch_next_en": "Whether support keeps failing and rebounds reclaim structure"
+      },
+      "event_timeline": [],
+      "date": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-ai_cloud",
+      "title": "Salesforce一个信号变了：方向要变了吗？",
+      "theme_label": "AI与云巨头",
+      "stance_label": "多空拉锯，等待方向选择",
+      "stance": "hold_rhythm",
+      "cover_url": "/api/hot/2026-07-28-ai_cloud/cover.png",
+      "chart_url": "/api/hot/2026-07-28-ai_cloud/chart.png",
+      "summary": "先看结论：Salesforce 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 现价大约 176.36（+12.38%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "CRM",
+          "name": "Salesforce",
+          "name_zh": "Salesforce",
+          "change_pct": 12.38,
+          "volume_ratio": 47.9,
+          "volatility_20d": 69.5,
+          "momentum_5d": 61.5,
+          "price": 176.36
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir",
+          "name_zh": "Palantir",
+          "change_pct": 6.61,
+          "volume_ratio": 48.1,
+          "volatility_20d": 59.1,
+          "momentum_5d": 53.7,
+          "price": 131.52
+        },
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "name_zh": "英伟达",
+          "change_pct": -5.52,
+          "volume_ratio": 54.0,
+          "volatility_20d": 46.6,
+          "momentum_5d": 49.5,
+          "price": 197.23
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "name_zh": "微软",
+          "change_pct": 3.1,
+          "volume_ratio": 41.3,
+          "volatility_20d": 38.2,
+          "momentum_5d": 54.8,
+          "price": 393.42
+        }
+      ],
+      "top_likes": 251,
+      "lead_symbol": "CRM",
+      "event_key": "CRM:ai_cloud",
+      "signal": {
+        "what_happened_zh": "先看结论：Salesforce 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 现价大约 176.36（+12.38%），先别被单日涨跌带跑。",
+        "what_happened_en": "CRM moved +12.4% — strong tape in AI与云巨头.",
+        "why_now_zh": "涨得急时更容易做错：还没买的别追，手里有的别情绪加仓。",
+        "why_now_en": "Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.",
+        "affected_symbols": [
+          "CRM",
+          "PLTR",
+          "NVDA",
+          "MSFT"
+        ],
+        "watch_next_zh": "区间上下沿有没有真突破，突破后能不能站稳",
+        "watch_next_en": "Whether range edges break and the breakout holds"
+      },
+      "event_timeline": [],
+      "date": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-consumer",
+      "title": "苹果一个信号变了：方向要变了吗？",
+      "theme_label": "消费与零售",
+      "stance_label": "多空拉锯，等待方向选择",
+      "stance": "hold_rhythm",
+      "cover_url": "/api/hot/2026-07-28-consumer/cover.png",
+      "chart_url": "/api/hot/2026-07-28-consumer/chart.png",
+      "summary": "先看结论：苹果 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $70 / $66 附近。 现价大约 335.72（+4.37%），先别被单日涨跌带跑。",
+      "movers": [
+        {
+          "symbol": "AAPL",
+          "name": "Apple",
+          "name_zh": "苹果",
+          "change_pct": 4.37,
+          "volume_ratio": 44.4,
+          "volatility_20d": 35.3,
+          "momentum_5d": 56.2,
+          "price": 335.72
+        },
+        {
+          "symbol": "WMT",
+          "name": "Walmart",
+          "name_zh": "沃尔玛",
+          "change_pct": 3.22,
+          "volume_ratio": 44.6,
+          "volatility_20d": 31.1,
+          "momentum_5d": 50.9,
+          "price": 111.89
+        },
+        {
+          "symbol": "COST",
+          "name": "Costco",
+          "name_zh": "好市多",
+          "change_pct": 3.01,
+          "volume_ratio": 40.2,
+          "volatility_20d": 30.1,
+          "momentum_5d": 57.8,
+          "price": 952.46
+        },
+        {
+          "symbol": "NFLX",
+          "name": "Netflix",
+          "name_zh": "奈飞",
+          "change_pct": 2.86,
+          "volume_ratio": 39.7,
+          "volatility_20d": 49.9,
+          "momentum_5d": 60.5,
+          "price": 70.86
+        }
+      ],
+      "top_likes": 70,
+      "lead_symbol": "AAPL",
+      "event_key": "AAPL:consumer",
+      "signal": {
+        "what_happened_zh": "先看结论：苹果 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $70 / $66 附近。 现价大约 335.72（+4.37%），先别被单日涨跌带跑。",
+        "what_happened_en": "AAPL moved +4.4% — strong tape in 消费与零售.",
+        "why_now_zh": "涨得急时更容易做错：还没买的别追，手里有的别情绪加仓。",
+        "why_now_en": "Strength raises decision friction: don't chase if flat; don't FOMO-add if holding.",
+        "affected_symbols": [
+          "AAPL",
+          "WMT",
+          "COST",
+          "NFLX"
+        ],
+        "watch_next_zh": "区间上下沿有没有真突破，突破后能不能站稳",
+        "watch_next_en": "Whether range edges break and the breakout holds"
+      },
+      "event_timeline": [],
+      "date": "2026-07-28"
+    },
+    {
+      "id": "2026-07-27-semiconductor",
+      "title": "英伟达支撑正在承压：临界点到了",
+      "theme_label": "芯片半导体",
+      "stance_label": "多空拉锯，等待方向选择",
+      "stance": "hold_rhythm",
+      "cover_url": "/api/hot/2026-07-27-semiconductor/cover.png",
+      "chart_url": "/api/hot/2026-07-27-semiconductor/chart.png",
+      "summary": "先看结论：英伟达 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $600 / $65 附近。",
+      "movers": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "name_zh": "英伟达",
+          "change_pct": 0.0,
+          "volume_ratio": 55.4,
+          "volatility_20d": 40.9,
+          "momentum_5d": 5.0,
+          "price": null
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple",
+          "name_zh": "苹果",
+          "change_pct": 0.0,
+          "volume_ratio": 52.1,
+          "volatility_20d": 42.8,
+          "momentum_5d": 5.0,
+          "price": null
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices",
+          "name_zh": "AMD",
+          "change_pct": 0.0,
+          "volume_ratio": 58.7,
+          "volatility_20d": 83.5,
+          "momentum_5d": 5.0,
+          "price": null
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel",
+          "name_zh": "英特尔",
+          "change_pct": 0.0,
+          "volume_ratio": 82.3,
+          "volatility_20d": 87.3,
+          "momentum_5d": 5.0,
+          "price": null
+        }
+      ],
+      "top_likes": 61,
+      "lead_symbol": "NVDA",
+      "event_key": "NVDA:semiconductor",
+      "signal": {
+        "what_happened_zh": "先看结论：英伟达 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $600 / $65 附近。",
+        "what_happened_en": "NVDA is still two-sided — 芯片半导体 has no clear direction print.",
+        "why_now_zh": "方向不清时，看错比错过一天涨跌更贵，先盯几个能验证的条件。",
+        "why_now_en": "Without direction, wrong-call cost beats missing a day move — watch conditions, not noise.",
+        "affected_symbols": [
+          "NVDA",
+          "AAPL",
+          "AMD",
+          "INTC"
+        ],
+        "watch_next_zh": "区间上下沿有没有真突破，突破后能不能站稳",
+        "watch_next_en": "Whether range edges break and the breakout holds"
+      },
+      "event_timeline": [],
+      "date": "2026-07-27"
+    },
+    {
+      "id": "2026-07-27-crypto",
+      "title": "Coinbase支撑正在承压：临界点到了",
+      "theme_label": "加密相关",
+      "stance_label": "多空拉锯，等待方向选择",
+      "stance": "hold_rhythm",
+      "cover_url": "/api/hot/2026-07-27-crypto/cover.png",
+      "chart_url": "/api/hot/2026-07-27-crypto/chart.png",
+      "summary": "先看结论：Coinbase 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $148 / $200 / $300 附近。",
+      "movers": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase",
+          "name_zh": "Coinbase",
+          "change_pct": 0.0,
+          "volume_ratio": 50.8,
+          "volatility_20d": 77.5,
+          "momentum_5d": 5.0,
+          "price": null
+        }
+      ],
+      "top_likes": 46,
+      "lead_symbol": "COIN",
+      "event_key": "COIN:crypto",
+      "signal": {
+        "what_happened_zh": "先看结论：Coinbase 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $148 / $200 / $300 附近。",
+        "what_happened_en": "COIN is still two-sided — 加密相关 has no clear direction print.",
+        "why_now_zh": "方向不清时，看错比错过一天涨跌更贵，先盯几个能验证的条件。",
+        "why_now_en": "Without direction, wrong-call cost beats missing a day move — watch conditions, not noise.",
+        "affected_symbols": [
+          "COIN"
+        ],
+        "watch_next_zh": "区间上下沿有没有真突破，突破后能不能站稳",
+        "watch_next_en": "Whether range edges break and the breakout holds"
+      },
+      "event_timeline": [],
+      "date": "2026-07-27"
+    },
+    {
+      "id": "2026-07-27-ev_space",
+      "title": "特斯拉逼近决策区：结构还能撑多久？",
+      "theme_label": "新能源与航天",
+      "stance_label": "多空拉锯，等待方向选择",
+      "stance": "hold_rhythm",
+      "cover_url": "/api/hot/2026-07-27-ev_space/cover.png",
+      "chart_url": "/api/hot/2026-07-27-ev_space/chart.png",
+      "summary": "先看结论：特斯拉 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $250 / $28.24 附近。",
+      "movers": [
+        {
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "name_zh": "特斯拉",
+          "change_pct": 0.0,
+          "volume_ratio": 74.3,
+          "volatility_20d": 87.3,
+          "momentum_5d": 5.0,
+          "price": null
+        },
+        {
+          "symbol": "SPCX",
+          "name": "SpaceX",
+          "name_zh": "SpaceX",
+          "change_pct": 0.0,
+          "volume_ratio": 49.8,
+          "volatility_20d": 73.4,
+          "momentum_5d": 5.0,
+          "price": null
+        }
+      ],
+      "top_likes": 37,
+      "lead_symbol": "TSLA",
+      "event_key": "TSLA:ev_space",
+      "signal": {
+        "what_happened_zh": "先看结论：特斯拉 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $250 / $28.24 附近。",
+        "what_happened_en": "TSLA is still two-sided — 新能源与航天 has no clear direction print.",
+        "why_now_zh": "方向不清时，看错比错过一天涨跌更贵，先盯几个能验证的条件。",
+        "why_now_en": "Without direction, wrong-call cost beats missing a day move — watch conditions, not noise.",
+        "affected_symbols": [
+          "TSLA",
+          "SPCX"
+        ],
+        "watch_next_zh": "区间上下沿有没有真突破，突破后能不能站稳",
+        "watch_next_en": "Whether range edges break and the breakout holds"
+      },
+      "event_timeline": [],
+      "date": "2026-07-27"
+    }
+  ]
+}

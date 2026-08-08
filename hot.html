@@ -1,27 +1,141 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Hot Signals</title><style>
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Signals · Stock Destiny</title><style>
 :root{--bg:#0b1020;--card:#141a2e;--text:#eef2ff;--muted:#9aa6c3;--accent:#f0c674;--warn:#fbbf24;--bad:#fb7185;--ok:#86efac;--line:#243049;--sky:#7dd3fc}
-*{box-sizing:border-box}body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;background:linear-gradient(180deg,#0b1020,#121933 40%,#0b1020);color:var(--text);line-height:1.55}
-a{color:var(--accent)}header,main{max-width:920px;margin:0 auto;padding:24px 20px}
-h1{font-size:1.55rem;margin:0 0 8px}p.lead{color:var(--muted);margin:0 0 16px}
+*{box-sizing:border-box}body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,"PingFang SC","Noto Sans SC",Segoe UI,Roboto,Helvetica,Arial;background:linear-gradient(180deg,#0b1020,#121933 40%,#0b1020);color:var(--text);line-height:1.55}
+a{color:var(--accent)}header,main{max-width:960px;margin:0 auto;padding:24px 20px}
+h1{font-size:1.55rem;margin:0 0 8px}h2{font-size:1.2rem;margin:0 0 10px}p.lead{color:var(--muted);margin:0 0 16px}
 nav{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
 nav a{background:#1a2340;border:1px solid var(--line);padding:8px 12px;border-radius:10px;text-decoration:none}
 .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;margin:14px 0}
-.kicker{color:var(--accent);font-size:.78rem;letter-spacing:.06em;margin:0 0 8px}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-@media(max-width:700px){.grid{grid-template-columns:1fr}}
-.action{font-size:1.45rem;font-weight:700;color:var(--accent);margin:6px 0 0}
+.kicker{color:var(--accent);font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px;font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px}
+.opp{border:1px solid var(--line);border-radius:14px;padding:12px;background:#10182c}
+.action{font-size:1.35rem;font-weight:700;color:var(--accent);margin:6px 0 0}
 .meta{color:var(--muted);font-size:.92rem}
-.tag{display:inline-block;border-radius:999px;padding:2px 10px;font-size:.8rem;margin-right:6px;background:#243049}
-.band-high{color:var(--bad)}.band-elevated{color:var(--warn)}.band-neutral{color:var(--sky)}.band-low{color:var(--ok)}
-.changed{display:inline-block;background:rgba(251,191,36,.15);color:#fcd34d;border-radius:6px;padding:2px 8px;font-size:.75rem;font-weight:600}
-.titem{border-left:3px solid var(--accent);padding:0 0 0 12px;margin:0 0 12px}
+.tag{display:inline-block;border-radius:999px;padding:2px 10px;font-size:.8rem;margin:0 6px 6px 0;background:#243049}
 .note{color:var(--muted);font-size:.9rem}
-ul{margin:8px 0 0 18px}li{margin:4px 0}
-pre{white-space:pre-wrap;word-break:break-word;background:#0d1428;border:1px solid var(--line);border-radius:12px;padding:12px;font-size:.8rem;overflow:auto}
+ul,ol{margin:8px 0 0 18px}li{margin:4px 0}
+.row{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:baseline}
+.sym{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:700;font-size:1.1rem}
+.titem{border-left:3px solid var(--accent);padding:0 0 0 12px;margin:0 0 12px}
+.active{border-color:var(--accent)!important}
 </style></head><body>
 <header>
-  <h1>Hot Signals</h1>
-  <p class="lead">每条固定四栏；同股同事件去重。</p>
-  <nav><a href="./index.html">总览</a><a href="./amd.html">AMD</a><a href="./brief.html">Brief</a><a href="./hot.html">Hot</a></nav>
+  <h1>Signals · Stock Destiny</h1>
+  <p class="lead">静态快照 · GitHub Pages · 无隧道/Cloudflare。数据日期 2026-08-08 · 导出 2026-08-08 03:38 UTC</p>
+  <p class="note">口号：决策副驾驶 / Decision Copilot。North Star：发生了什么 · 为什么 · 下一步怎么做。</p>
+  <nav><a href="./index.html">总览</a><a href="./home.html">首页个性化</a><a href="./aapl.html">AAPL 决策卡</a><a href="./amd.html">AMD 决策卡</a><a href="./brief.html">Daily Brief</a><a href="./hot.html" class="active">Signals</a></nav>
 </header>
-<main><div class='card'><p class='kicker'>消费与零售</p><p><strong>TTD急杀后：空头结构是否坐实</strong></p><p class='note'><b>发生了什么</b> 先看结论：Trade Desk 今日明显走弱，优先确认下行结构是否成立，而不是急着抄底。 现价大约 13.80（-21.90%），先别被单日涨跌带跑。</p><p class='note'><b>为什么现在重要</b> 跌幅与波动同步抬升，会改变仓位与观察优先级，而不是一条普通新闻标题。</p><p class='note'><b>相关股票</b> TTD · ABNB · MRNA · AXON</p><p class='note'><b>接下来看什么</b> 确认K线、回踩质量与成交变化，判断震荡是否转为方向</p></div><div class='card'><p class='kicker'>芯片半导体</p><p><strong>芯片半导体领涨：MCHP还能走多远</strong></p><p class='note'><b>发生了什么</b> 先看结论：MCHP 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 84.69（+13.89%），先别被单日涨跌带跑。</p><p class='note'><b>为什么现在重要</b> 短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。</p><p class='note'><b>相关股票</b> MCHP · COHR · AKAM · HPQ</p><p class='note'><b>接下来看什么</b> 确认K线、回踩质量与成交变化，判断震荡是否转为方向</p></div><div class='card'><p class='kicker'>能源</p><p><strong>Newmont拉升7.2%：跟涨还是等回踩</strong></p><p class='note'><b>发生了什么</b> 先看结论：Newmont 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 112.98（+7.16%），先别被单日涨跌带跑。</p><p class='note'><b>为什么现在重要</b> 短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。</p><p class='note'><b>相关股票</b> NEM · ALB · TRGP · TPL</p><p class='note'><b>接下来看什么</b> 区间边界是否被有效突破，突破后能否完成回踩确认</p></div><div class='card'><p class='kicker'>金融股</p><p><strong>金融股偏强：FactSet走到哪一档</strong></p><p class='note'><b>发生了什么</b> 先看结论：FactSet 仍处结构博弈阶段，短线涨跌不足以单独定方向。 关键区域大致在 $127.4 / $26.90 / $29.31 附近。 现价大约 285.57（+4.00%），先别被单日涨跌带跑。</p><p class='note'><b>为什么现在重要</b> 短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。</p><p class='note'><b>相关股票</b> FDS · FISV · ALL · HOOD</p><p class='note'><b>接下来看什么</b> 区间边界是否被有效突破，突破后能否完成回踩确认</p></div><div class='card'><p class='kicker'>新能源与航天</p><p><strong>SpaceX大涨16%：突破还是诱多</strong></p><p class='note'><b>发生了什么</b> 先看结论：SpaceX 今日强势上冲，焦点应放在能否守住突破后的回踩带。 关键区域大致在 $250 附近。 现价大约 133.11（+15.83%），先别被单日涨跌带跑。</p><p class='note'><b>为什么现在重要</b> 短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。</p><p class='note'><b>相关股票</b> SPCX · TSLA</p><p class='note'><b>接下来看什么</b> 确认K线、回踩质量与成交变化，判断震荡是否转为方向</p></div></main></body></html>
+<main>
+
+<section class="card">
+  <p class="kicker">Signals 流</p>
+  <p class="meta">共 15 条 · 2026-08-08</p>
+</section>
+<section class="card">
+      <p><span class="tag"></span><span class="tag">observe</span></p>
+      <h2>TTD急杀后：空头结构是否坐实</h2>
+      <p>先看结论：Trade Desk 今日明显走弱，优先确认下行结构是否成立，而不是急着抄底。 现价大约 13.80（-21.90%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 跌幅与波动同步抬升，会改变仓位与观察优先级，而不是一条普通新闻标题。</p>
+      <p class="meta"><strong>影响</strong> · TTD, ABNB, MRNA, AXON</p>
+      <p class="meta"><strong>接下来看</strong> · 确认K线、回踩质量与成交变化，判断震荡是否转为方向</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">observe</span></p>
+      <h2>芯片半导体领涨：MCHP还能走多远</h2>
+      <p>先看结论：MCHP 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 84.69（+13.89%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。</p>
+      <p class="meta"><strong>影响</strong> · MCHP, COHR, AKAM, HPQ</p>
+      <p class="meta"><strong>接下来看</strong> · 确认K线、回踩质量与成交变化，判断震荡是否转为方向</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">hold_rhythm</span></p>
+      <h2>Newmont拉升7.2%：跟涨还是等回踩</h2>
+      <p>先看结论：Newmont 今日强势上冲，焦点应放在能否守住突破后的回踩带。 现价大约 112.98（+7.16%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。</p>
+      <p class="meta"><strong>影响</strong> · NEM, ALB, TRGP, TPL</p>
+      <p class="meta"><strong>接下来看</strong> · 区间边界是否被有效突破，突破后能否完成回踩确认</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">hold_rhythm</span></p>
+      <h2>金融股偏强：FactSet走到哪一档</h2>
+      <p>先看结论：FactSet 仍处结构博弈阶段，短线涨跌不足以单独定方向。 关键区域大致在 $127.4 / $26.90 / $29.31 附近。 现价大约 285.57（+4.00%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。</p>
+      <p class="meta"><strong>影响</strong> · FDS, FISV, ALL, HOOD</p>
+      <p class="meta"><strong>接下来看</strong> · 区间边界是否被有效突破，突破后能否完成回踩确认</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">observe</span></p>
+      <h2>SpaceX大涨16%：突破还是诱多</h2>
+      <p>先看结论：SpaceX 今日强势上冲，焦点应放在能否守住突破后的回踩带。 关键区域大致在 $250 附近。 现价大约 133.11（+15.83%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 短线强度抬升决策难度：未持仓要防追高，已持仓要防情绪加仓。</p>
+      <p class="meta"><strong>影响</strong> · SPCX, TSLA</p>
+      <p class="meta"><strong>接下来看</strong> · 确认K线、回踩质量与成交变化，判断震荡是否转为方向</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">hold_rhythm</span></p>
+      <h2>IQVIA支撑正在承压：临界点到了</h2>
+      <p>先看结论：IQVIA 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $410 / $290 附近。 现价大约 242.94（+13.94%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 涨得急时更容易做错：还没买的别追，手里有的别情绪加仓。</p>
+      <p class="meta"><strong>影响</strong> · IQV, INCY, CARR, HCA</p>
+      <p class="meta"><strong>接下来看</strong> · 区间上下沿有没有真突破，突破后能不能站稳</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">avoid</span></p>
+      <h2>Corning Inc.支撑正在承压：临界点到了</h2>
+      <p>先看结论：Corning Inc. 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $125 / $78.86 附近。 现价大约 126.01（-12.10%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 跌得又快又晃，仓位和观察顺序都要跟着调，不只是一条标题。</p>
+      <p class="meta"><strong>影响</strong> · GLW, COHR, STX, LITE</p>
+      <p class="meta"><strong>接下来看</strong> · 关键支撑会不会继续破，反弹能不能回到前高附近</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">avoid</span></p>
+      <h2>闪迪逼近决策区：结构还能撑多久？</h2>
+      <p>先看结论：闪迪 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $26.5 附近。 现价大约 1096.10（-14.25%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 跌得又快又晃，仓位和观察顺序都要跟着调，不只是一条标题。</p>
+      <p class="meta"><strong>影响</strong> · SNDK, GLW, COHR, SKHY</p>
+      <p class="meta"><strong>接下来看</strong> · 关键支撑会不会继续破，反弹能不能回到前高附近</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">hold_rhythm</span></p>
+      <h2>Sherwin-Williams一个信号变了：方向要变了吗？</h2>
+      <p>先看结论：Sherwin-Williams 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 现价大约 354.27（+8.25%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 涨得急时更容易做错：还没买的别追，手里有的别情绪加仓。</p>
+      <p class="meta"><strong>影响</strong> · SHW, NUE, NRG, VST</p>
+      <p class="meta"><strong>接下来看</strong> · 区间上下沿有没有真突破，突破后能不能站稳</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">avoid</span></p>
+      <h2>7.28 存储开门暴杀：风险分早就在前排</h2>
+      <p>先看硬结论：7.28 开周，存储相关高波动被一次性打出来——SNDK -21.6%，SKHY -14.9%，MU -10.1%（数据截至 7/28 收盘）。三只客观风险分均为 100，占据日榜前排。</p>
+      <p class="meta"><strong>为什么重要</strong> · 跌得又快又晃，仓位和观察顺序都要跟着调，不只是一条标题。</p>
+      <p class="meta"><strong>影响</strong> · SKHY, SNDK, MU, NVDA</p>
+      <p class="meta"><strong>接下来看</strong> · 关键支撑会不会继续破，反弹能不能回到前高附近</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">hold_rhythm</span></p>
+      <h2>Salesforce一个信号变了：方向要变了吗？</h2>
+      <p>先看结论：Salesforce 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 现价大约 176.36（+12.38%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 涨得急时更容易做错：还没买的别追，手里有的别情绪加仓。</p>
+      <p class="meta"><strong>影响</strong> · CRM, PLTR, NVDA, MSFT</p>
+      <p class="meta"><strong>接下来看</strong> · 区间上下沿有没有真突破，突破后能不能站稳</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">hold_rhythm</span></p>
+      <h2>苹果一个信号变了：方向要变了吗？</h2>
+      <p>先看结论：苹果 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $70 / $66 附近。 现价大约 335.72（+4.37%），先别被单日涨跌带跑。</p>
+      <p class="meta"><strong>为什么重要</strong> · 涨得急时更容易做错：还没买的别追，手里有的别情绪加仓。</p>
+      <p class="meta"><strong>影响</strong> · AAPL, WMT, COST, NFLX</p>
+      <p class="meta"><strong>接下来看</strong> · 区间上下沿有没有真突破，突破后能不能站稳</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">hold_rhythm</span></p>
+      <h2>英伟达支撑正在承压：临界点到了</h2>
+      <p>先看结论：英伟达 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $600 / $65 附近。</p>
+      <p class="meta"><strong>为什么重要</strong> · 方向不清时，看错比错过一天涨跌更贵，先盯几个能验证的条件。</p>
+      <p class="meta"><strong>影响</strong> · NVDA, AAPL, AMD, INTC</p>
+      <p class="meta"><strong>接下来看</strong> · 区间上下沿有没有真突破，突破后能不能站稳</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">hold_rhythm</span></p>
+      <h2>Coinbase支撑正在承压：临界点到了</h2>
+      <p>先看结论：Coinbase 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $148 / $200 / $300 附近。</p>
+      <p class="meta"><strong>为什么重要</strong> · 方向不清时，看错比错过一天涨跌更贵，先盯几个能验证的条件。</p>
+      <p class="meta"><strong>影响</strong> · COIN</p>
+      <p class="meta"><strong>接下来看</strong> · 区间上下沿有没有真突破，突破后能不能站稳</p>
+    </section><section class="card">
+      <p><span class="tag"></span><span class="tag">hold_rhythm</span></p>
+      <h2>特斯拉逼近决策区：结构还能撑多久？</h2>
+      <p>先看结论：特斯拉 更适合作为「结构交易」，不宜跟随情绪追涨杀跌。 关键区域大致在 $250 / $28.24 附近。</p>
+      <p class="meta"><strong>为什么重要</strong> · 方向不清时，看错比错过一天涨跌更贵，先盯几个能验证的条件。</p>
+      <p class="meta"><strong>影响</strong> · TSLA, SPCX</p>
+      <p class="meta"><strong>接下来看</strong> · 区间上下沿有没有真突破，突破后能不能站稳</p>
+    </section>
+
+</main></body></html>
